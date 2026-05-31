@@ -2,7 +2,7 @@
 
 ## Note
 
-The notebook contains extensive outputs generated during data exploration and analysis. Due to its size, GitHub may occasionally fail to render the notebook preview. If this happens, please download the notebook and open it Jupyter Notebook to view the complete contents.
+The notebook contains extensive outputs generated during data exploration and analysis. Due to its size, GitHub may occasionally fail to render the notebook preview. If this happens, please download the notebook and open it in Jupyter Notebook to view the complete contents.
 
 ## Overview
 
