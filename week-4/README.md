@@ -2,7 +2,6 @@
 
 ## Note
 - All resources in this assignment were created in the **Central India** region as instructed.
-- Due to permission limitations in the **Azure for Students** subscription, the **Contributor role could not be assigned**. However, IAM concepts and available roles were explored successfully.
 
 ## Overview
 This assignment focuses on understanding Azure cloud fundamentals and building an end-to-end data pipeline using Azure Storage and Azure Data Factory (ADF).
