@@ -1,0 +1,1001 @@
+user_id,full_name,transaction_date,city,region,product_category,age,subscription,price,sale_amount,quantity,store_id,status,username,email,raw_timestamp
+U2306,Varsha Singh,2023-01-07,Bangalore,West,Jewellery,58,Free,56306.19,480314.65,2,S006,,varsha.singh70,,2024-07-26 02:07:29
+U2324,Suresh Shukla,2024-11-25,Nagpur,South,Mobiles,35,Free,126960.78,139878.38,15,S015,,suresh.shukla83,suresh.shukla83@gmail.com,2024-02-14 21:21:19
+U2342,Ritu Agarwal,2024-10-28,Bhopal,Central,Books,48,Premium,68970.06,490931.82,2,S016,Pending,ritu.agarwal66,ritu.agarwal66@hotmail.com,2024-02-06 09:52:14
+U2318,Karan Chatterjee,2024-09-13,Hyderabad,West,Home & Garden,62,Free,58663.6,192373.55,6,S001,,karan.chatterjee36,karan.chatterjee36@hotmail.com,2023-08-25 03:34:50
+U2306,Tanya Chauhan,2024-01-01,Chennai,West,Clothing,61,Premium,41069.22,440539.36,15,S012,,,tanya.chauhan54@hotmail.com,2024-11-29 03:20:42
+U2004,Tanvi Pillai,2023-06-16,Chennai,West,Mobiles,20,Premium,98678.36,320078.21,10,S014,Inactive,tanvi.pillai42,tanvi.pillai42@rediffmail.com,2023-10-06 03:53:42
+U2047,Anika Pandey,2024-10-11,Hyderabad,West,Sports,22,Enterprise,131028.69,152035.55,4,S015,Pending,anika.pandey55,,2023-01-05 00:45:56
+U2085,Lakshmi Yadav,2023-03-22,Chennai,Central,Jewellery,46,Enterprise,145286.87,359902.77,12,S018,Pending,lakshmi.yadav73,lakshmi.yadav73@gmail.com,2024-11-01 12:32:08
+U2155,Varsha Mishra,2024-06-16,Delhi,East,Toys,29,Enterprise,133165.42,424157.68,12,S013,Unknown,varsha.mishra90,varsha.mishra90@gmail.com,2023-08-30 19:33:18
+U2171,Ayaan Naidu,2023-10-16,Chandigarh,West,Clothing,16,Enterprise,71544.49,133276.52,3,S019,,,ayaan.naidu45@rediffmail.com,2023-01-04 14:29:10
+U2198,Vihaan Sinha,2024-10-07,Lucknow,West,Sports,43,Basic,5585.73,109212.71,8,S001,,vihaan.sinha70,vihaan.sinha70@outlook.com,2024-04-29 18:59:04
+U2119,Sai Malhotra,2024-06-23,Lucknow,Central,Clothing,65,Premium,143308.81,335724.14,7,S020,Unknown,sai.malhotra56,sai.malhotra56@hotmail.com,2023-12-28 22:15:42
+U2258,Prachi Joshi,2024-01-22,Kochi,South,Electronics,20,Premium,147261.04,478328.32,15,S006,,prachi.joshi7,,2024-08-10 08:12:45
+U2080,Myra Menon,2024-02-15,Chandigarh,Central,Jewellery,33,Premium,73113.09,,10,S013,Unknown,myra.menon25,myra.menon25@rediffmail.com,2023-01-17 13:52:36
+U2289,Sai Verma,2023-09-22,Kolkata,Central,Toys,28,Basic,81687.93,227301.96,14,S010,,sai.verma22,sai.verma22@hotmail.com,2024-03-05 13:06:50
+U2175,Sonal Menon,2023-12-21,Kanpur,North,Groceries,62,Free,111334.63,413672.89,15,S008,Pending,,sonal.menon72@rediffmail.com,2023-05-09 04:37:17
+U2177,Uma Singh,2024-07-05,Delhi,South,Toys,39,Premium,,332497.94,11,S019,,,uma.singh70@yahoo.com,
+U2133,Karan Verma,2023-11-18,Hyderabad,West,Clothing,34,Premium,76556.54,111823.85,13,S016,Inactive,karan.verma65,karan.verma65@hotmail.com,2023-02-25 07:13:06
+U2208,Karan Bose,2023-01-20,Mumbai,South,Toys,32,Free,112265.79,62661.04,6,S011,,,karan.bose42@outlook.com,2023-02-03 22:47:15
+U2151,Kavya Tiwari,2024-03-27,Delhi,East,Sports,40,Free,95246.33,106244.38,13,S020,Inactive,kavya.tiwari8,kavya.tiwari8@gmail.com,2024-02-20 16:33:49
+U2214,Ritu Bose,2024-09-30,Hyderabad,North,Groceries,35,Enterprise,6969.54,412072.63,2,S018,Unknown,ritu.bose8,ritu.bose8@hotmail.com,2023-10-03 07:31:13
+U2309,Reyansh Menon,2024-06-13,Mumbai,Central,Clothing,38,Free,70767.51,336410.46,14,S015,,,reyansh.menon81@outlook.com,2023-04-12 19:32:40
+U2003,Sai Kapoor,2023-09-02,Chennai,South,Books,60,Basic,8557.33,100651.44,11,S004,Inactive,,sai.kapoor92@yahoo.com,2024-03-01 12:02:23
+U2191,Vikram Agarwal,2023-11-03,Delhi,East,Groceries,34,Basic,47943.99,317224.0,5,S015,,,vikram.agarwal98@outlook.com,2023-08-19 11:40:45
+U2102,Reyansh Mukherjee,2024-09-09,Chennai,North,Sports,31,Premium,90193.15,404773.19,15,S019,,,reyansh.mukherjee58@gmail.com,2024-12-17 19:52:31
+U2136,Atharv Mishra,2023-04-11,Chennai,Central,Sports,29,Free,146282.94,,14,S002,Inactive,atharv.mishra50,atharv.mishra50@yahoo.com,2024-10-17 16:22:05
+U2303,Advait Pandey,2023-02-27,Delhi,West,Sports,64,Premium,128460.15,157932.55,6,S015,Unknown,,advait.pandey80@hotmail.com,2024-09-30 07:51:02
+U2278,Ananya Yadav,2023-01-27,Hyderabad,North,Toys,47,Free,41694.34,287666.5,14,S002,,ananya.yadav99,ananya.yadav99@gmail.com,2024-07-27 11:44:28
+U2219,Vihaan Kapoor,2023-11-16,Kochi,East,Mobiles,53,Basic,97764.13,75530.6,1,S017,Active,vihaan.kapoor28,vihaan.kapoor28@gmail.com,2023-04-28 02:06:13
+U2114,Ishaan Pillai,2023-02-21,Chennai,West,Electronics,62,Free,142989.98,146701.91,10,S015,Pending,ishaan.pillai56,ishaan.pillai56@hotmail.com,2023-11-19 19:53:00
+U2003,Radha Malhotra,2023-02-17,Hyderabad,Central,Electronics,48,Enterprise,94059.46,298234.87,11,S003,Inactive,,radha.malhotra14@yahoo.com,2023-05-21 19:38:33
+U2029,Advait Kumar,2024-10-08,Visakhapatnam,South,Mobiles,46,Free,113252.14,216143.33,5,S008,Inactive,,advait.kumar66@yahoo.com,2024-07-18 06:26:11
+U2078,Uma Verma,2023-02-24,Mumbai,East,Clothing,63,Free,99067.63,124846.54,11,S019,Unknown,uma.verma51,uma.verma51@gmail.com,2023-09-23 03:43:05
+U2207,Dhruv Chatterjee,2024-04-02,Hyderabad,Central,Groceries,46,Enterprise,12530.42,447906.99,11,S001,Pending,,dhruv.chatterjee74@gmail.com,2024-10-28 18:59:05
+U2196,Tanya Mukherjee,2024-09-11,Mumbai,North,Books,18,Free,65208.96,118191.97,1,S005,,tanya.mukherjee21,tanya.mukherjee21@outlook.com,2024-06-28 16:10:39
+U2095,Vivaan Pandey,2024-06-23,Mumbai,North,Clothing,60,Premium,31525.47,190484.08,14,S018,Inactive,vivaan.pandey35,vivaan.pandey35@rediffmail.com,2024-07-18 10:25:08
+U2183,Ananya Chowdhury,2023-09-16,Bhopal,West,Home & Garden,61,Enterprise,82902.21,197073.25,14,S014,Inactive,ananya.chowdhury66,ananya.chowdhury66@hotmail.com,2024-07-25 23:40:52
+U2265,Geeta Verma,2023-04-11,Mumbai,Central,Sports,61,Premium,43137.74,261873.16,5,S002,Active,geeta.verma56,geeta.verma56@yahoo.com,2024-04-05 06:01:22
+U2204,Shreya Pillai,2024-01-30,Hyderabad,East,Jewellery,41,Basic,22970.28,320274.92,2,S016,Active,,shreya.pillai33@hotmail.com,2023-03-09 12:35:12
+U2140,Rekha Patel,2023-12-24,Delhi,Central,Mobiles,27,Premium,22376.38,151845.26,10,S011,Pending,,rekha.patel11@outlook.com,2024-08-23 16:05:19
+U2233,Nikhil Das,2024-10-27,Ahmedabad,Central,Sports,55,Enterprise,67874.38,317680.06,11,S002,,nikhil.das3,nikhil.das3@hotmail.com,2023-08-02 15:26:38
+U2035,Pooja Banerjee,2024-06-29,Hyderabad,Central,Jewellery,51,Free,103599.44,103079.8,9,S017,Active,pooja.banerjee47,,2023-04-17 19:25:31
+U2325,Uma Malhotra,2023-10-03,Pune,Central,Groceries,27,Basic,57026.83,11734.68,3,S006,,uma.malhotra56,uma.malhotra56@rediffmail.com,2023-09-03 06:52:31
+U2271,Saanvi Reddy,2023-02-19,Bangalore,West,Mobiles,49,Premium,80401.62,369013.98,6,S009,Pending,saanvi.reddy99,saanvi.reddy99@gmail.com,2023-05-18 06:58:18
+U2350,Myra Dubey,2023-10-10,Delhi,East,Home & Garden,60,Enterprise,91261.97,222148.41,15,S007,,myra.dubey75,myra.dubey75@outlook.com,2023-11-04 22:02:00
+U2187,Atharv Patil,2024-08-24,Hyderabad,East,Sports,28,Enterprise,70626.72,75407.73,14,S016,Inactive,atharv.patil38,atharv.patil38@hotmail.com,2024-07-01 09:23:09
+U2022,Karan Das,2024-01-09,Mumbai,South,Jewellery,40,Free,53220.31,475840.72,10,S014,,karan.das66,karan.das66@hotmail.com,2023-08-21 16:58:04
+U2082,Ankita Banerjee,2024-04-02,Bangalore,West,Home & Garden,35,Basic,19256.91,353858.5,7,S014,,,ankita.banerjee5@outlook.com,2023-03-06 18:45:19
+U2241,Tanvi Singh,2024-12-18,Hyderabad,West,Groceries,50,Premium,14599.96,247120.61,2,S008,,tanvi.singh52,,2023-11-17 04:58:39
+U2187,Anika Tiwari,2023-05-29,Bangalore,South,Home & Garden,46,Premium,88691.68,132568.57,2,S008,,anika.tiwari43,anika.tiwari43@outlook.com,2023-02-25 09:04:54
+U2132,Jyoti Joshi,2023-02-17,Bhopal,East,Groceries,54,Basic,41034.68,60861.46,6,S005,Unknown,jyoti.joshi72,jyoti.joshi72@hotmail.com,2024-05-23 06:59:10
+U2190,Radha Yadav,2023-08-16,Delhi,West,Jewellery,52,Premium,95109.05,105830.91,3,S016,,radha.yadav59,,2023-09-28 02:00:27
+U2040,Nikhil Nair,2023-10-14,Hyderabad,North,Mobiles,64,Basic,115332.94,402007.34,2,S002,,nikhil.nair1,nikhil.nair1@yahoo.com,2024-07-26 16:38:14
+U2004,Swati Srinivasan,2024-07-26,Hyderabad,East,Books,38,Enterprise,106603.49,168160.65,1,S013,,swati.srinivasan16,swati.srinivasan16@yahoo.com,2024-08-25 23:28:25
+U2203,Ayaan Saxena,2023-02-20,Pune,Central,Groceries,34,Enterprise,17757.06,408099.95,3,S004,Unknown,ayaan.saxena75,,2024-03-14 08:35:15
+U2160,Tanya Dubey,2024-01-28,Bangalore,Central,Toys,48,Enterprise,46096.34,190237.14,7,S018,,tanya.dubey12,tanya.dubey12@hotmail.com,2024-05-24 18:43:32
+U2283,Krishna Pandey,2024-05-20,Chandigarh,North,Electronics,23,Basic,,393227.05,14,S019,,krishna.pandey46,krishna.pandey46@outlook.com,2024-11-12 19:46:22
+U2274,Shaurya Verma,2024-08-11,Hyderabad,East,Groceries,42,Enterprise,44455.22,341169.49,14,S018,Inactive,,shaurya.verma70@rediffmail.com,2024-11-15 18:10:42
+U2016,Saanvi Srinivasan,2024-10-24,Chennai,West,Mobiles,33,Free,141146.91,4718.35,8,S004,,saanvi.srinivasan98,saanvi.srinivasan98@yahoo.com,2023-03-11 20:05:08
+U2314,Pihu Singh,2023-10-09,Nagpur,South,Home & Garden,48,Enterprise,39503.86,159674.94,1,S007,Inactive,pihu.singh42,pihu.singh42@hotmail.com,2023-05-12 01:34:46
+U2350,Kabir Mehta,2024-09-26,Mumbai,East,Toys,49,Premium,104647.28,368049.29,1,S010,,kabir.mehta60,kabir.mehta60@hotmail.com,2024-02-18 02:30:17
+U2101,Shreya Srinivasan,2024-04-02,Kochi,West,Home & Garden,52,Basic,59086.07,33140.61,3,S003,,shreya.srinivasan58,shreya.srinivasan58@outlook.com,2024-06-26 11:23:19
+U2098,Nisha Verma,2024-01-19,Bhopal,East,Books,43,Basic,21946.24,137528.7,2,S009,,nisha.verma17,nisha.verma17@rediffmail.com,2023-02-02 09:02:55
+U2175,Vivaan Iyer,2024-11-16,Chennai,West,Toys,33,Free,23927.4,457516.04,15,S004,Inactive,vivaan.iyer27,vivaan.iyer27@hotmail.com,2024-01-18 01:48:41
+U2032,Geeta Yadav,2023-09-25,Mumbai,North,Jewellery,26,Free,77008.73,132924.56,13,S006,Inactive,geeta.yadav99,geeta.yadav99@yahoo.com,
+U2208,Reyansh Chowdhury,2024-06-15,Visakhapatnam,North,Sports,29,Free,132861.1,215807.81,2,S006,Unknown,reyansh.chowdhury32,reyansh.chowdhury32@hotmail.com,2023-07-13 00:11:03
+U2101,Pranav Banerjee,2023-11-05,Mumbai,West,Books,19,Enterprise,106875.31,445590.42,11,S008,Unknown,pranav.banerjee63,pranav.banerjee63@yahoo.com,2023-02-02 09:34:43
+U2046,Rekha Dubey,2024-12-08,Visakhapatnam,East,Groceries,57,Premium,104267.98,32157.84,2,S018,Active,,,2024-07-15 03:21:27
+U2167,Karan Desai,2023-11-24,Chennai,North,Mobiles,28,Enterprise,37171.4,17125.09,9,S018,,,karan.desai31@gmail.com,2023-07-25 17:55:55
+U2203,Ritu Venkatesh,2024-07-29,Mumbai,East,Home & Garden,22,Basic,62882.19,490827.32,8,S012,Pending,ritu.venkatesh95,ritu.venkatesh95@yahoo.com,2023-04-15 13:57:41
+U2339,Ritvik Patel,2023-07-10,Delhi,North,Sports,21,Free,40800.02,408414.89,6,S011,Inactive,ritvik.patel65,ritvik.patel65@gmail.com,2024-11-04 09:11:09
+U2059,Sanjay Chatterjee,2024-04-23,Delhi,East,Books,61,Basic,18665.34,120475.59,8,S004,Inactive,sanjay.chatterjee57,sanjay.chatterjee57@gmail.com,2023-02-06 15:28:56
+U2135,Varsha Rao,2024-12-29,Hyderabad,North,Clothing,32,Basic,,97659.77,7,S011,Unknown,,varsha.rao39@outlook.com,2024-02-07 04:37:33
+U2047,Asha Banerjee,2023-07-26,Chennai,West,Home & Garden,16,Enterprise,148249.3,489566.41,9,S002,,asha.banerjee64,asha.banerjee64@gmail.com,2024-10-18 14:38:27
+U2079,Ritu Yadav,2023-11-18,Delhi,South,Books,33,Premium,127924.51,425865.52,15,S002,Pending,ritu.yadav54,ritu.yadav54@rediffmail.com,2024-12-02 05:12:48
+U2080,Varsha Iyer,2023-11-03,Mumbai,South,Sports,26,Basic,145474.93,20163.56,8,S016,Inactive,varsha.iyer64,,2024-10-09 10:16:28
+U2132,Lakshmi Sinha,2024-06-18,Chennai,Central,Sports,28,Basic,27185.92,181540.32,10,S012,Pending,lakshmi.sinha67,lakshmi.sinha67@outlook.com,2023-03-24 10:11:16
+U2019,Radha Venkatesh,2024-08-24,Hyderabad,South,Clothing,31,Free,117933.88,327323.65,4,S002,,,radha.venkatesh52@rediffmail.com,2023-11-09 11:22:10
+U2292,Ramesh Shukla,2023-04-07,Bangalore,North,Jewellery,34,Enterprise,126275.88,403780.08,14,S010,,ramesh.shukla46,ramesh.shukla46@rediffmail.com,2023-04-08 10:30:58
+U2033,Ishaan Singh,2023-08-29,Chennai,South,Groceries,29,Free,108165.79,12309.46,2,S012,Unknown,ishaan.singh64,ishaan.singh64@hotmail.com,2024-05-05 23:44:57
+U2205,Ira Yadav,2024-11-16,Hyderabad,Central,Mobiles,50,Basic,143501.79,336568.39,4,S004,Unknown,ira.yadav88,ira.yadav88@hotmail.com,2023-05-19 00:51:27
+U2303,Radha Chowdhury,2023-11-25,Bangalore,South,Groceries,25,Basic,58495.28,83018.18,2,S017,Pending,radha.chowdhury55,radha.chowdhury55@hotmail.com,2023-06-14 21:43:43
+U2223,Radha Shukla,2024-07-31,Guwahati,East,Toys,51,Premium,22079.72,176839.24,14,S014,,radha.shukla43,radha.shukla43@gmail.com,2023-06-05 22:54:04
+U2005,Sanjay Saxena,2023-09-18,Mumbai,East,Sports,36,Free,45305.1,197326.99,5,S004,Inactive,,sanjay.saxena45@rediffmail.com,2023-07-09 19:25:52
+U2254,Vihaan Mishra,2024-07-20,Chennai,Central,Groceries,52,Basic,18313.05,379796.04,2,S001,Active,,vihaan.mishra23@outlook.com,2024-04-21 03:13:38
+U2141,Divya Chatterjee,2023-06-15,Nagpur,South,Electronics,24,Premium,64656.77,453644.68,11,S009,,,divya.chatterjee92@gmail.com,2023-01-03 19:31:45
+U2254,Vivaan Gupta,2024-02-19,Delhi,Central,Home & Garden,17,Enterprise,116362.56,490109.31,9,S004,Unknown,vivaan.gupta64,vivaan.gupta64@gmail.com,2024-06-23 04:13:03
+U2196,Sai Malhotra,2024-04-18,Bangalore,East,Mobiles,17,Basic,11969.78,338716.97,7,S007,,sai.malhotra81,,2024-07-19 02:21:22
+U2047,Asha Banerjee,2023-07-26,Chennai,West,Home & Garden,16,Enterprise,148249.3,489566.41,9,S002,,asha.banerjee64,asha.banerjee64@gmail.com,2024-10-18 14:38:27
+U2060,Radha Saxena,2024-09-27,Coimbatore,Central,Clothing,26,Enterprise,24355.55,29960.41,7,S017,Unknown,,radha.saxena89@gmail.com,2023-07-04 13:09:48
+U2207,Ankita Dubey,2024-10-03,Visakhapatnam,East,Groceries,44,Premium,,399667.44,7,S009,,,ankita.dubey63@yahoo.com,2023-09-09 17:44:15
+U2215,Sanjay Gupta,2024-04-06,Mumbai,North,Books,35,Premium,123308.74,125281.0,5,S007,,,sanjay.gupta5@rediffmail.com,2024-08-11 18:10:18
+U2164,Atharv Saxena,2023-08-27,Hyderabad,North,Jewellery,50,Enterprise,79593.52,243315.59,14,S007,,atharv.saxena52,atharv.saxena52@yahoo.com,2024-12-15 04:16:42
+U2174,Meena Iyer,2024-12-09,Hyderabad,Central,Electronics,59,Basic,76830.97,63996.79,13,S007,Active,meena.iyer57,meena.iyer57@yahoo.com,2024-08-29 12:17:04
+U2207,Uma Reddy,2024-08-14,Nagpur,South,Groceries,16,Premium,96135.94,44697.75,10,S012,,uma.reddy12,uma.reddy12@rediffmail.com,2023-02-22 02:46:26
+U2002,Ramesh Shukla,2023-04-04,Mumbai,South,Toys,53,Premium,45016.94,42424.46,9,S005,,ramesh.shukla65,ramesh.shukla65@hotmail.com,2024-01-19 20:23:00
+U2127,Anika Krishnamurthy,2023-08-11,Mumbai,Central,Home & Garden,46,Basic,76334.86,68807.55,12,S004,,anika.krishnamurthy9,,2024-10-17 04:55:18
+U2152,Aditya Mishra,2023-03-19,Kolkata,South,Jewellery,38,Premium,129009.82,416350.78,7,S009,Inactive,aditya.mishra74,aditya.mishra74@yahoo.com,2023-11-16 04:16:11
+U2231,Deepa Pandey,2024-01-02,Nagpur,East,Clothing,64,Free,31185.56,392239.22,11,S009,,,deepa.pandey94@hotmail.com,2023-01-26 03:17:05
+U2319,Krishna Banerjee,2024-03-30,Hyderabad,West,Books,59,Premium,34881.76,411494.43,4,S009,Inactive,krishna.banerjee69,krishna.banerjee69@yahoo.com,2024-11-29 04:21:45
+U2156,Aditya Reddy,2023-01-07,Mumbai,East,Jewellery,50,Basic,14021.16,90094.11,4,S003,,,aditya.reddy26@outlook.com,2023-07-11 17:37:34
+U2264,Shaurya Chowdhury,2024-04-16,Chennai,South,Toys,54,Premium,9095.27,304652.5,5,S019,Unknown,shaurya.chowdhury42,shaurya.chowdhury42@yahoo.com,2023-09-24 17:36:13
+U2137,Tanvi Srinivasan,2024-07-30,Chennai,West,Books,26,Free,55214.93,490830.9,3,S016,Unknown,tanvi.srinivasan64,tanvi.srinivasan64@yahoo.com,2023-01-23 06:19:49
+U2186,Swati Banerjee,2024-01-08,Kochi,North,Toys,16,Free,119738.79,270890.48,13,S018,,,swati.banerjee54@gmail.com,2024-09-28 19:23:20
+U2056,Ananya Patil,2024-02-15,Mumbai,North,Books,30,Basic,113146.54,47394.91,11,S005,,ananya.patil39,ananya.patil39@outlook.com,2023-10-28 04:31:01
+U2168,Ankita Pillai,2024-07-24,Chennai,East,Groceries,61,Enterprise,62041.68,247605.98,5,S001,,,ankita.pillai78@yahoo.com,2024-06-29 10:55:40
+U2083,Ritvik Agarwal,2023-09-16,Delhi,West,Books,24,Basic,34327.51,19911.22,9,S009,Unknown,ritvik.agarwal35,ritvik.agarwal35@hotmail.com,2023-01-24 03:45:18
+U2272,Sita Venkatesh,2023-06-05,Mumbai,West,Groceries,54,Premium,22555.39,309626.8,2,S018,Active,sita.venkatesh17,sita.venkatesh17@gmail.com,2023-02-14 03:14:58
+U2243,Saanvi Desai,2024-07-29,Hyderabad,South,Home & Garden,31,Premium,62462.32,499238.74,3,S019,,,saanvi.desai59@yahoo.com,2024-09-28 10:49:01
+U2286,Aarush Mishra,2023-02-22,Chandigarh,West,Toys,34,Premium,119593.04,47285.87,10,S005,Inactive,aarush.mishra78,aarush.mishra78@yahoo.com,2024-10-02 16:24:19
+U2006,Sneha Menon,2024-04-01,Bangalore,East,Home & Garden,36,Premium,64575.15,286490.75,13,S013,,sneha.menon13,sneha.menon13@rediffmail.com,2023-05-08 08:40:11
+U2294,Advik Nair,2023-05-20,Mumbai,East,Home & Garden,31,Basic,30785.18,68722.43,9,S009,,advik.nair2,advik.nair2@outlook.com,2024-02-05 06:47:52
+U2038,Advait Pandey,2024-02-29,Bangalore,North,Clothing,65,Premium,122147.2,445698.5,8,S012,,advait.pandey61,advait.pandey61@yahoo.com,2023-06-06 11:01:28
+U2221,Arjun Srinivasan,2024-11-16,Delhi,West,Sports,20,Basic,79146.52,169812.64,1,S015,,,arjun.srinivasan61@hotmail.com,2024-02-10 19:49:12
+U2318,Ritvik Iyer,2023-07-26,Bangalore,South,Books,63,Free,110437.07,,5,S004,Inactive,ritvik.iyer12,ritvik.iyer12@outlook.com,2024-04-13 23:32:50
+U2196,Anika Krishnamurthy,2023-04-20,Delhi,West,Sports,36,Enterprise,124902.31,377705.71,5,S004,Unknown,,anika.krishnamurthy57@yahoo.com,2023-10-30 17:37:23
+U2350,Radha Gupta,2024-12-02,Bangalore,West,Groceries,59,Premium,,21012.71,4,S010,Inactive,radha.gupta64,radha.gupta64@yahoo.com,2024-09-05 22:41:05
+U2317,Sai Pillai,2023-09-02,Mumbai,South,Groceries,36,Premium,122403.23,301355.75,15,S016,Active,sai.pillai7,sai.pillai7@yahoo.com,2023-11-06 14:24:14
+U2307,Nikhil Shukla,2023-12-04,Nagpur,East,Books,28,Premium,81321.79,318301.53,3,S005,,nikhil.shukla18,,2023-08-08 04:50:22
+U2101,Ananya Dubey,2023-06-20,Bangalore,East,Electronics,33,Enterprise,116838.87,192020.85,11,S019,,ananya.dubey68,,2023-05-31 00:36:41
+U2261,Pradeep Shukla,2024-04-15,Chennai,South,Sports,59,Premium,60995.53,293616.94,11,S016,,pradeep.shukla68,pradeep.shukla68@hotmail.com,2023-09-29 21:13:03
+U2292,Pranav Mishra,2023-09-10,Pune,West,Toys,29,Basic,36539.83,287601.49,3,S004,,,pranav.mishra87@outlook.com,
+U2023,Shaurya Krishnamurthy,2023-06-02,Mumbai,Central,Toys,34,Enterprise,754.99,66974.19,7,S009,Active,shaurya.krishnamurthy97,shaurya.krishnamurthy97@hotmail.com,2023-12-15 16:13:05
+U2317,Priya Rao,2024-11-13,Hyderabad,East,Home & Garden,29,Basic,32871.24,2525.62,8,S004,,,priya.rao36@outlook.com,2023-10-05 14:09:53
+U2263,Kavya Shah,2023-08-31,Delhi,West,Electronics,28,Free,76069.07,181546.77,12,S016,Unknown,,kavya.shah42@rediffmail.com,2024-01-11 13:36:31
+U2292,Ahana Naidu,2023-08-08,Coimbatore,West,Electronics,64,Enterprise,17776.45,438640.21,12,S007,Unknown,ahana.naidu9,ahana.naidu9@outlook.com,2023-11-30 02:43:03
+U2220,Geeta Mukherjee,2023-08-04,Mumbai,North,Electronics,60,Basic,147356.98,20181.0,12,S007,Pending,,geeta.mukherjee89@gmail.com,2024-10-23 19:08:01
+U2142,Kabir Venkatesh,2023-09-30,Mumbai,West,Books,52,Premium,76768.4,494455.78,4,S005,Active,,kabir.venkatesh54@yahoo.com,2023-11-21 19:01:52
+U2235,Aditya Venkatesh,2024-04-14,Hyderabad,Central,Books,39,Basic,,109937.1,9,S005,Pending,aditya.venkatesh44,aditya.venkatesh44@rediffmail.com,2023-12-11 14:41:57
+U2164,Geeta Kapoor,2024-08-11,Mumbai,North,Groceries,46,Basic,35655.57,329932.36,7,S012,,geeta.kapoor26,geeta.kapoor26@hotmail.com,2024-06-04 23:51:57
+U2316,Rahul Verma,2024-05-16,Hyderabad,Central,Jewellery,27,Enterprise,10161.39,182793.09,13,S015,Unknown,,rahul.verma1@gmail.com,2023-09-01 16:16:25
+U2091,Nikhil Chatterjee,2023-09-12,Hyderabad,Central,Mobiles,28,Enterprise,54871.37,38112.76,13,S009,Pending,nikhil.chatterjee33,nikhil.chatterjee33@hotmail.com,2023-04-11 08:38:15
+U2211,Myra Rao,2024-01-06,Pune,West,Toys,60,Premium,147960.3,292328.81,14,S002,Pending,myra.rao63,myra.rao63@yahoo.com,2023-11-10 18:25:16
+U2015,Meena Reddy,2023-07-25,Hyderabad,West,Home & Garden,37,Free,41637.37,277049.12,6,S013,Unknown,meena.reddy3,meena.reddy3@gmail.com,
+U2128,Vihaan Malhotra,2023-02-23,Lucknow,South,Electronics,58,Premium,121503.0,495266.28,2,S005,Active,,vihaan.malhotra40@outlook.com,
+U2080,Myra Menon,2024-02-15,Chandigarh,Central,Jewellery,33,Premium,73113.09,,10,S013,Unknown,myra.menon25,myra.menon25@rediffmail.com,2023-01-17 13:52:36
+U2122,Neha Das,2024-11-03,Hyderabad,North,Jewellery,23,Basic,106488.93,15098.31,15,S018,Pending,neha.das14,,2024-01-19 01:21:01
+U2332,Aditya Tiwari,2024-09-20,Delhi,West,Jewellery,62,Enterprise,16691.31,106876.77,6,S002,,aditya.tiwari63,aditya.tiwari63@hotmail.com,2023-02-05 06:54:06
+U2319,Meena Bose,2023-01-11,Kolkata,North,Groceries,58,Free,27173.09,48731.73,1,S013,,meena.bose36,meena.bose36@gmail.com,2023-07-28 09:58:21
+U2330,Atharv Bose,2024-05-06,Bangalore,North,Clothing,31,Premium,40643.32,162270.86,4,S006,Unknown,atharv.bose1,atharv.bose1@yahoo.com,2024-03-07 07:23:30
+U2105,Navya Malhotra,2023-10-24,Delhi,East,Books,17,Free,,,9,S018,Inactive,navya.malhotra68,navya.malhotra68@outlook.com,2024-02-29 00:25:48
+U2215,Shaurya Pandey,2024-05-25,Nagpur,South,Sports,24,Enterprise,133700.26,269374.58,13,S004,,shaurya.pandey13,shaurya.pandey13@hotmail.com,2023-07-22 04:59:49
+U2233,Rahul Saxena,2024-04-17,Nagpur,East,Toys,27,Basic,20273.42,329507.42,8,S014,Inactive,rahul.saxena75,rahul.saxena75@rediffmail.com,2023-01-07 23:45:14
+U2132,Ananya Kapoor,2023-04-15,Mumbai,South,Toys,25,Basic,110020.56,98256.23,11,S004,,ananya.kapoor25,,2024-09-06 09:23:19
+U2047,Rekha Naidu,2023-06-24,Bangalore,North,Home & Garden,48,Basic,134187.21,410313.21,9,S014,,,rekha.naidu96@rediffmail.com,2024-11-24 17:21:30
+U2264,Sita Srinivasan,2023-12-27,Hyderabad,North,Jewellery,41,Premium,144047.37,9925.91,9,S016,,sita.srinivasan3,,2024-06-28 06:33:16
+U2190,Suresh Bose,2023-01-02,Mumbai,Central,Books,45,Enterprise,13128.41,350283.61,5,S020,Inactive,suresh.bose5,suresh.bose5@hotmail.com,2023-05-01 02:08:36
+U2030,Karan Sharma,2023-05-24,Mumbai,East,Home & Garden,22,Premium,31109.56,205797.94,10,S007,Unknown,karan.sharma88,karan.sharma88@yahoo.com,2023-11-27 14:24:26
+U2130,Ishaan Chowdhury,2023-12-23,Mumbai,West,Jewellery,31,Basic,79925.84,259358.9,14,S016,,ishaan.chowdhury90,ishaan.chowdhury90@rediffmail.com,2023-06-04 16:18:02
+U2203,Pooja Shukla,2024-11-29,Chennai,East,Electronics,27,Basic,54399.19,463661.06,12,S010,Unknown,,pooja.shukla13@rediffmail.com,2024-09-28 04:23:33
+U2033,Vikram Naidu,2023-12-02,Pune,North,Home & Garden,42,Basic,51452.5,,2,S011,Unknown,vikram.naidu43,vikram.naidu43@yahoo.com,2024-02-05 05:19:12
+U2278,Priya Singh,2023-06-03,Bangalore,East,Home & Garden,33,Free,29207.07,53531.48,7,S012,Active,priya.singh62,priya.singh62@hotmail.com,2024-11-21 05:06:19
+U2307,Advik Naidu,2023-10-01,Chennai,West,Groceries,52,Enterprise,97565.61,340181.23,11,S007,Pending,,advik.naidu28@hotmail.com,2023-03-19 13:41:13
+U2149,Kavita Patil,2023-12-10,Bangalore,South,Jewellery,42,Basic,102474.37,411503.49,3,S013,,kavita.patil5,kavita.patil5@hotmail.com,2024-04-18 23:43:41
+U2335,Meena Sharma,2023-10-21,Guwahati,Central,Electronics,31,Premium,,388604.87,6,S003,Pending,meena.sharma15,meena.sharma15@yahoo.com,2023-03-11 20:29:00
+U2302,Aarav Sinha,2023-08-02,Surat,South,Groceries,29,Premium,54635.41,465282.82,12,S002,,aarav.sinha19,aarav.sinha19@yahoo.com,2024-01-15 02:13:10
+U2202,Sneha Sinha,2023-05-13,Hyderabad,South,Mobiles,44,Free,79260.68,338949.43,1,S004,Pending,sneha.sinha21,sneha.sinha21@hotmail.com,2024-07-03 15:38:38
+U2091,Tanya Venkatesh,2024-08-14,Kolkata,Central,Groceries,17,Basic,77164.56,475460.58,7,S019,Pending,,tanya.venkatesh38@gmail.com,
+U2345,Ankita Verma,2023-04-07,Chennai,North,Clothing,65,Free,88428.53,170162.73,12,S013,Unknown,ankita.verma4,ankita.verma4@yahoo.com,2024-02-23 09:25:45
+U2340,Pradeep Ghosh,2024-04-03,Bangalore,West,Electronics,42,Free,102072.17,487251.44,6,S003,Inactive,,pradeep.ghosh5@rediffmail.com,2023-05-04 12:54:45
+U2049,Sunita Joshi,2023-12-19,Pune,East,Groceries,49,Basic,126422.9,7301.77,11,S001,Unknown,sunita.joshi95,sunita.joshi95@rediffmail.com,2023-12-31 20:41:32
+U2277,Rahul Mukherjee,2023-11-09,Delhi,West,Toys,25,Premium,59072.82,363568.76,13,S015,,rahul.mukherjee25,rahul.mukherjee25@hotmail.com,2023-02-17 21:44:39
+U2124,Aarav Patil,2024-05-28,Bangalore,Central,Groceries,44,Premium,131871.94,81673.82,14,S009,,,aarav.patil23@rediffmail.com,2023-09-14 06:25:21
+U2077,Vikram Joshi,2023-03-06,Mumbai,East,Jewellery,64,Premium,41722.75,187698.44,8,S003,Unknown,vikram.joshi91,vikram.joshi91@yahoo.com,
+U2032,Karan Bose,2024-12-26,Delhi,West,Groceries,43,Free,98617.85,260077.22,2,S002,,karan.bose59,karan.bose59@outlook.com,2023-12-15 01:11:56
+U2060,Nisha Reddy,2023-11-24,Hyderabad,West,Electronics,49,Basic,8789.48,284144.15,12,S011,Unknown,nisha.reddy20,nisha.reddy20@gmail.com,2024-02-13 16:15:33
+U2270,Nisha Mishra,2024-05-31,Kochi,West,Groceries,61,Premium,25204.09,468908.11,1,S006,,,,2023-11-24 13:06:59
+U2238,Mahesh Naidu,2023-04-08,Mumbai,North,Toys,30,Free,66416.72,434113.62,15,S005,Active,,mahesh.naidu13@yahoo.com,2024-09-11 04:58:54
+U2186,Karan Chowdhury,2024-09-20,Delhi,Central,Toys,25,Free,90381.65,57853.69,8,S015,Pending,karan.chowdhury13,,2023-07-25 15:25:34
+U2032,Anika Ghosh,2023-12-02,Hyderabad,Central,Electronics,36,Basic,83497.82,126625.78,2,S003,Unknown,anika.ghosh26,anika.ghosh26@rediffmail.com,2024-07-30 22:09:11
+U2001,Sunita Mukherjee,2024-08-16,Bangalore,East,Sports,57,Free,57990.03,71723.44,9,S005,Pending,sunita.mukherjee31,,2024-01-19 02:58:39
+U2301,Kavya Banerjee,2023-09-14,Bangalore,West,Electronics,17,Free,73126.83,16013.98,14,S002,Active,kavya.banerjee19,kavya.banerjee19@outlook.com,2023-05-03 22:37:08
+U2330,Suresh Mishra,2024-06-21,Bangalore,West,Books,45,Free,91002.8,428100.54,3,S019,Pending,suresh.mishra81,suresh.mishra81@yahoo.com,2024-03-30 04:35:00
+U2295,Radha Chatterjee,2024-02-22,Bangalore,North,Sports,34,Enterprise,26113.64,438635.85,6,S014,Pending,,radha.chatterjee75@hotmail.com,2023-03-11 10:24:23
+U2111,Jyoti Joshi,2023-02-06,Delhi,South,Home & Garden,63,Free,140922.31,339624.21,1,S012,Pending,jyoti.joshi58,jyoti.joshi58@outlook.com,2023-06-14 21:00:55
+U2328,Priya Saxena,2023-04-02,Visakhapatnam,Central,Toys,27,Enterprise,55699.57,360411.61,3,S002,,,priya.saxena30@gmail.com,2023-02-06 12:55:52
+U2009,Navya Naidu,2024-09-20,Hyderabad,North,Sports,36,Enterprise,36884.79,291363.05,8,S011,,navya.naidu96,navya.naidu96@yahoo.com,2024-05-18 00:50:42
+U2004,Swati Srinivasan,2024-07-26,Hyderabad,East,Books,38,Enterprise,106603.49,168160.65,1,S013,,swati.srinivasan16,swati.srinivasan16@yahoo.com,2024-08-25 23:28:25
+U2187,Asha Sinha,2023-12-16,Chennai,North,Books,16,Premium,84783.13,136923.83,13,S015,,asha.sinha19,asha.sinha19@rediffmail.com,2024-12-27 03:02:04
+U2272,Ananya Kumar,2023-06-02,Chennai,Central,Toys,46,Free,,116183.2,6,S010,Unknown,ananya.kumar49,ananya.kumar49@hotmail.com,2023-04-09 02:59:55
+U2183,Ramesh Nair,2023-10-25,Chennai,North,Jewellery,64,Basic,41502.06,26524.24,14,S020,,ramesh.nair13,ramesh.nair13@yahoo.com,2023-11-27 07:20:37
+U2137,Sneha Agarwal,2024-03-26,Nagpur,North,Sports,50,Basic,147899.56,305101.67,12,S019,Inactive,sneha.agarwal24,sneha.agarwal24@gmail.com,
+U2205,Anika Shukla,2023-06-22,Surat,North,Groceries,18,Enterprise,33274.55,484709.44,9,S001,Inactive,anika.shukla35,anika.shukla35@outlook.com,2024-02-26 03:41:35
+U2317,Rahul Shah,2024-06-11,Chennai,West,Mobiles,50,Free,77489.63,2660.36,9,S005,Inactive,rahul.shah44,rahul.shah44@gmail.com,2024-01-31 15:55:04
+U2215,Vihaan Banerjee,2024-03-24,Mumbai,Central,Jewellery,25,Premium,125073.98,232311.05,10,S009,,vihaan.banerjee68,,2023-09-28 23:47:52
+U2186,Pihu Banerjee,2024-01-01,Indore,Central,Home & Garden,44,Premium,43645.96,56076.85,11,S016,,pihu.banerjee14,pihu.banerjee14@yahoo.com,2024-02-09 10:26:06
+U2051,Shreya Mehta,2023-12-29,Lucknow,East,Toys,57,Basic,125207.84,21012.68,13,S016,,shreya.mehta52,shreya.mehta52@outlook.com,2023-05-02 12:48:01
+U2107,Advik Malhotra,2024-04-06,Kochi,Central,Sports,24,Premium,69641.93,113684.8,5,S012,,advik.malhotra66,advik.malhotra66@rediffmail.com,2024-12-18 07:43:39
+U2155,Sunita Kumar,2024-07-27,Ahmedabad,West,Mobiles,23,Basic,28321.06,483729.6,8,S008,Pending,sunita.kumar43,sunita.kumar43@gmail.com,2024-01-05 17:28:22
+U2069,Ritu Mukherjee,2024-06-08,Pune,South,Sports,41,Premium,44167.79,193867.45,8,S004,Active,,ritu.mukherjee63@gmail.com,2024-10-20 18:43:54
+U2107,Aditya Mehta,2023-03-02,Ahmedabad,South,Home & Garden,30,Basic,39648.89,360124.62,15,S004,Inactive,aditya.mehta25,,2023-12-04 02:58:41
+U2238,Ramesh Sharma,2023-02-19,Delhi,North,Mobiles,56,Enterprise,23096.52,,13,S004,,ramesh.sharma5,ramesh.sharma5@rediffmail.com,2024-02-02 18:43:46
+U2204,Sita Chauhan,2024-12-30,Hyderabad,West,Clothing,37,Basic,107718.81,222187.29,1,S008,Active,sita.chauhan68,sita.chauhan68@rediffmail.com,2024-03-11 00:34:36
+U2332,Diya Verma,2023-11-11,Delhi,West,Toys,21,Free,63705.93,246573.14,12,S011,,diya.verma53,diya.verma53@hotmail.com,2024-01-28 03:36:55
+U2009,Navya Naidu,2024-09-20,Hyderabad,North,Sports,36,Enterprise,36884.79,291363.05,8,S011,,navya.naidu96,navya.naidu96@yahoo.com,2024-05-18 00:50:42
+U2250,Ananya Malhotra,2023-07-14,Mumbai,North,Groceries,36,Enterprise,45139.52,317472.59,4,S003,,ananya.malhotra23,ananya.malhotra23@outlook.com,2024-03-07 04:21:45
+U2128,Geeta Ghosh,2023-07-03,Pune,North,Jewellery,34,Free,142369.5,65494.72,8,S012,,geeta.ghosh4,geeta.ghosh4@hotmail.com,2023-02-04 01:54:30
+U2229,Mahesh Gupta,2024-12-03,Bangalore,South,Books,42,Basic,57212.45,358719.11,2,S020,Pending,mahesh.gupta7,mahesh.gupta7@gmail.com,2024-04-28 18:04:46
+U2344,Mansi Dubey,2024-12-28,Ahmedabad,North,Home & Garden,21,Basic,44594.09,299195.75,5,S009,,mansi.dubey1,mansi.dubey1@rediffmail.com,2023-03-30 04:08:08
+U2311,Pranav Das,2023-06-21,Mumbai,West,Sports,33,Enterprise,26563.29,390536.74,6,S011,Unknown,,pranav.das67@hotmail.com,2023-09-11 12:52:45
+U2008,Rohan Saxena,2024-02-03,Delhi,South,Clothing,51,Enterprise,2072.52,244507.86,14,S002,Inactive,rohan.saxena65,rohan.saxena65@outlook.com,2024-03-31 09:52:28
+U2159,Uma Srinivasan,2024-06-25,Delhi,Central,Mobiles,32,Enterprise,134773.14,82829.76,9,S001,,uma.srinivasan63,uma.srinivasan63@rediffmail.com,2023-09-10 10:13:39
+U2047,Asha Banerjee,2023-07-26,Chennai,West,Home & Garden,16,Enterprise,148249.3,489566.41,9,S002,,asha.banerjee64,asha.banerjee64@gmail.com,2024-10-18 14:38:27
+U2039,Pranav Das,2023-03-31,Ahmedabad,West,Books,27,Enterprise,96897.7,45599.28,1,S015,,pranav.das88,pranav.das88@yahoo.com,2024-07-27 16:20:07
+U2203,Pooja Shukla,2024-11-29,Chennai,East,Electronics,27,Basic,54399.19,463661.06,12,S010,Unknown,,pooja.shukla13@rediffmail.com,2024-09-28 04:23:33
+U2250,Nikhil Bose,2024-03-07,Mumbai,Central,Books,37,Free,87026.29,420015.9,5,S016,,,nikhil.bose20@rediffmail.com,2024-09-30 09:47:18
+U2241,Sai Krishnamurthy,2023-07-22,Mumbai,South,Groceries,32,Basic,115584.7,434854.03,5,S018,Unknown,,sai.krishnamurthy70@rediffmail.com,2023-08-01 14:42:25
+U2315,Rohan Gupta,2023-11-08,Lucknow,East,Mobiles,22,Enterprise,96631.55,417695.2,8,S005,Unknown,rohan.gupta39,,2024-05-01 23:59:05
+U2264,Ira Iyer,2023-05-11,Chennai,South,Mobiles,63,Basic,77835.87,395795.28,14,S017,Unknown,ira.iyer59,ira.iyer59@rediffmail.com,2024-10-14 08:45:51
+U2229,Sonal Joshi,2023-10-21,Mumbai,East,Electronics,23,Premium,88036.39,242683.72,3,S013,Inactive,sonal.joshi32,sonal.joshi32@yahoo.com,2024-07-04 03:40:49
+U2350,Suresh Mukherjee,2024-03-11,Chennai,East,Toys,58,Enterprise,28269.37,482440.31,13,S011,Unknown,suresh.mukherjee51,suresh.mukherjee51@gmail.com,2024-12-30 00:20:45
+U2099,Sunita Tiwari,2023-09-03,Coimbatore,South,Sports,49,Enterprise,4444.12,,5,S016,,sunita.tiwari79,sunita.tiwari79@hotmail.com,2023-10-11 05:18:20
+U2210,Tanvi Verma,2023-09-11,Kochi,West,Electronics,40,Premium,120520.38,97631.74,2,S020,,tanvi.verma81,tanvi.verma81@gmail.com,2024-07-10 15:03:30
+U2233,Kavita Tiwari,2023-06-27,Hyderabad,Central,Clothing,61,Enterprise,44374.47,198747.87,15,S017,,kavita.tiwari6,kavita.tiwari6@outlook.com,2023-04-02 02:14:23
+U2055,Vivaan Reddy,2024-04-08,Kochi,North,Sports,29,Free,,205992.75,15,S018,Pending,vivaan.reddy43,vivaan.reddy43@rediffmail.com,2024-06-09 16:08:07
+U2286,Sanjay Banerjee,2024-07-16,Surat,East,Electronics,44,Basic,43973.04,7581.44,12,S016,Unknown,sanjay.banerjee52,sanjay.banerjee52@hotmail.com,2024-09-03 01:02:50
+U2229,Saanvi Agarwal,2023-05-21,Hyderabad,West,Books,20,Basic,31982.2,61350.47,13,S005,,saanvi.agarwal26,saanvi.agarwal26@yahoo.com,2023-06-20 13:24:49
+U2106,Uma Srinivasan,2024-06-18,Mumbai,West,Groceries,58,Free,17308.76,417509.04,8,S016,Inactive,uma.srinivasan86,,2023-01-31 15:18:36
+U2005,Myra Mukherjee,2023-02-27,Chennai,East,Jewellery,54,Enterprise,135535.17,265857.39,7,S006,Inactive,,myra.mukherjee34@gmail.com,
+U2089,Ritu Mishra,2023-03-08,Guwahati,North,Mobiles,63,Basic,148265.39,351441.99,13,S007,Inactive,ritu.mishra20,ritu.mishra20@outlook.com,2023-05-26 08:05:32
+U2084,Prachi Kumar,2024-08-17,Hyderabad,Central,Groceries,23,Enterprise,80950.8,323390.9,2,S016,Unknown,,prachi.kumar26@gmail.com,2023-01-21 19:36:37
+U2222,Radha Tiwari,2024-12-24,Hyderabad,North,Sports,38,Free,43409.17,465121.93,2,S007,,,radha.tiwari62@rediffmail.com,2024-06-01 00:12:44
+U2338,Swati Joshi,2024-09-29,Delhi,Central,Clothing,41,Basic,12869.09,40850.27,4,S016,Unknown,swati.joshi55,swati.joshi55@yahoo.com,2023-02-17 20:29:40
+U2193,Rekha Chauhan,2024-11-11,Chennai,South,Home & Garden,40,Enterprise,90581.04,81081.63,6,S003,,rekha.chauhan90,rekha.chauhan90@hotmail.com,2024-06-05 17:28:45
+U2333,Reyansh Reddy,2023-11-02,Kolkata,North,Home & Garden,41,Basic,24677.8,2561.4,6,S002,,reyansh.reddy78,,2024-02-21 05:21:42
+U2102,Krishna Pandey,2023-11-16,Jaipur,South,Jewellery,30,Free,44310.43,247983.21,3,S008,Pending,krishna.pandey64,krishna.pandey64@yahoo.com,2023-02-12 05:18:49
+U2212,Nisha Agarwal,2024-01-03,Kanpur,South,Groceries,21,Basic,98811.65,,14,S019,Inactive,,nisha.agarwal36@hotmail.com,2023-09-05 11:21:07
+U2076,Atharv Ghosh,2023-12-27,Lucknow,West,Jewellery,54,Premium,144918.58,112592.87,6,S013,Inactive,atharv.ghosh37,atharv.ghosh37@gmail.com,2024-04-06 21:38:09
+U2150,Swati Ghosh,2023-08-27,Delhi,Central,Sports,20,Free,26746.07,387544.1,11,S001,Active,swati.ghosh6,swati.ghosh6@gmail.com,2023-04-20 19:19:05
+U2102,Navya Malhotra,2024-07-13,Kochi,Central,Sports,58,Enterprise,48031.11,426404.14,8,S015,Unknown,navya.malhotra87,navya.malhotra87@gmail.com,2024-04-30 04:49:10
+U2168,Sneha Dubey,2024-08-24,Hyderabad,South,Groceries,29,Enterprise,21845.49,145552.36,1,S019,,sneha.dubey59,sneha.dubey59@rediffmail.com,2024-11-05 15:00:32
+U2269,Advait Chowdhury,2023-08-02,Ahmedabad,South,Toys,25,Free,83819.46,213541.85,11,S001,Active,,advait.chowdhury44@yahoo.com,2023-08-21 19:05:33
+U2058,Sneha Mehta,2023-01-26,Mumbai,East,Books,20,Enterprise,,487702.36,9,S001,,sneha.mehta41,sneha.mehta41@gmail.com,2024-07-14 18:53:56
+U2061,Rajesh Menon,2024-11-29,Mumbai,East,Groceries,23,Premium,29311.4,133690.36,3,S015,,rajesh.menon63,rajesh.menon63@hotmail.com,2024-06-08 06:05:08
+U2076,Aarav Sharma,2023-03-22,Hyderabad,North,Books,28,Basic,15768.2,71954.71,11,S002,Inactive,aarav.sharma64,aarav.sharma64@outlook.com,2023-01-16 12:32:04
+U2207,Pranav Krishnamurthy,2024-11-05,Hyderabad,Central,Electronics,23,Enterprise,147992.76,23073.53,15,S014,,pranav.krishnamurthy13,,2024-11-28 03:03:08
+U2015,Meena Reddy,2023-07-25,Hyderabad,West,Home & Garden,37,Free,41637.37,277049.12,6,S013,Unknown,meena.reddy3,meena.reddy3@gmail.com,
+U2249,Ayaan Venkatesh,2023-11-26,Kochi,East,Home & Garden,44,Enterprise,71165.15,8134.12,1,S019,Pending,,ayaan.venkatesh10@yahoo.com,2024-02-27 09:05:35
+U2049,Shweta Banerjee,2024-08-25,Delhi,South,Groceries,42,Free,57584.2,336592.99,11,S005,Unknown,shweta.banerjee24,shweta.banerjee24@yahoo.com,2023-01-01 20:28:42
+U2013,Meena Chauhan,2024-08-08,Chennai,South,Books,42,Premium,50718.49,217197.1,12,S002,,,meena.chauhan46@outlook.com,2024-04-10 23:26:59
+U2229,Shreya Das,2023-06-29,Kochi,East,Books,17,Free,7957.19,419195.83,1,S013,,shreya.das20,,2023-05-02 00:11:20
+U2234,Rahul Joshi,2024-06-16,Chennai,Central,Electronics,39,Enterprise,144318.72,131031.01,14,S016,,rahul.joshi89,rahul.joshi89@hotmail.com,2024-06-29 23:28:46
+U2064,Aditya Banerjee,2024-04-29,Mumbai,South,Mobiles,30,Premium,82958.37,35425.18,5,S014,Pending,aditya.banerjee47,aditya.banerjee47@gmail.com,2023-03-17 19:08:08
+U2154,Asha Pillai,2023-05-25,Hyderabad,East,Clothing,37,Premium,50807.07,469952.54,4,S001,,asha.pillai52,asha.pillai52@rediffmail.com,2024-12-19 18:59:42
+U2193,Ahana Menon,2023-03-22,Visakhapatnam,Central,Home & Garden,24,Enterprise,101703.79,182075.38,3,S003,,,ahana.menon71@rediffmail.com,2023-03-10 11:48:46
+U2217,Karan Ghosh,2024-10-22,Chennai,East,Sports,40,Free,19366.58,499272.03,14,S015,Unknown,karan.ghosh7,karan.ghosh7@hotmail.com,2024-08-20 23:18:06
+U2217,Riya Agarwal,2024-05-21,Chennai,West,Jewellery,37,Basic,101083.42,449621.7,12,S004,Pending,riya.agarwal21,riya.agarwal21@rediffmail.com,2024-02-28 14:14:35
+U2085,Kabir Ghosh,2024-11-03,Delhi,Central,Jewellery,50,Premium,5971.71,364427.42,3,S017,,kabir.ghosh10,kabir.ghosh10@outlook.com,2023-05-24 18:06:46
+U2192,Rekha Das,2024-01-13,Delhi,West,Sports,27,Enterprise,91368.87,256132.08,9,S011,,rekha.das89,rekha.das89@rediffmail.com,2024-10-18 09:42:19
+U2035,Pooja Banerjee,2024-06-29,Hyderabad,Central,Jewellery,51,Free,103599.44,103079.8,9,S017,Active,pooja.banerjee47,,2023-04-17 19:25:31
+U2030,Divya Chauhan,2023-02-09,Coimbatore,Central,Electronics,62,Free,105763.45,262704.74,11,S008,,divya.chauhan31,,2023-09-19 12:44:54
+U2059,Rohan Mukherjee,2024-10-06,Chandigarh,Central,Sports,56,Basic,144951.68,383142.38,5,S009,Inactive,rohan.mukherjee48,rohan.mukherjee48@rediffmail.com,2024-11-27 18:51:54
+U2088,Geeta Singh,2024-02-01,Kanpur,East,Books,23,Basic,82834.37,471488.88,15,S013,Pending,geeta.singh31,geeta.singh31@outlook.com,2023-06-06 19:03:13
+U2070,Tanvi Saxena,2023-01-14,Chennai,South,Clothing,56,Enterprise,38854.07,266669.43,12,S002,Active,,tanvi.saxena56@yahoo.com,2024-06-20 21:03:13
+U2292,Pranav Mishra,2023-09-10,Pune,West,Toys,29,Basic,36539.83,287601.49,3,S004,,,pranav.mishra87@outlook.com,
+U2167,Ishaan Chatterjee,2023-11-06,Indore,South,Jewellery,50,Premium,21573.88,499980.08,9,S006,Inactive,,ishaan.chatterjee26@gmail.com,2023-10-08 22:48:21
+U2158,Anika Mishra,2024-04-03,Ahmedabad,East,Jewellery,45,Free,83674.0,234362.13,13,S016,Active,anika.mishra15,anika.mishra15@hotmail.com,2024-01-15 17:18:54
+U2291,Swati Chatterjee,2024-11-08,Delhi,East,Toys,22,Premium,122958.04,452001.57,2,S010,,swati.chatterjee33,swati.chatterjee33@rediffmail.com,2023-08-22 05:32:54
+U2079,Sneha Menon,2023-11-20,Bangalore,East,Mobiles,54,Premium,30776.1,282824.08,10,S019,Inactive,sneha.menon11,sneha.menon11@outlook.com,2024-09-28 00:06:40
+U2323,Neha Malhotra,2024-08-13,Bangalore,East,Books,52,Premium,149666.2,34407.88,8,S014,Active,neha.malhotra82,neha.malhotra82@hotmail.com,2024-12-21 11:48:40
+U2128,Asha Nair,2024-07-10,Delhi,Central,Books,22,Enterprise,107622.68,319702.79,14,S012,Unknown,asha.nair5,asha.nair5@yahoo.com,2024-08-15 09:47:20
+U2258,Mahesh Malhotra,2023-07-29,Hyderabad,South,Home & Garden,54,Enterprise,55262.56,304180.17,4,S005,,mahesh.malhotra61,,2024-07-25 14:53:04
+U2246,Sanjay Rao,2023-11-12,Bangalore,South,Home & Garden,27,Enterprise,124305.04,349585.29,4,S004,,sanjay.rao8,sanjay.rao8@gmail.com,
+U2284,Kavita Reddy,2024-03-11,Hyderabad,East,Jewellery,58,Free,2670.47,164688.48,5,S014,,,kavita.reddy5@gmail.com,2023-02-12 20:22:46
+U2138,Atharv Singh,2024-02-24,Visakhapatnam,East,Toys,19,Free,132565.86,9302.95,13,S012,,atharv.singh51,atharv.singh51@gmail.com,2023-05-02 14:37:04
+U2116,Pranav Banerjee,2023-06-05,Ahmedabad,South,Clothing,20,Free,2650.95,445111.29,1,S009,Pending,pranav.banerjee98,,2023-03-12 02:15:51
+U2086,Vivaan Sinha,2023-05-14,Delhi,East,Books,43,Basic,34941.89,109132.9,14,S011,Active,vivaan.sinha47,vivaan.sinha47@gmail.com,2024-04-17 06:08:43
+U2288,Dhruv Das,2023-12-30,Coimbatore,East,Home & Garden,21,Basic,,11677.24,9,S009,Inactive,,dhruv.das83@yahoo.com,2023-07-23 16:12:01
+U2306,Varsha Singh,2023-01-07,Bangalore,West,Jewellery,58,Free,56306.19,480314.65,2,S006,,varsha.singh70,,2024-07-26 02:07:29
+U2237,Sai Desai,2024-06-21,Bangalore,Central,Electronics,20,Basic,78541.07,251402.96,4,S014,,sai.desai38,sai.desai38@hotmail.com,2024-08-08 14:47:47
+U2116,Shaurya Tiwari,2024-04-26,Delhi,West,Electronics,46,Free,12808.3,454906.61,13,S007,Pending,shaurya.tiwari14,shaurya.tiwari14@gmail.com,2024-07-14 15:47:17
+U2240,Prachi Verma,2024-12-04,Indore,South,Jewellery,58,Basic,21840.89,472799.99,12,S002,,prachi.verma83,prachi.verma83@yahoo.com,
+U2248,Divya Naidu,2024-01-04,Ahmedabad,South,Toys,31,Premium,127464.51,129379.49,11,S013,Inactive,divya.naidu52,divya.naidu52@outlook.com,2024-07-20 14:22:31
+U2341,Atharv Dubey,2024-09-05,Hyderabad,East,Toys,21,Free,2085.78,267180.81,2,S010,Pending,atharv.dubey91,atharv.dubey91@rediffmail.com,2024-12-05 15:20:31
+U2276,Ira Chatterjee,2023-08-22,Bangalore,West,Books,58,Enterprise,40795.47,133711.63,13,S010,Active,,ira.chatterjee40@hotmail.com,2024-06-30 08:13:44
+U2065,Aditya Shukla,2024-05-28,Bangalore,East,Home & Garden,55,Free,128146.36,179029.57,5,S010,,,aditya.shukla56@outlook.com,2023-03-10 18:47:11
+U2081,Advait Sinha,2023-11-13,Chennai,North,Mobiles,47,Enterprise,112530.6,118241.73,3,S008,,,advait.sinha16@hotmail.com,2023-03-13 21:52:33
+U2274,Ritvik Ghosh,2024-03-18,Chennai,South,Electronics,30,Basic,47800.49,359628.09,1,S003,Inactive,ritvik.ghosh42,ritvik.ghosh42@yahoo.com,2024-06-22 04:15:05
+U2216,Ayaan Verma,2023-07-11,Delhi,West,Electronics,38,Basic,14211.69,329075.08,11,S001,,ayaan.verma30,ayaan.verma30@yahoo.com,2024-01-31 10:01:24
+U2231,Deepa Pandey,2024-01-02,Nagpur,East,Clothing,64,Free,31185.56,392239.22,11,S009,,,deepa.pandey94@hotmail.com,2023-01-26 03:17:05
+U2127,Shweta Menon,2024-01-10,Bangalore,Central,Sports,60,Basic,110601.13,485116.71,9,S020,,shweta.menon93,shweta.menon93@hotmail.com,2024-01-31 01:08:52
+U2152,Aarush Chauhan,2024-08-26,Chennai,South,Electronics,57,Free,60100.17,370274.34,12,S007,Inactive,aarush.chauhan46,aarush.chauhan46@gmail.com,2023-10-18 17:51:59
+U2010,Vivaan Chatterjee,2023-12-15,Bangalore,East,Electronics,65,Basic,119210.4,52606.05,14,S011,Pending,vivaan.chatterjee69,vivaan.chatterjee69@outlook.com,2024-02-17 09:02:12
+U2226,Vikram Pandey,2023-07-18,Surat,West,Toys,48,Free,36451.38,328735.77,15,S005,,vikram.pandey97,vikram.pandey97@gmail.com,2024-10-14 05:33:38
+U2266,Ahana Menon,2024-04-20,Chennai,East,Groceries,35,Premium,102970.67,197599.2,12,S008,Active,ahana.menon89,ahana.menon89@gmail.com,2023-09-15 20:17:49
+U2304,Rahul Pandey,2024-11-21,Mumbai,South,Jewellery,63,Premium,84981.06,337211.23,6,S007,Pending,rahul.pandey74,rahul.pandey74@rediffmail.com,2023-02-07 15:07:28
+U2136,Pihu Menon,2023-04-25,Kanpur,West,Books,40,Premium,22868.69,196660.38,2,S007,Unknown,pihu.menon67,pihu.menon67@gmail.com,2023-07-23 01:36:01
+U2289,Sai Chauhan,2024-03-22,Delhi,Central,Mobiles,34,Free,135515.58,55033.16,13,S003,Active,sai.chauhan52,sai.chauhan52@hotmail.com,2023-03-10 00:26:21
+U2334,Neha Desai,2024-09-27,Mumbai,West,Jewellery,49,Premium,6723.44,452376.73,9,S006,Inactive,neha.desai14,neha.desai14@gmail.com,2024-09-21 09:13:21
+U2289,Sai Verma,2023-09-22,Kolkata,Central,Toys,28,Basic,81687.93,227301.96,14,S010,,sai.verma22,sai.verma22@hotmail.com,2024-03-05 13:06:50
+U2049,Ahana Mukherjee,2024-04-22,Lucknow,South,Mobiles,17,Enterprise,34724.36,305658.66,10,S004,,,ahana.mukherjee6@hotmail.com,2024-08-06 18:01:42
+U2287,Rahul Yadav,2023-03-02,Jaipur,South,Mobiles,28,Enterprise,53586.39,416946.1,7,S014,,rahul.yadav51,rahul.yadav51@yahoo.com,2024-09-22 03:19:54
+U2185,Varsha Rao,2023-08-13,Pune,East,Groceries,47,Free,149965.99,192783.3,14,S005,Active,varsha.rao46,varsha.rao46@gmail.com,2024-01-05 04:23:50
+U2060,Sonal Desai,2023-01-14,Bangalore,West,Books,37,Premium,69272.15,87412.1,6,S020,,,sonal.desai39@outlook.com,2024-12-16 14:38:34
+U2084,Radha Pillai,2024-07-14,Mumbai,Central,Mobiles,22,Basic,149275.22,215726.37,3,S013,Unknown,radha.pillai48,radha.pillai48@rediffmail.com,
+U2289,Sai Chauhan,2024-03-22,Delhi,Central,Mobiles,34,Free,135515.58,55033.16,13,S003,Active,sai.chauhan52,sai.chauhan52@hotmail.com,2023-03-10 00:26:21
+U2081,Rajesh Das,2023-12-09,Surat,East,Jewellery,60,Basic,,360281.13,13,S004,,rajesh.das9,rajesh.das9@hotmail.com,2023-12-06 18:18:40
+U2062,Vihaan Patil,2023-03-03,Delhi,Central,Groceries,32,Free,135438.34,427871.03,13,S006,Unknown,,vihaan.patil18@yahoo.com,2024-10-29 20:28:58
+U2052,Asha Das,2024-08-10,Bangalore,Central,Books,20,Enterprise,110193.6,133645.03,4,S012,Inactive,asha.das13,asha.das13@gmail.com,2024-05-18 08:37:39
+U2036,Rekha Ghosh,2023-01-24,Mumbai,North,Groceries,60,Free,45175.69,43871.14,4,S015,Unknown,rekha.ghosh9,rekha.ghosh9@gmail.com,2023-06-26 19:53:29
+U2069,Pradeep Nair,2023-08-13,Chennai,North,Home & Garden,18,Premium,139015.57,226416.62,2,S019,Pending,pradeep.nair17,pradeep.nair17@gmail.com,2024-01-10 10:43:09
+U2342,Deepa Shah,2023-09-04,Hyderabad,West,Toys,23,Basic,121205.9,182840.47,6,S019,,deepa.shah31,deepa.shah31@yahoo.com,2023-11-26 19:36:31
+U2244,Vikram Patel,2024-05-10,Visakhapatnam,South,Toys,35,Basic,102232.13,235224.24,1,S012,Unknown,vikram.patel12,vikram.patel12@gmail.com,2023-12-09 10:47:34
+U2016,Priya Chatterjee,2023-04-01,Ahmedabad,Central,Groceries,25,Free,30640.41,343080.92,12,S003,Active,priya.chatterjee53,priya.chatterjee53@hotmail.com,2024-08-06 16:15:04
+U2141,Sneha Chauhan,2023-09-25,Mumbai,Central,Toys,35,Free,,414102.09,5,S001,,sneha.chauhan76,sneha.chauhan76@hotmail.com,2024-06-11 01:29:43
+U2228,Prachi Sinha,2023-09-07,Chennai,Central,Books,49,Basic,88868.77,191120.18,14,S009,,prachi.sinha15,prachi.sinha15@gmail.com,2023-02-14 08:03:39
+U2270,Divya Naidu,2023-06-23,Jaipur,South,Groceries,58,Enterprise,142109.43,326115.15,15,S002,,divya.naidu27,divya.naidu27@gmail.com,2024-06-29 17:49:08
+U2331,Saanvi Venkatesh,2024-05-10,Delhi,East,Electronics,28,Free,66247.9,235468.54,6,S009,Pending,,saanvi.venkatesh91@yahoo.com,2024-09-19 05:53:54
+U2119,Varsha Sharma,2023-03-24,Nagpur,South,Jewellery,24,Premium,68081.28,2802.29,3,S020,Unknown,varsha.sharma84,varsha.sharma84@outlook.com,2024-05-26 00:04:33
+U2214,Suresh Venkatesh,2023-08-22,Delhi,North,Books,24,Enterprise,19708.89,287059.61,3,S006,Active,suresh.venkatesh75,suresh.venkatesh75@yahoo.com,2024-04-28 18:33:50
+U2296,Geeta Bose,2024-09-21,Hyderabad,South,Home & Garden,29,Premium,103232.61,378825.96,5,S020,,,geeta.bose62@outlook.com,2024-10-28 18:49:01
+U2170,Ananya Iyer,2024-08-24,Mumbai,Central,Mobiles,35,Free,107131.56,7005.41,11,S013,Pending,ananya.iyer32,ananya.iyer32@outlook.com,2023-10-28 18:36:28
+U2314,Priya Shah,2024-12-28,Lucknow,South,Clothing,17,Basic,79469.37,179050.81,6,S014,,priya.shah54,priya.shah54@rediffmail.com,2023-06-28 15:34:06
+U2114,Ishaan Das,2023-03-16,Delhi,North,Home & Garden,33,Premium,29547.35,394801.5,6,S009,Active,,ishaan.das28@hotmail.com,2024-06-20 03:54:05
+U2011,Vivaan Pillai,2024-09-07,Hyderabad,Central,Groceries,19,Basic,103284.6,323139.1,9,S017,Active,vivaan.pillai57,vivaan.pillai57@yahoo.com,2024-07-19 18:02:13
+U2242,Sonal Ghosh,2024-07-03,Lucknow,South,Groceries,31,Premium,1725.88,57410.74,8,S006,Inactive,,sonal.ghosh70@hotmail.com,2024-09-03 18:51:23
+U2008,Sai Desai,2024-06-23,Nagpur,Central,Home & Garden,33,Premium,84882.9,135574.97,8,S007,,sai.desai17,,2024-06-08 01:09:55
+U2148,Aarav Banerjee,2024-12-03,Nagpur,North,Toys,63,Basic,83361.09,338393.78,7,S018,Inactive,aarav.banerjee33,aarav.banerjee33@outlook.com,2024-11-23 01:05:38
+U2064,Rajesh Reddy,2023-02-09,Bangalore,South,Mobiles,61,Premium,6528.19,347354.62,1,S006,,rajesh.reddy20,rajesh.reddy20@yahoo.com,2024-12-20 01:17:55
+U2304,Reyansh Shukla,2024-10-13,Mumbai,East,Books,23,Enterprise,36576.12,107335.05,12,S005,Active,reyansh.shukla34,reyansh.shukla34@gmail.com,2023-03-02 00:53:37
+U2038,Suresh Kapoor,2023-02-12,Bhopal,South,Books,30,Basic,120760.03,88794.0,2,S008,Pending,,suresh.kapoor68@gmail.com,2023-04-14 23:28:07
+U2253,Riya Saxena,2024-07-24,Bangalore,North,Electronics,52,Enterprise,102751.41,373434.55,14,S006,Pending,,riya.saxena20@outlook.com,2024-12-22 16:12:26
+U2115,Vivaan Malhotra,2023-09-19,Mumbai,East,Groceries,28,Enterprise,138938.36,445919.95,2,S007,Active,,vivaan.malhotra80@outlook.com,2023-11-15 23:47:02
+U2250,Pooja Chatterjee,2023-12-10,Bangalore,South,Sports,36,Enterprise,146473.99,209400.78,14,S001,,pooja.chatterjee67,pooja.chatterjee67@outlook.com,2023-02-25 22:23:20
+U2331,Neha Joshi,2024-11-10,Hyderabad,South,Groceries,47,Free,121283.22,161386.02,10,S002,,,neha.joshi8@hotmail.com,2024-09-28 01:34:52
+U2151,Kabir Krishnamurthy,2024-12-09,Chennai,West,Home & Garden,45,Basic,62396.76,305003.19,11,S008,Pending,,kabir.krishnamurthy74@gmail.com,2023-02-03 18:04:38
+U2242,Reyansh Krishnamurthy,2023-03-02,Delhi,East,Sports,43,Premium,111565.54,116515.34,14,S001,,reyansh.krishnamurthy42,reyansh.krishnamurthy42@yahoo.com,2023-01-20 09:17:08
+U2178,Rahul Verma,2024-02-10,Mumbai,East,Books,17,Enterprise,48354.29,391387.2,7,S013,Pending,,rahul.verma36@outlook.com,2024-11-06 12:36:34
+U2133,Mahesh Banerjee,2023-07-13,Mumbai,East,Sports,65,Premium,146124.67,274833.01,6,S017,,mahesh.banerjee71,mahesh.banerjee71@rediffmail.com,2023-09-08 18:31:13
+U2235,Diya Yadav,2023-07-09,Hyderabad,North,Home & Garden,39,Free,82106.3,482840.25,5,S007,,diya.yadav6,,2024-05-24 13:03:34
+U2161,Myra Rao,2024-07-09,Mumbai,Central,Mobiles,40,Free,149884.76,426626.63,11,S004,Inactive,myra.rao45,myra.rao45@gmail.com,2023-10-14 15:56:41
+U2135,Varsha Kumar,2024-11-17,Bhopal,Central,Books,26,Premium,16730.95,137988.77,7,S005,Unknown,,varsha.kumar26@gmail.com,2024-12-05 13:01:11
+U2316,Nisha Shah,2023-10-28,Delhi,East,Home & Garden,38,Premium,14298.11,490441.04,11,S016,,nisha.shah24,nisha.shah24@hotmail.com,2023-07-13 23:37:44
+U2022,Nikhil Mehta,2024-07-10,Hyderabad,South,Sports,47,Enterprise,82700.49,100762.61,13,S007,Unknown,nikhil.mehta18,nikhil.mehta18@hotmail.com,2023-12-24 15:27:58
+U2236,Jyoti Bose,2023-08-08,Lucknow,South,Clothing,22,Premium,3995.74,113702.08,2,S020,Active,,jyoti.bose61@outlook.com,2024-01-06 05:22:08
+U2222,Vikram Shukla,2024-08-24,Jaipur,West,Books,51,Premium,57505.96,371681.75,1,S010,Pending,vikram.shukla18,,2023-04-13 04:17:48
+U2282,Anika Banerjee,2023-11-28,Hyderabad,East,Clothing,49,Free,68588.75,47517.17,13,S018,Unknown,anika.banerjee18,,2023-03-17 16:16:12
+U2211,Kavita Menon,2024-05-24,Nagpur,West,Jewellery,26,Free,42818.29,381622.96,6,S014,Inactive,kavita.menon89,,2024-01-02 06:17:23
+U2260,Riya Sinha,2023-09-07,Chennai,West,Home & Garden,52,Basic,51934.3,371054.08,13,S010,Pending,riya.sinha2,riya.sinha2@hotmail.com,2024-11-17 10:27:12
+U2140,Varsha Venkatesh,2024-04-05,Mumbai,East,Home & Garden,41,Enterprise,26065.42,439056.97,14,S015,,varsha.venkatesh89,varsha.venkatesh89@yahoo.com,2023-06-12 05:38:53
+U2104,Sneha Mehta,2023-12-04,Kolkata,West,Toys,41,Enterprise,135206.87,12989.55,10,S019,Pending,sneha.mehta86,sneha.mehta86@outlook.com,2023-02-20 13:27:48
+U2338,Swati Joshi,2024-09-29,Delhi,Central,Clothing,41,Basic,12869.09,40850.27,4,S016,Unknown,swati.joshi55,swati.joshi55@yahoo.com,2023-02-17 20:29:40
+U2047,Sita Desai,2024-04-25,Guwahati,Central,Toys,51,Premium,66985.88,,6,S008,Pending,sita.desai45,sita.desai45@hotmail.com,2024-11-17 15:42:08
+U2072,Rajesh Verma,2024-03-01,Mumbai,South,Toys,44,Free,149629.72,164755.53,3,S017,,rajesh.verma77,rajesh.verma77@hotmail.com,2023-12-10 15:35:20
+U2226,Ritvik Rao,2024-07-26,Delhi,East,Jewellery,25,Enterprise,145093.36,256431.24,10,S012,Unknown,,ritvik.rao93@rediffmail.com,2023-09-21 02:09:27
+U2242,Uma Rao,2024-02-14,Kanpur,Central,Books,34,Enterprise,17331.44,,14,S016,Pending,uma.rao3,uma.rao3@gmail.com,2024-08-11 11:19:51
+U2341,Atharv Dubey,2024-09-05,Hyderabad,East,Toys,21,Free,2085.78,267180.81,2,S010,Pending,atharv.dubey91,atharv.dubey91@rediffmail.com,2024-12-05 15:20:31
+U2051,Atharv Yadav,2023-05-16,Delhi,East,Books,37,Enterprise,52700.03,24394.34,13,S012,,atharv.yadav62,atharv.yadav62@hotmail.com,2023-01-25 01:32:03
+U2164,Ishaan Das,2024-04-23,Delhi,West,Sports,38,Free,21194.93,42740.92,2,S014,Pending,ishaan.das29,ishaan.das29@rediffmail.com,2024-02-16 07:57:20
+U2188,Advik Pandey,2024-04-17,Chennai,West,Electronics,55,Free,24076.47,456153.87,15,S013,Inactive,advik.pandey57,advik.pandey57@outlook.com,2023-06-12 19:32:39
+U2006,Pooja Pandey,2024-10-18,Visakhapatnam,Central,Home & Garden,51,Free,84849.95,177413.24,2,S002,,,pooja.pandey54@gmail.com,2023-12-20 10:51:44
+U2059,Ritvik Pandey,2024-10-15,Mumbai,Central,Groceries,43,Free,138689.37,183174.55,9,S002,,ritvik.pandey47,ritvik.pandey47@yahoo.com,2023-09-13 23:43:49
+U2233,Swati Mehta,2024-04-24,Mumbai,North,Jewellery,59,Premium,38304.46,286795.47,1,S004,Inactive,,swati.mehta48@outlook.com,2023-09-06 17:57:34
+U2252,Kavya Yadav,2024-02-18,Bangalore,Central,Books,29,Enterprise,49701.35,149749.92,10,S003,,kavya.yadav46,kavya.yadav46@outlook.com,2023-02-08 14:28:02
+U2133,Sai Agarwal,2024-05-29,Hyderabad,West,Toys,36,Enterprise,128044.37,256880.15,12,S005,,sai.agarwal19,sai.agarwal19@gmail.com,2024-10-04 12:09:14
+U2220,Saanvi Verma,2023-04-22,Chandigarh,South,Toys,45,Free,31881.67,144313.78,8,S019,Unknown,saanvi.verma56,saanvi.verma56@outlook.com,
+U2086,Suresh Venkatesh,2023-08-23,Kanpur,East,Jewellery,21,Basic,635.04,199306.34,4,S014,Active,suresh.venkatesh52,suresh.venkatesh52@yahoo.com,2024-06-04 22:05:36
+U2028,Karan Iyer,2023-06-13,Bangalore,North,Jewellery,26,Free,121660.21,68936.77,9,S015,,karan.iyer23,karan.iyer23@outlook.com,2023-01-03 23:45:26
+U2242,Kavya Mehta,2023-05-10,Hyderabad,West,Groceries,58,Premium,86763.4,22803.96,12,S003,Active,kavya.mehta76,kavya.mehta76@hotmail.com,2024-06-24 04:35:00
+U2007,Ananya Krishnamurthy,2023-03-06,Kanpur,West,Sports,41,Enterprise,2456.05,217591.86,11,S006,,ananya.krishnamurthy83,,2023-04-26 20:41:49
+U2153,Vihaan Verma,2023-12-12,Bangalore,East,Groceries,40,Free,13468.34,393037.46,2,S007,Unknown,,vihaan.verma87@rediffmail.com,2024-01-12 14:07:48
+U2180,Karan Venkatesh,2023-04-10,Nagpur,West,Clothing,42,Free,99836.13,167966.35,15,S002,Unknown,karan.venkatesh95,karan.venkatesh95@gmail.com,2024-04-07 06:57:19
+U2333,Vihaan Patel,2024-10-25,Bangalore,South,Electronics,21,Premium,90998.9,89718.47,10,S012,Inactive,vihaan.patel25,vihaan.patel25@outlook.com,2023-12-30 03:59:10
+U2162,Nikhil Joshi,2024-12-22,Visakhapatnam,South,Groceries,42,Basic,6188.46,51250.39,10,S004,,nikhil.joshi65,nikhil.joshi65@rediffmail.com,2023-08-01 12:38:35
+U2232,Nikhil Das,2023-03-23,Hyderabad,North,Books,17,Premium,108423.96,319651.38,9,S016,Unknown,nikhil.das4,nikhil.das4@outlook.com,2024-11-18 06:19:29
+U2132,Jyoti Joshi,2023-02-17,Bhopal,East,Groceries,54,Basic,41034.68,60861.46,6,S005,Unknown,jyoti.joshi72,jyoti.joshi72@hotmail.com,2024-05-23 06:59:10
+U2330,Mahesh Agarwal,2024-12-27,Chennai,South,Mobiles,36,Enterprise,65439.16,268973.22,7,S008,Active,mahesh.agarwal99,mahesh.agarwal99@yahoo.com,2023-07-19 06:33:31
+U2290,Aarav Malhotra,2024-06-30,Mumbai,South,Groceries,22,Free,111996.3,220261.99,8,S003,Active,aarav.malhotra52,aarav.malhotra52@hotmail.com,
+U2259,Prachi Agarwal,2024-11-07,Hyderabad,North,Home & Garden,34,Free,149414.17,388173.59,2,S004,,prachi.agarwal63,prachi.agarwal63@rediffmail.com,2024-05-09 22:04:09
+U2277,Neha Rao,2024-12-18,Mumbai,West,Mobiles,64,Basic,125578.32,443673.38,3,S010,Inactive,,neha.rao39@hotmail.com,2024-08-18 07:26:13
+U2280,Asha Menon,2023-05-29,Mumbai,Central,Clothing,18,Free,136348.15,291058.63,1,S017,Active,asha.menon63,asha.menon63@yahoo.com,2023-08-20 17:58:40
+U2234,Saanvi Nair,2023-01-13,Hyderabad,South,Toys,35,Free,76728.53,55652.96,6,S003,,saanvi.nair33,saanvi.nair33@outlook.com,2023-03-13 14:57:27
+U2009,Aditya Kumar,2023-09-13,Chennai,South,Sports,49,Enterprise,,,10,S003,Pending,aditya.kumar17,aditya.kumar17@yahoo.com,2024-12-11 20:38:25
+U2321,Swati Agarwal,2023-01-20,Delhi,West,Home & Garden,16,Enterprise,112264.98,267692.87,11,S017,Active,swati.agarwal7,swati.agarwal7@hotmail.com,2024-08-10 13:05:23
+U2040,Sunita Chowdhury,2023-04-08,Surat,West,Mobiles,61,Free,96567.43,363336.72,13,S006,Unknown,sunita.chowdhury66,sunita.chowdhury66@hotmail.com,
+U2066,Atharv Pandey,2024-04-28,Chennai,South,Jewellery,62,Basic,54944.47,347482.39,3,S003,,atharv.pandey16,atharv.pandey16@hotmail.com,2023-02-10 21:40:10
+U2011,Riya Singh,2023-07-30,Indore,East,Groceries,60,Premium,44783.64,45687.07,14,S009,Unknown,riya.singh67,riya.singh67@rediffmail.com,2024-01-26 10:57:06
+U2325,Uma Kumar,2024-12-04,Surat,Central,Clothing,34,Basic,93883.29,267254.74,6,S017,Unknown,,uma.kumar64@hotmail.com,2023-07-01 20:11:53
+U2172,Vihaan Mehta,2024-10-27,Delhi,West,Groceries,33,Free,77730.05,311450.01,2,S014,,vihaan.mehta32,vihaan.mehta32@outlook.com,2024-10-22 05:42:40
+U2298,Radha Joshi,2023-01-01,Hyderabad,North,Toys,18,Free,146369.54,155160.31,2,S013,,radha.joshi13,radha.joshi13@gmail.com,
+U2204,Sanjay Joshi,2024-03-07,Chennai,Central,Home & Garden,21,Enterprise,69796.73,203138.16,8,S013,,sanjay.joshi11,sanjay.joshi11@rediffmail.com,2024-11-06 16:09:13
+U2303,Prachi Malhotra,2024-06-28,Visakhapatnam,North,Clothing,32,Basic,88185.1,438804.21,10,S002,Pending,prachi.malhotra96,prachi.malhotra96@hotmail.com,2023-11-12 12:52:49
+U2013,Rahul Sharma,2024-09-05,Lucknow,North,Electronics,43,Free,88236.22,104833.19,2,S008,Active,rahul.sharma97,rahul.sharma97@gmail.com,2023-09-03 08:01:50
+U2054,Anika Yadav,2023-12-13,Bangalore,South,Toys,36,Basic,128143.88,402303.09,10,S018,Active,anika.yadav91,anika.yadav91@hotmail.com,2024-02-24 09:10:52
+U2119,Sai Malhotra,2024-06-23,Lucknow,Central,Clothing,65,Premium,143308.81,335724.14,7,S020,Unknown,sai.malhotra56,sai.malhotra56@hotmail.com,2023-12-28 22:15:42
+U2306,Swati Rao,2024-11-07,Mumbai,West,Mobiles,51,Basic,,414112.35,7,S012,Unknown,swati.rao73,,2023-03-01 07:07:24
+U2073,Nisha Chowdhury,2023-07-28,Bangalore,North,Clothing,35,Premium,111752.52,464924.97,11,S015,Active,nisha.chowdhury84,nisha.chowdhury84@yahoo.com,
+U2048,Pradeep Dubey,2023-07-12,Bangalore,West,Sports,51,Enterprise,85948.79,256689.55,10,S019,Active,pradeep.dubey84,pradeep.dubey84@yahoo.com,2024-03-03 15:14:05
+U2048,Swati Venkatesh,2023-04-17,Bangalore,East,Sports,42,Premium,100094.05,406357.3,6,S007,Inactive,swati.venkatesh68,swati.venkatesh68@hotmail.com,2023-02-01 04:35:40
+U2225,Rohan Nair,2023-04-04,Delhi,North,Clothing,21,Premium,820.36,227889.81,15,S012,Unknown,rohan.nair34,,2023-03-30 12:58:11
+U2057,Ananya Patel,2023-11-09,Delhi,North,Electronics,54,Free,88578.2,220100.57,9,S005,,ananya.patel37,ananya.patel37@gmail.com,2023-08-12 01:11:19
+U2203,Myra Pillai,2024-09-01,Pune,West,Toys,27,Enterprise,110388.79,160668.49,3,S002,Unknown,myra.pillai66,myra.pillai66@rediffmail.com,2023-08-17 04:42:39
+U2041,Rajesh Chowdhury,2024-03-21,Chandigarh,North,Groceries,64,Enterprise,43859.13,,5,S004,,rajesh.chowdhury6,rajesh.chowdhury6@hotmail.com,2023-07-17 02:33:04
+U2209,Tanvi Gupta,2023-10-07,Mumbai,Central,Home & Garden,64,Free,17144.32,301384.85,11,S017,,,tanvi.gupta39@outlook.com,2024-01-24 14:58:34
+U2281,Ramesh Gupta,2024-09-17,Hyderabad,Central,Clothing,52,Free,90774.76,205593.88,6,S010,Pending,ramesh.gupta94,ramesh.gupta94@rediffmail.com,2023-02-10 05:22:40
+U2305,Sai Bose,2024-09-24,Chennai,East,Sports,53,Premium,126520.92,276971.79,10,S017,,,sai.bose98@yahoo.com,2023-08-09 08:39:17
+U2237,Tanya Iyer,2024-01-02,Bangalore,West,Electronics,59,Premium,14935.04,200566.66,9,S019,Inactive,tanya.iyer50,tanya.iyer50@outlook.com,2024-11-29 09:25:44
+U2263,Ira Rao,2023-07-07,Chennai,Central,Jewellery,50,Free,20125.12,299967.37,15,S004,,ira.rao66,ira.rao66@hotmail.com,2024-09-15 02:58:07
+U2308,Priya Kumar,2023-03-03,Ahmedabad,East,Home & Garden,60,Premium,23770.53,324468.1,9,S010,,,priya.kumar4@outlook.com,2023-04-09 13:36:25
+U2311,Vikram Kumar,2023-08-24,Delhi,South,Groceries,16,Basic,100333.25,366216.46,10,S013,Active,vikram.kumar55,vikram.kumar55@yahoo.com,2024-09-04 03:47:01
+U2008,Kavya Kumar,2024-03-28,Lucknow,Central,Groceries,44,Premium,141552.57,180177.58,1,S014,Inactive,kavya.kumar82,kavya.kumar82@rediffmail.com,2024-07-06 17:31:35
+U2055,Reyansh Verma,2024-03-15,Mumbai,West,Jewellery,43,Free,28689.54,340152.91,7,S004,,reyansh.verma86,,2023-08-25 23:02:16
+U2254,Ayaan Patil,2024-11-27,Bangalore,West,Jewellery,39,Free,27047.04,41111.13,5,S017,Pending,ayaan.patil27,ayaan.patil27@gmail.com,2023-11-21 18:22:27
+U2319,Navya Iyer,2024-08-30,Bangalore,East,Sports,30,Enterprise,50523.57,255825.99,3,S011,Unknown,navya.iyer14,navya.iyer14@outlook.com,2024-08-08 22:25:09
+U2342,Karan Chatterjee,2023-12-27,Delhi,Central,Home & Garden,49,Premium,111517.51,237724.16,13,S005,Pending,,karan.chatterjee44@rediffmail.com,2023-11-05 17:48:51
+U2091,Nikhil Chatterjee,2023-09-12,Hyderabad,Central,Mobiles,28,Enterprise,54871.37,38112.76,13,S009,Pending,nikhil.chatterjee33,nikhil.chatterjee33@hotmail.com,2023-04-11 08:38:15
+U2028,Karan Iyer,2023-06-13,Bangalore,North,Jewellery,26,Free,121660.21,68936.77,9,S015,,karan.iyer23,karan.iyer23@outlook.com,2023-01-03 23:45:26
+U2213,Kabir Reddy,2024-11-15,Surat,North,Mobiles,38,Free,61543.21,117496.16,10,S015,,,kabir.reddy27@rediffmail.com,2023-10-13 05:11:19
+U2112,Atharv Banerjee,2023-10-26,Delhi,South,Electronics,26,Premium,101254.72,121343.97,1,S011,,atharv.banerjee30,atharv.banerjee30@outlook.com,2023-12-26 22:03:45
+U2023,Sai Mehta,2023-03-09,Kochi,East,Sports,50,Premium,113390.31,192044.57,4,S007,Inactive,,,2024-09-22 17:07:53
+U2135,Varsha Kumar,2024-11-17,Bhopal,Central,Books,26,Premium,16730.95,137988.77,7,S005,Unknown,,varsha.kumar26@gmail.com,2024-12-05 13:01:11
+U2115,Sanjay Chatterjee,2024-08-15,Delhi,Central,Sports,28,Basic,84134.62,255904.6,11,S014,,sanjay.chatterjee65,sanjay.chatterjee65@outlook.com,2024-01-15 22:30:44
+U2054,Aarav Pandey,2024-04-15,Lucknow,Central,Home & Garden,54,Free,31457.27,91635.92,2,S004,Pending,,aarav.pandey4@outlook.com,2023-04-19 08:10:25
+U2114,Ishaan Pillai,2023-02-21,Chennai,West,Electronics,62,Free,142989.98,146701.91,10,S015,Pending,ishaan.pillai56,ishaan.pillai56@hotmail.com,2023-11-19 19:53:00
+U2282,Navya Joshi,2024-05-10,Delhi,West,Mobiles,45,Enterprise,68444.64,478184.41,5,S009,,navya.joshi85,navya.joshi85@hotmail.com,2023-06-24 01:04:20
+U2133,Rahul Tiwari,2023-08-26,Mumbai,East,Home & Garden,61,Premium,83112.78,394267.32,9,S009,,rahul.tiwari14,rahul.tiwari14@rediffmail.com,
+U2045,Krishna Chauhan,2024-08-21,Hyderabad,Central,Toys,30,Premium,144204.94,493128.99,2,S016,Unknown,,krishna.chauhan93@rediffmail.com,2023-09-23 09:22:22
+U2231,Sneha Kumar,2023-08-22,Lucknow,South,Mobiles,39,Basic,66398.55,180828.8,6,S010,Unknown,sneha.kumar66,sneha.kumar66@hotmail.com,2024-08-15 00:36:38
+U2163,Lakshmi Malhotra,2024-06-02,Bhopal,South,Groceries,41,Premium,,472513.47,8,S019,,lakshmi.malhotra64,lakshmi.malhotra64@rediffmail.com,2024-08-07 23:34:05
+U2329,Rohan Mishra,2024-04-29,Delhi,North,Jewellery,44,Free,77478.2,2702.98,2,S015,Inactive,rohan.mishra88,rohan.mishra88@rediffmail.com,2023-03-21 10:14:20
+U2058,Shaurya Mehta,2024-11-30,Bhopal,South,Mobiles,40,Enterprise,138576.47,105570.67,13,S003,Active,shaurya.mehta6,,2024-10-22 04:44:03
+U2118,Meena Saxena,2024-02-01,Mumbai,East,Clothing,27,Basic,135950.85,277075.05,9,S007,Pending,meena.saxena7,meena.saxena7@gmail.com,2023-02-27 12:34:35
+U2323,Divya Mukherjee,2024-06-30,Chennai,West,Toys,49,Basic,,120945.65,3,S010,Active,divya.mukherjee21,divya.mukherjee21@outlook.com,2024-12-16 15:57:30
+U2054,Kabir Mishra,2024-06-09,Delhi,North,Home & Garden,48,Enterprise,104328.56,307757.33,6,S006,,kabir.mishra63,kabir.mishra63@outlook.com,2023-01-01 02:12:20
+U2138,Riya Banerjee,2023-10-20,Chennai,West,Groceries,37,Basic,109602.48,13833.01,7,S019,,,riya.banerjee99@rediffmail.com,2023-09-04 10:07:51
+U2343,Nisha Desai,2023-11-09,Jaipur,East,Books,46,Premium,110581.63,51227.18,4,S009,Pending,,nisha.desai68@hotmail.com,2024-11-04 22:20:23
+U2151,Mahesh Krishnamurthy,2023-10-09,Mumbai,West,Jewellery,34,Free,30127.29,304491.48,15,S004,Inactive,,mahesh.krishnamurthy3@gmail.com,2024-11-09 08:13:22
+U2242,Ritvik Shah,2023-09-25,Bangalore,South,Toys,47,Basic,130900.09,218424.0,13,S005,,ritvik.shah36,,2023-09-03 06:49:10
+U2238,Ramesh Sharma,2023-02-19,Delhi,North,Mobiles,56,Enterprise,23096.52,,13,S004,,ramesh.sharma5,ramesh.sharma5@rediffmail.com,2024-02-02 18:43:46
+U2075,Dhruv Banerjee,2024-07-13,Bangalore,East,Toys,23,Premium,139461.35,413840.17,9,S010,Pending,dhruv.banerjee54,,2023-11-22 18:08:00
+U2000,Tanvi Sinha,2023-03-16,Chennai,West,Jewellery,31,Premium,22895.03,54623.43,14,S015,Active,,tanvi.sinha63@yahoo.com,2023-01-30 04:45:38
+U2187,Aarav Kumar,2024-11-25,Kochi,East,Sports,37,Basic,60438.47,57885.7,15,S001,Unknown,aarav.kumar81,aarav.kumar81@hotmail.com,2023-01-16 09:39:25
+U2227,Rajesh Mehta,2024-11-12,Chennai,South,Clothing,60,Premium,37511.94,365187.81,2,S019,Inactive,rajesh.mehta93,rajesh.mehta93@gmail.com,2024-09-23 18:26:21
+U2123,Mahesh Shukla,2023-08-16,Hyderabad,East,Home & Garden,19,Premium,45158.06,280616.18,10,S010,,mahesh.shukla29,mahesh.shukla29@outlook.com,2024-10-27 14:26:50
+U2206,Saanvi Venkatesh,2023-11-30,Mumbai,South,Sports,47,Enterprise,50086.74,457371.71,11,S011,,saanvi.venkatesh20,saanvi.venkatesh20@outlook.com,2023-12-23 23:27:35
+U2227,Rohan Naidu,2023-12-04,Delhi,North,Electronics,40,Basic,142173.29,418184.45,6,S011,,,rohan.naidu80@gmail.com,2023-12-09 14:38:00
+U2282,Navya Joshi,2024-05-10,Delhi,West,Mobiles,45,Enterprise,68444.64,478184.41,5,S009,,navya.joshi85,navya.joshi85@hotmail.com,2023-06-24 01:04:20
+U2273,Mahesh Rao,2024-05-28,Mumbai,North,Clothing,19,Enterprise,105241.16,371903.85,2,S006,Inactive,mahesh.rao31,mahesh.rao31@rediffmail.com,2023-08-15 18:29:14
+U2250,Tanya Menon,2023-02-03,Hyderabad,West,Sports,37,Enterprise,,398987.89,4,S015,Inactive,tanya.menon99,tanya.menon99@gmail.com,2023-10-28 18:41:06
+U2135,Rahul Dubey,2023-08-03,Kolkata,North,Books,31,Premium,29403.88,253630.24,1,S004,Active,rahul.dubey74,,2023-07-14 20:35:13
+U2264,Aarav Patil,2023-07-27,Pune,East,Jewellery,55,Premium,134787.61,200787.1,10,S015,,aarav.patil66,,2023-05-10 20:34:53
+U2192,Divya Nair,2023-11-07,Delhi,West,Toys,21,Free,85374.0,455969.53,5,S004,,divya.nair6,divya.nair6@outlook.com,2024-02-19 07:05:23
+U2234,Tanvi Pandey,2023-06-17,Guwahati,West,Books,21,Basic,117997.08,113384.61,8,S018,Inactive,tanvi.pandey63,,2024-11-12 01:06:37
+U2304,Reyansh Shukla,2024-10-13,Mumbai,East,Books,23,Enterprise,36576.12,107335.05,12,S005,Active,reyansh.shukla34,reyansh.shukla34@gmail.com,2023-03-02 00:53:37
+U2077,Reyansh Singh,2023-11-11,Bangalore,West,Toys,35,Basic,107016.6,27614.12,15,S006,,reyansh.singh97,reyansh.singh97@rediffmail.com,2023-02-07 06:48:06
+U2171,Nisha Mishra,2023-01-13,Mumbai,West,Jewellery,60,Enterprise,125559.15,290287.34,1,S013,,nisha.mishra29,,2023-10-19 17:05:47
+U2132,Lakshmi Sinha,2024-06-18,Chennai,Central,Sports,28,Basic,27185.92,181540.32,10,S012,Pending,lakshmi.sinha67,lakshmi.sinha67@outlook.com,2023-03-24 10:11:16
+U2140,Divya Singh,2024-12-13,Mumbai,East,Sports,43,Enterprise,15269.09,174738.01,9,S010,Active,divya.singh57,divya.singh57@gmail.com,2024-10-14 22:48:33
+U2093,Meena Gupta,2024-11-08,Jaipur,South,Sports,27,Enterprise,102351.19,125802.96,13,S003,,meena.gupta79,meena.gupta79@rediffmail.com,2023-03-13 04:34:58
+U2052,Rajesh Kumar,2023-11-28,Bangalore,West,Books,41,Basic,61817.47,412260.17,14,S014,Inactive,rajesh.kumar3,rajesh.kumar3@rediffmail.com,2023-06-26 00:29:41
+U2334,Pihu Venkatesh,2024-01-14,Delhi,East,Jewellery,23,Basic,111240.23,417153.99,9,S008,,,pihu.venkatesh10@rediffmail.com,2024-11-11 02:15:45
+U2220,Vivaan Sharma,2024-10-09,Surat,West,Sports,52,Basic,108491.4,380355.26,10,S012,,vivaan.sharma57,,2024-03-22 20:40:55
+U2209,Sunita Venkatesh,2023-09-28,Hyderabad,East,Electronics,44,Free,28436.7,440044.18,12,S011,,sunita.venkatesh63,sunita.venkatesh63@yahoo.com,2024-02-06 15:02:03
+U2202,Sneha Sinha,2023-05-13,Hyderabad,South,Mobiles,44,Free,79260.68,338949.43,1,S004,Pending,sneha.sinha21,sneha.sinha21@hotmail.com,2024-07-03 15:38:38
+U2346,Diya Desai,2024-01-24,Delhi,North,Books,50,Free,88558.59,178904.0,10,S019,Unknown,diya.desai97,diya.desai97@outlook.com,2023-05-30 14:33:46
+U2109,Ananya Agarwal,2023-03-14,Chennai,North,Groceries,39,Premium,42012.69,80476.2,13,S008,,ananya.agarwal29,ananya.agarwal29@rediffmail.com,2024-03-07 23:48:37
+U2108,Sanjay Saxena,2024-02-05,Mumbai,Central,Groceries,25,Premium,,464488.63,6,S005,,,,2024-05-07 08:20:41
+U2239,Diya Das,2024-01-23,Chennai,Central,Electronics,37,Free,139258.32,456774.08,10,S001,Pending,diya.das74,diya.das74@yahoo.com,2024-01-07 06:46:32
+U2042,Sunita Yadav,2023-10-01,Mumbai,West,Sports,40,Enterprise,,187706.18,1,S004,Inactive,sunita.yadav39,sunita.yadav39@outlook.com,2024-03-28 01:17:23
+U2152,Atharv Agarwal,2023-07-22,Delhi,Central,Clothing,63,Enterprise,17635.4,209635.27,14,S005,Pending,,atharv.agarwal82@yahoo.com,2023-07-11 12:20:05
+U2269,Rajesh Dubey,2023-08-27,Bangalore,East,Jewellery,27,Premium,6354.55,292429.09,10,S016,Unknown,rajesh.dubey68,rajesh.dubey68@gmail.com,2023-03-03 23:56:47
+U2309,Kabir Malhotra,2023-06-04,Bhopal,Central,Sports,18,Enterprise,55308.42,,13,S007,Inactive,kabir.malhotra47,kabir.malhotra47@rediffmail.com,2024-08-02 16:05:29
+U2229,Priya Tiwari,2024-03-11,Chennai,West,Jewellery,39,Premium,22196.94,35857.8,9,S002,,priya.tiwari68,priya.tiwari68@rediffmail.com,2023-02-14 23:02:10
+U2104,Sai Malhotra,2023-08-10,Hyderabad,West,Sports,43,Enterprise,106487.68,213562.51,12,S009,,sai.malhotra98,sai.malhotra98@hotmail.com,2024-11-01 20:41:13
+U2166,Divya Reddy,2024-02-05,Hyderabad,South,Jewellery,17,Basic,133933.58,313090.99,11,S002,Pending,divya.reddy56,,2024-09-06 07:43:33
+U2159,Uma Srinivasan,2024-06-25,Delhi,Central,Mobiles,32,Enterprise,134773.14,82829.76,9,S001,,uma.srinivasan63,uma.srinivasan63@rediffmail.com,2023-09-10 10:13:39
+U2204,Saanvi Joshi,2024-02-26,Bangalore,Central,Groceries,29,Basic,31728.42,139444.7,7,S019,Unknown,saanvi.joshi47,saanvi.joshi47@outlook.com,2024-02-08 07:02:53
+U2004,Jyoti Sharma,2023-02-14,Kolkata,East,Toys,36,Free,73723.73,498919.8,12,S010,,jyoti.sharma67,jyoti.sharma67@hotmail.com,2023-10-19 13:03:36
+U2195,Deepa Nair,2023-01-03,Mumbai,Central,Clothing,48,Premium,99250.72,228649.35,11,S001,Unknown,,deepa.nair66@outlook.com,2024-07-04 00:29:52
+U2264,Prachi Joshi,2024-05-22,Bangalore,North,Books,48,Free,56142.8,446310.63,5,S020,Unknown,prachi.joshi13,prachi.joshi13@hotmail.com,2024-10-27 04:45:34
+U2305,Navya Nair,2024-11-17,Mumbai,West,Toys,55,Enterprise,66755.21,413706.97,10,S003,Active,navya.nair33,navya.nair33@gmail.com,2023-06-24 13:57:35
+U2298,Aditya Gupta,2024-11-10,Bangalore,West,Clothing,27,Basic,57199.69,342531.68,13,S009,,aditya.gupta9,aditya.gupta9@hotmail.com,2024-06-25 02:23:08
+U2180,Dhruv Ghosh,2024-07-13,Delhi,North,Sports,28,Enterprise,104255.8,133722.73,2,S018,,dhruv.ghosh70,dhruv.ghosh70@rediffmail.com,2024-12-04 22:52:46
+U2102,Ramesh Kumar,2024-06-14,Chennai,West,Groceries,48,Free,93931.98,362208.18,8,S018,Active,ramesh.kumar53,ramesh.kumar53@gmail.com,2023-12-18 10:58:24
+U2038,Rohan Das,2023-07-04,Hyderabad,South,Books,52,Free,20759.33,350490.09,8,S011,,rohan.das36,rohan.das36@hotmail.com,2023-07-16 13:19:13
+U2132,Suresh Naidu,2023-12-28,Bangalore,North,Sports,61,Basic,59995.26,381071.06,6,S005,,suresh.naidu43,suresh.naidu43@gmail.com,2024-12-05 22:02:03
+U2129,Prachi Banerjee,2024-11-13,Chennai,Central,Books,44,Free,54337.04,316035.66,7,S017,,prachi.banerjee18,prachi.banerjee18@hotmail.com,2023-01-14 23:25:12
+U2060,Sneha Mukherjee,2023-03-17,Mumbai,East,Jewellery,27,Basic,67391.46,242728.41,7,S015,,sneha.mukherjee68,sneha.mukherjee68@hotmail.com,2023-01-12 11:30:33
+U2313,Lakshmi Naidu,2024-11-06,Lucknow,North,Mobiles,58,Basic,114831.77,420542.85,14,S012,Unknown,lakshmi.naidu35,lakshmi.naidu35@gmail.com,2024-02-15 16:36:32
+U2111,Ankita Iyer,2024-04-17,Chennai,North,Books,48,Free,74150.86,210288.66,15,S019,,ankita.iyer47,ankita.iyer47@yahoo.com,2023-07-01 19:32:25
+U2024,Ankita Saxena,2023-06-02,Indore,East,Sports,24,Basic,,111514.22,12,S018,,ankita.saxena5,,2024-12-22 08:51:35
+U2079,Ishaan Pandey,2024-07-22,Pune,North,Groceries,47,Basic,76921.32,24476.56,4,S005,Active,ishaan.pandey83,ishaan.pandey83@hotmail.com,2024-01-03 08:50:33
+U2122,Saanvi Agarwal,2023-12-28,Hyderabad,Central,Sports,56,Free,95444.64,131362.92,14,S007,,saanvi.agarwal10,saanvi.agarwal10@hotmail.com,2024-10-25 02:49:26
+U2250,Meena Verma,2023-07-25,Chennai,North,Jewellery,65,Basic,15086.36,51358.13,13,S018,,meena.verma63,,2024-02-25 01:46:28
+U2159,Kabir Srinivasan,2023-07-19,Mumbai,North,Home & Garden,33,Free,140981.21,144656.17,6,S003,,kabir.srinivasan28,kabir.srinivasan28@hotmail.com,2024-03-26 06:42:31
+U2017,Navya Patil,2024-10-11,Mumbai,North,Mobiles,40,Premium,66259.18,377791.7,3,S003,Inactive,navya.patil83,navya.patil83@gmail.com,2023-05-30 23:09:54
+U2094,Varsha Reddy,2024-10-23,Surat,East,Toys,44,Free,140985.99,482225.69,7,S017,,varsha.reddy68,varsha.reddy68@hotmail.com,2023-02-18 20:40:47
+U2312,Pradeep Gupta,2023-07-15,Mumbai,South,Clothing,19,Basic,102077.26,364066.89,2,S005,,,,
+U2066,Neha Sinha,2024-09-08,Mumbai,North,Groceries,16,Free,26721.3,60438.5,15,S007,Inactive,neha.sinha89,neha.sinha89@yahoo.com,2023-09-16 19:46:14
+U2305,Mansi Chatterjee,2023-03-01,Kolkata,West,Clothing,52,Basic,108180.5,248544.97,3,S019,Pending,,mansi.chatterjee40@hotmail.com,2023-08-02 10:54:58
+U2073,Tanya Reddy,2024-04-30,Kanpur,West,Books,39,Enterprise,62195.81,251470.34,6,S006,,,,2024-12-11 05:39:18
+U2161,Shreya Mishra,2024-01-08,Mumbai,West,Jewellery,49,Enterprise,3190.83,283519.74,9,S002,,shreya.mishra19,shreya.mishra19@yahoo.com,2023-09-24 22:44:58
+U2199,Shreya Krishnamurthy,2024-04-02,Chandigarh,South,Books,42,Free,51381.02,423943.1,1,S006,Active,shreya.krishnamurthy50,shreya.krishnamurthy50@hotmail.com,2023-04-15 18:01:18
+U2332,Mahesh Tiwari,2024-04-16,Hyderabad,North,Jewellery,59,Free,92584.4,38920.42,3,S011,,mahesh.tiwari95,mahesh.tiwari95@yahoo.com,
+U2043,Advait Tiwari,2023-09-29,Delhi,East,Groceries,43,Free,80536.17,247407.1,6,S003,,,advait.tiwari14@outlook.com,2023-07-28 21:05:45
+U2264,Pooja Naidu,2023-03-15,Delhi,East,Toys,52,Premium,16242.51,223330.15,1,S017,,,pooja.naidu58@yahoo.com,2023-05-11 09:31:05
+U2211,Vivaan Desai,2024-07-28,Mumbai,North,Groceries,21,Basic,,132713.8,12,S008,Active,,,2023-06-04 01:19:30
+U2326,Swati Venkatesh,2023-06-13,Lucknow,North,Groceries,33,Enterprise,127230.09,38415.94,7,S012,,swati.venkatesh53,swati.venkatesh53@gmail.com,2024-08-22 03:14:46
+U2258,Reyansh Shah,2023-01-24,Chandigarh,South,Mobiles,45,Basic,21637.79,401742.07,7,S005,Unknown,reyansh.shah27,reyansh.shah27@yahoo.com,2023-12-30 17:32:51
+U2339,Ritvik Patel,2023-07-10,Delhi,North,Sports,21,Free,40800.02,408414.89,6,S011,Inactive,ritvik.patel65,ritvik.patel65@gmail.com,2024-11-04 09:11:09
+U2285,Sneha Bose,2023-04-09,Delhi,Central,Sports,16,Free,7501.38,372649.17,7,S010,Unknown,sneha.bose87,sneha.bose87@hotmail.com,
+U2018,Vihaan Tiwari,2023-09-13,Kanpur,West,Sports,30,Free,31882.3,,3,S019,Inactive,vihaan.tiwari85,vihaan.tiwari85@yahoo.com,2024-05-08 04:33:53
+U2242,Arjun Das,2023-11-27,Guwahati,North,Toys,31,Enterprise,125872.12,124994.91,5,S010,Pending,arjun.das39,arjun.das39@gmail.com,2023-09-05 06:30:12
+U2137,Sonal Malhotra,2023-05-08,Hyderabad,East,Books,46,Enterprise,38227.74,313028.25,14,S016,,sonal.malhotra21,sonal.malhotra21@yahoo.com,2024-10-31 05:06:13
+U2132,Lakshmi Sinha,2024-06-18,Chennai,Central,Sports,28,Basic,27185.92,181540.32,10,S012,Pending,lakshmi.sinha67,lakshmi.sinha67@outlook.com,2023-03-24 10:11:16
+U2192,Rekha Das,2024-01-13,Delhi,West,Sports,27,Enterprise,91368.87,256132.08,9,S011,,rekha.das89,rekha.das89@rediffmail.com,2024-10-18 09:42:19
+U2317,Ramesh Reddy,2023-02-04,Pune,West,Mobiles,36,Enterprise,47410.87,665.96,12,S016,Unknown,ramesh.reddy12,ramesh.reddy12@outlook.com,2023-02-19 19:14:42
+U2269,Navya Desai,2024-01-09,Lucknow,South,Electronics,65,Premium,28344.45,250292.03,1,S007,Unknown,,navya.desai48@rediffmail.com,2024-08-13 03:05:56
+U2132,Vivaan Mehta,2024-03-28,Mumbai,Central,Home & Garden,47,Basic,12946.85,240547.25,3,S005,,vivaan.mehta66,vivaan.mehta66@hotmail.com,2024-11-22 03:37:32
+U2193,Aarush Iyer,2024-08-18,Bangalore,East,Sports,36,Basic,133698.96,12982.5,5,S019,Pending,aarush.iyer74,aarush.iyer74@rediffmail.com,2024-02-06 21:55:42
+U2114,Varsha Desai,2024-05-06,Mumbai,North,Toys,32,Basic,91463.5,476917.07,10,S002,,varsha.desai20,varsha.desai20@yahoo.com,2024-12-11 08:19:22
+U2096,Sneha Rao,2024-07-14,Chennai,South,Books,20,Free,111443.32,240803.97,9,S002,Active,,sneha.rao46@gmail.com,2023-05-17 02:53:19
+U2101,Advik Desai,2023-03-09,Bangalore,North,Books,37,Basic,137396.88,291533.74,10,S012,Inactive,,advik.desai46@rediffmail.com,2023-03-17 23:07:32
+U2107,Myra Banerjee,2023-03-18,Delhi,Central,Home & Garden,39,Basic,94787.06,56516.25,6,S008,Pending,myra.banerjee27,,
+U2199,Jyoti Iyer,2023-04-21,Bangalore,Central,Clothing,53,Enterprise,140426.21,285275.33,11,S006,Inactive,jyoti.iyer47,jyoti.iyer47@outlook.com,2023-10-27 10:29:41
+U2059,Rohan Mukherjee,2024-10-06,Chandigarh,Central,Sports,56,Basic,144951.68,383142.38,5,S009,Inactive,rohan.mukherjee48,rohan.mukherjee48@rediffmail.com,2024-11-27 18:51:54
+U2331,Sai Venkatesh,2023-06-11,Guwahati,West,Sports,47,Basic,48748.03,291609.16,15,S015,Active,sai.venkatesh55,,
+U2117,Deepa Iyer,2024-06-19,Delhi,Central,Sports,27,Enterprise,43209.73,,12,S001,Pending,deepa.iyer14,deepa.iyer14@hotmail.com,2024-01-10 21:36:50
+U2084,Prachi Kumar,2024-08-17,Hyderabad,Central,Groceries,23,Enterprise,80950.8,323390.9,2,S016,Unknown,,prachi.kumar26@gmail.com,2023-01-21 19:36:37
+U2066,Kavita Pandey,2023-03-12,Visakhapatnam,South,Jewellery,57,Basic,22024.89,415383.4,13,S014,Pending,kavita.pandey22,kavita.pandey22@outlook.com,2024-10-22 17:37:52
+U2242,Uma Rao,2024-02-14,Kanpur,Central,Books,34,Enterprise,17331.44,,14,S016,Pending,uma.rao3,uma.rao3@gmail.com,2024-08-11 11:19:51
+U2238,Swati Dubey,2023-03-02,Jaipur,Central,Sports,46,Free,86651.85,292658.77,13,S018,,swati.dubey66,swati.dubey66@yahoo.com,2023-06-22 15:36:56
+U2052,Dhruv Chatterjee,2023-07-13,Guwahati,West,Sports,56,Enterprise,114564.16,431948.83,11,S013,Unknown,dhruv.chatterjee20,dhruv.chatterjee20@hotmail.com,2024-04-15 21:34:50
+U2083,Advait Ghosh,2024-10-06,Nagpur,West,Jewellery,33,Free,9189.61,351692.2,14,S020,,advait.ghosh83,,2024-10-08 17:15:15
+U2135,Kabir Desai,2024-12-30,Nagpur,East,Sports,44,Premium,13011.58,439441.08,15,S002,Active,kabir.desai58,kabir.desai58@outlook.com,2023-11-27 22:23:55
+U2332,Radha Shukla,2024-04-25,Nagpur,Central,Groceries,23,Enterprise,9504.98,493424.35,4,S001,Pending,radha.shukla92,radha.shukla92@gmail.com,2024-12-06 06:13:28
+U2127,Arjun Reddy,2024-10-17,Bangalore,East,Toys,36,Basic,69784.73,405052.97,11,S018,Unknown,arjun.reddy5,arjun.reddy5@rediffmail.com,2023-09-20 04:53:34
+U2292,Sai Mishra,2024-12-18,Chennai,North,Books,37,Basic,41011.3,320453.04,5,S014,,sai.mishra58,sai.mishra58@gmail.com,2024-04-23 15:01:07
+U2235,Rahul Ghosh,2024-05-01,Chennai,East,Groceries,50,Basic,23435.07,106166.41,6,S004,Unknown,,rahul.ghosh35@yahoo.com,2024-09-22 22:21:10
+U2046,Shweta Shukla,2023-08-27,Pune,West,Mobiles,40,Free,42212.21,38273.99,9,S017,Inactive,shweta.shukla77,,2024-06-03 17:16:05
+U2194,Navya Patil,2023-07-08,Bangalore,East,Sports,39,Basic,55454.48,119841.98,1,S004,Unknown,navya.patil42,navya.patil42@outlook.com,2023-06-18 02:46:11
+U2313,Vikram Krishnamurthy,2023-02-12,Mumbai,Central,Toys,19,Basic,62641.11,28617.18,8,S003,,vikram.krishnamurthy14,vikram.krishnamurthy14@yahoo.com,2023-04-22 19:58:42
+U2018,Ananya Bose,2023-05-27,Chennai,Central,Clothing,63,Free,96483.1,459101.89,6,S007,,ananya.bose89,ananya.bose89@yahoo.com,2024-03-01 08:22:42
+U2168,Ayaan Verma,2024-11-04,Coimbatore,West,Groceries,64,Premium,12286.7,273913.41,12,S007,Inactive,,,2024-01-14 10:09:57
+U2017,Meena Shukla,2023-10-13,Lucknow,South,Sports,61,Basic,40523.18,64071.65,8,S015,,meena.shukla56,meena.shukla56@yahoo.com,2023-10-20 17:48:21
+U2276,Kavya Shah,2023-05-15,Hyderabad,South,Home & Garden,48,Premium,3932.51,395582.79,15,S002,Inactive,kavya.shah78,kavya.shah78@hotmail.com,2024-12-25 12:21:48
+U2006,Nisha Shah,2024-12-01,Lucknow,South,Sports,38,Free,40064.85,451946.78,10,S003,,nisha.shah84,,2023-11-04 13:50:52
+U2025,Tanvi Dubey,2023-04-12,Chandigarh,East,Sports,34,Premium,73165.43,277738.21,8,S003,Pending,,tanvi.dubey1@yahoo.com,2023-11-27 18:01:02
+U2290,Shreya Verma,2023-05-29,Hyderabad,North,Groceries,65,Basic,99446.05,281082.93,6,S017,,,shreya.verma85@yahoo.com,2024-09-26 10:49:48
+U2344,Atharv Tiwari,2023-12-14,Guwahati,West,Home & Garden,16,Free,2551.4,406232.7,7,S014,Unknown,atharv.tiwari84,atharv.tiwari84@gmail.com,2024-10-17 23:19:02
+U2176,Sanjay Chatterjee,2023-01-10,Chennai,East,Books,28,Free,61752.63,342033.46,2,S001,,sanjay.chatterjee52,sanjay.chatterjee52@outlook.com,2024-03-10 21:13:41
+U2174,Deepa Chowdhury,2024-12-08,Kochi,North,Clothing,25,Free,59294.36,389620.75,4,S018,Inactive,deepa.chowdhury4,deepa.chowdhury4@yahoo.com,2024-02-27 23:50:43
+U2287,Rajesh Yadav,2023-05-24,Delhi,North,Mobiles,18,Free,3006.58,252781.72,7,S020,,rajesh.yadav61,rajesh.yadav61@rediffmail.com,2024-04-08 00:39:33
+U2303,Radha Rao,2023-08-21,Ahmedabad,Central,Jewellery,63,Enterprise,123919.47,194494.62,7,S020,,,radha.rao70@gmail.com,2023-09-20 23:00:09
+U2278,Vivaan Desai,2024-01-11,Delhi,North,Clothing,27,Enterprise,31938.59,,12,S006,,,vivaan.desai94@hotmail.com,2023-07-01 16:00:15
+U2006,Kavya Patel,2024-11-15,Guwahati,North,Toys,35,Free,148248.17,110772.87,1,S016,Pending,kavya.patel69,kavya.patel69@gmail.com,2024-08-07 19:41:32
+U2224,Deepa Singh,2024-12-06,Bhopal,South,Groceries,37,Enterprise,104514.92,133887.89,13,S020,Inactive,deepa.singh60,deepa.singh60@rediffmail.com,2023-05-05 23:50:50
+U2107,Myra Banerjee,2023-03-18,Delhi,Central,Home & Garden,39,Basic,94787.06,56516.25,6,S008,Pending,myra.banerjee27,,
+U2326,Dhruv Patil,2023-02-27,Hyderabad,West,Electronics,16,Premium,63140.01,176192.08,5,S004,Inactive,dhruv.patil46,dhruv.patil46@yahoo.com,2023-11-01 10:42:55
+U2005,Tanya Mukherjee,2024-11-07,Chennai,North,Sports,58,Basic,52638.73,64953.46,15,S009,Pending,,tanya.mukherjee88@hotmail.com,2024-12-06 13:31:47
+U2327,Sita Venkatesh,2023-03-08,Lucknow,North,Groceries,60,Premium,76678.74,270709.32,7,S018,Inactive,sita.venkatesh53,,2024-02-25 12:34:29
+U2205,Ayaan Sharma,2023-06-20,Kochi,South,Clothing,63,Free,138702.17,70305.28,14,S016,Inactive,ayaan.sharma20,,2024-10-26 00:36:42
+U2066,Kavita Pandey,2023-03-12,Visakhapatnam,South,Jewellery,57,Basic,22024.89,415383.4,13,S014,Pending,kavita.pandey22,kavita.pandey22@outlook.com,2024-10-22 17:37:52
+U2333,Deepa Kumar,2023-02-19,Chennai,North,Books,53,Premium,32283.26,209202.44,4,S003,Unknown,deepa.kumar51,deepa.kumar51@yahoo.com,2024-03-28 19:50:59
+U2262,Arjun Sinha,2023-06-01,Mumbai,South,Mobiles,17,Premium,34542.39,413065.78,8,S018,Inactive,arjun.sinha89,arjun.sinha89@hotmail.com,2023-04-13 06:59:32
+U2196,Tanya Iyer,2023-06-14,Chandigarh,West,Groceries,24,Premium,109209.65,13996.09,14,S003,Pending,tanya.iyer94,tanya.iyer94@gmail.com,2023-09-20 21:09:57
+U2099,Sunita Desai,2023-10-24,Bangalore,North,Mobiles,39,Premium,,371875.87,11,S009,,sunita.desai56,sunita.desai56@outlook.com,2024-08-13 00:45:39
+U2118,Saanvi Iyer,2023-12-29,Hyderabad,East,Home & Garden,47,Basic,118645.34,466956.91,13,S009,,,saanvi.iyer31@gmail.com,2024-01-13 03:20:03
+U2103,Rajesh Mishra,2023-11-14,Nagpur,East,Sports,64,Free,,206645.42,12,S001,Unknown,rajesh.mishra61,rajesh.mishra61@gmail.com,2024-09-22 11:41:19
+U2085,Pooja Chowdhury,2024-05-22,Mumbai,North,Sports,44,Enterprise,133229.09,392076.85,5,S009,Pending,pooja.chowdhury72,pooja.chowdhury72@outlook.com,2024-03-29 21:40:05
+U2130,Karan Pillai,2023-07-15,Hyderabad,Central,Mobiles,65,Basic,47273.07,474587.5,1,S016,Active,,karan.pillai27@outlook.com,
+U2299,Ananya Mukherjee,2023-09-26,Bangalore,North,Groceries,56,Free,49411.14,238525.1,12,S003,Unknown,,ananya.mukherjee76@hotmail.com,2023-05-06 10:32:37
+U2207,Ankita Dubey,2024-10-03,Visakhapatnam,East,Groceries,44,Premium,,399667.44,7,S009,,,ankita.dubey63@yahoo.com,2023-09-09 17:44:15
+U2033,Vivaan Mishra,2023-10-10,Delhi,North,Jewellery,17,Free,129553.29,11957.06,14,S007,,,vivaan.mishra60@gmail.com,2023-04-27 14:03:57
+U2167,Vihaan Pandey,2023-01-28,Hyderabad,Central,Books,27,Premium,119459.68,306473.38,13,S016,Unknown,vihaan.pandey42,vihaan.pandey42@gmail.com,2024-03-14 04:19:07
+U2103,Riya Saxena,2024-07-11,Mumbai,South,Electronics,57,Enterprise,96515.44,193838.44,14,S013,,,riya.saxena39@gmail.com,2024-12-20 04:38:05
+U2282,Jyoti Nair,2023-04-26,Bhopal,West,Jewellery,18,Premium,,206622.04,12,S005,Pending,jyoti.nair96,jyoti.nair96@yahoo.com,2024-05-29 18:28:39
+U2053,Rajesh Kumar,2023-03-19,Bhopal,Central,Toys,39,Enterprise,48252.08,393981.92,14,S018,,rajesh.kumar99,rajesh.kumar99@hotmail.com,2023-12-24 08:52:07
+U2213,Rohan Naidu,2024-07-04,Delhi,East,Home & Garden,27,Enterprise,,198718.0,12,S007,Active,rohan.naidu45,rohan.naidu45@gmail.com,2023-07-10 02:38:48
+U2251,Mahesh Yadav,2024-09-04,Delhi,East,Toys,37,Premium,52336.88,288883.52,3,S014,,mahesh.yadav69,mahesh.yadav69@gmail.com,2024-08-13 09:16:52
+U2215,Radha Bose,2024-07-09,Chennai,East,Toys,49,Basic,84583.8,394655.93,8,S011,,radha.bose34,radha.bose34@gmail.com,2023-04-12 18:38:28
+U2332,Mahesh Tiwari,2024-04-16,Hyderabad,North,Jewellery,59,Free,92584.4,38920.42,3,S011,,mahesh.tiwari95,mahesh.tiwari95@yahoo.com,
+U2311,Ritvik Shukla,2024-12-07,Delhi,South,Electronics,28,Basic,102140.96,430470.28,6,S002,Inactive,ritvik.shukla34,ritvik.shukla34@outlook.com,2024-07-06 06:38:20
+U2339,Krishna Srinivasan,2023-09-06,Mumbai,East,Clothing,57,Free,60858.96,308633.14,4,S017,Pending,,krishna.srinivasan59@gmail.com,2024-09-21 02:55:18
+U2262,Ahana Kumar,2023-02-08,Bangalore,North,Toys,21,Basic,35014.52,77017.67,6,S011,Unknown,ahana.kumar43,ahana.kumar43@gmail.com,2023-11-24 02:20:11
+U2115,Sanjay Chatterjee,2024-08-15,Delhi,Central,Sports,28,Basic,84134.62,255904.6,11,S014,,sanjay.chatterjee65,sanjay.chatterjee65@outlook.com,2024-01-15 22:30:44
+U2219,Riya Sinha,2023-12-10,Mumbai,South,Electronics,44,Basic,90644.95,34937.27,2,S011,,,riya.sinha50@outlook.com,2023-02-27 14:58:16
+U2324,Vihaan Iyer,2023-07-08,Chennai,South,Mobiles,23,Premium,27493.21,90839.48,11,S016,Unknown,vihaan.iyer83,vihaan.iyer83@rediffmail.com,2023-08-25 00:54:26
+U2262,Ritu Krishnamurthy,2023-05-11,Bangalore,South,Books,58,Free,35727.91,391037.39,15,S006,,ritu.krishnamurthy67,ritu.krishnamurthy67@gmail.com,2023-06-27 05:48:37
+U2267,Aditya Kumar,2024-05-28,Mumbai,South,Groceries,28,Free,53049.63,319690.16,1,S002,Active,,,2024-12-28 22:46:14
+U2216,Ayaan Verma,2023-07-11,Delhi,West,Electronics,38,Basic,14211.69,329075.08,11,S001,,ayaan.verma30,ayaan.verma30@yahoo.com,2024-01-31 10:01:24
+U2160,Swati Singh,2024-04-12,Hyderabad,South,Groceries,25,Free,60518.81,241674.94,2,S003,Pending,swati.singh14,swati.singh14@gmail.com,2023-02-07 00:46:57
+U2295,Meena Venkatesh,2023-06-12,Delhi,South,Jewellery,26,Premium,115044.75,495559.39,9,S004,,meena.venkatesh34,meena.venkatesh34@gmail.com,2024-05-16 15:45:11
+U2197,Advait Iyer,2024-02-13,Kolkata,East,Mobiles,50,Free,116926.93,191635.4,10,S016,Pending,,advait.iyer75@outlook.com,2023-04-19 19:59:36
+U2025,Ayaan Shah,2023-06-01,Bangalore,North,Jewellery,47,Free,130641.03,258493.78,10,S004,,ayaan.shah62,ayaan.shah62@rediffmail.com,2024-06-19 06:31:10
+U2331,Diya Bose,2023-09-15,Visakhapatnam,North,Clothing,32,Premium,,407716.09,10,S006,,diya.bose77,diya.bose77@hotmail.com,2023-05-16 06:21:53
+U2048,Nikhil Yadav,2024-11-25,Hyderabad,West,Toys,28,Premium,25928.16,159014.98,11,S014,Pending,nikhil.yadav87,nikhil.yadav87@yahoo.com,2024-03-31 11:02:07
+U2244,Pooja Mehta,2023-10-03,Hyderabad,East,Jewellery,24,Enterprise,41298.21,56436.86,14,S001,Inactive,,pooja.mehta14@rediffmail.com,2023-08-12 15:13:37
+U2127,Shaurya Dubey,2023-03-31,Bhopal,South,Books,29,Free,33120.77,120281.18,11,S010,Inactive,shaurya.dubey8,shaurya.dubey8@gmail.com,2024-07-17 11:12:42
+U2271,Nisha Sinha,2024-05-02,Hyderabad,West,Sports,58,Premium,69256.67,122706.33,9,S017,,,nisha.sinha99@outlook.com,2023-01-11 07:38:04
+U2251,Deepa Agarwal,2023-10-04,Delhi,East,Electronics,65,Premium,10113.14,220105.07,1,S017,Pending,deepa.agarwal42,deepa.agarwal42@rediffmail.com,2024-06-10 08:29:03
+U2078,Priya Agarwal,2023-11-13,Lucknow,Central,Sports,25,Basic,5038.06,320463.46,4,S018,,,priya.agarwal93@yahoo.com,2024-06-11 07:44:26
+U2028,Rajesh Saxena,2024-11-28,Bangalore,West,Electronics,51,Enterprise,21118.95,25237.68,11,S005,,rajesh.saxena59,,2023-08-02 08:10:16
+U2115,Ritvik Pillai,2024-12-07,Delhi,South,Jewellery,53,Free,42592.37,147612.7,1,S009,Pending,ritvik.pillai3,,2024-08-27 01:04:49
+U2192,Sanjay Chauhan,2024-12-04,Hyderabad,South,Jewellery,16,Free,98194.97,242562.62,10,S003,,sanjay.chauhan91,sanjay.chauhan91@outlook.com,2024-10-05 01:10:20
+U2217,Varsha Mukherjee,2023-02-14,Hyderabad,South,Toys,23,Basic,26558.23,83285.2,10,S017,Active,varsha.mukherjee32,varsha.mukherjee32@yahoo.com,2023-05-08 05:52:38
+U2301,Ritu Chowdhury,2023-08-14,Kolkata,West,Clothing,43,Premium,44537.14,97271.08,3,S002,Unknown,ritu.chowdhury94,ritu.chowdhury94@outlook.com,2024-10-24 15:30:13
+U2210,Ira Naidu,2024-08-19,Chennai,North,Clothing,60,Basic,,,6,S005,Active,ira.naidu57,ira.naidu57@yahoo.com,2024-06-17 00:19:47
+U2043,Lakshmi Menon,2023-06-12,Delhi,North,Groceries,53,Enterprise,22011.53,490156.91,11,S012,Inactive,lakshmi.menon52,,2024-05-19 14:48:49
+U2236,Dhruv Saxena,2024-08-28,Mumbai,South,Toys,21,Basic,123079.72,178435.42,4,S020,,,dhruv.saxena5@outlook.com,2024-05-09 17:31:20
+U2278,Arjun Kumar,2024-06-03,Delhi,Central,Mobiles,43,Free,115987.23,412193.4,8,S001,,,arjun.kumar91@gmail.com,2024-12-28 10:39:49
+U2326,Ritu Sharma,2023-05-01,Chennai,East,Mobiles,19,Premium,50458.46,252523.93,12,S008,,ritu.sharma47,ritu.sharma47@outlook.com,2024-12-04 04:48:09
+U2300,Myra Iyer,2024-07-16,Mumbai,North,Sports,30,Premium,66742.98,123673.2,11,S019,Pending,myra.iyer62,,2024-07-09 14:37:15
+U2023,Shaurya Saxena,2023-04-30,Lucknow,South,Jewellery,59,Premium,136265.83,328511.19,14,S010,Pending,shaurya.saxena98,shaurya.saxena98@gmail.com,2023-11-14 17:09:23
+U2263,Ira Rao,2023-07-07,Chennai,Central,Jewellery,50,Free,20125.12,299967.37,15,S004,,ira.rao66,ira.rao66@hotmail.com,2024-09-15 02:58:07
+U2271,Nisha Sinha,2024-05-02,Hyderabad,West,Sports,58,Premium,69256.67,122706.33,9,S017,,,nisha.sinha99@outlook.com,2023-01-11 07:38:04
+U2053,Sanjay Saxena,2023-01-21,Bangalore,North,Clothing,23,Enterprise,78859.82,,4,S018,Inactive,sanjay.saxena56,sanjay.saxena56@rediffmail.com,2024-01-21 11:04:42
+U2148,Anika Chowdhury,2024-11-13,Bangalore,North,Sports,17,Basic,35789.79,113361.91,12,S017,Unknown,anika.chowdhury6,anika.chowdhury6@gmail.com,2024-02-05 19:27:18
+U2113,Atharv Rao,2023-04-03,Chennai,Central,Books,55,Basic,137148.1,99347.99,4,S010,Inactive,atharv.rao35,atharv.rao35@outlook.com,2024-08-20 07:54:27
+U2185,Varsha Rao,2023-08-13,Pune,East,Groceries,47,Free,149965.99,192783.3,14,S005,Active,varsha.rao46,varsha.rao46@gmail.com,2024-01-05 04:23:50
+U2220,Vivaan Sharma,2024-10-09,Surat,West,Sports,52,Basic,108491.4,380355.26,10,S012,,vivaan.sharma57,,2024-03-22 20:40:55
+U2043,Karan Patel,2023-11-10,Lucknow,Central,Jewellery,57,Basic,30705.01,63360.78,6,S017,Unknown,karan.patel46,karan.patel46@rediffmail.com,2023-01-18 09:12:54
+U2176,Varsha Pandey,2024-02-03,Bangalore,North,Clothing,58,Premium,96854.42,432056.76,1,S008,Unknown,varsha.pandey82,varsha.pandey82@yahoo.com,2023-01-17 03:05:29
+U2219,Vihaan Kapoor,2023-11-16,Kochi,East,Mobiles,53,Basic,97764.13,75530.6,1,S017,Active,vihaan.kapoor28,vihaan.kapoor28@gmail.com,2023-04-28 02:06:13
+U2202,Sneha Sinha,2023-05-13,Hyderabad,South,Mobiles,44,Free,79260.68,338949.43,1,S004,Pending,sneha.sinha21,sneha.sinha21@hotmail.com,2024-07-03 15:38:38
+U2065,Pranav Rao,2023-08-14,Bangalore,North,Electronics,47,Free,134129.45,418873.3,11,S008,Unknown,pranav.rao77,pranav.rao77@gmail.com,2023-06-15 05:51:34
+U2080,Saanvi Krishnamurthy,2023-07-17,Delhi,East,Toys,61,Basic,59023.27,,5,S001,Pending,saanvi.krishnamurthy81,saanvi.krishnamurthy81@hotmail.com,2023-02-07 16:45:00
+U2344,Ayaan Krishnamurthy,2023-04-12,Visakhapatnam,West,Home & Garden,61,Free,70004.24,446852.73,4,S010,Active,,ayaan.krishnamurthy35@rediffmail.com,2023-12-16 02:22:23
+U2264,Vivaan Kumar,2023-08-04,Chandigarh,East,Toys,29,Premium,87356.7,488298.5,10,S002,,vivaan.kumar20,vivaan.kumar20@hotmail.com,2024-10-18 01:31:58
+U2102,Vivaan Banerjee,2023-09-07,Mumbai,Central,Sports,27,Free,110742.16,,15,S003,Active,vivaan.banerjee8,vivaan.banerjee8@gmail.com,2023-12-14 20:57:35
+U2064,Deepa Reddy,2024-03-27,Hyderabad,South,Books,18,Basic,26534.26,139398.41,3,S005,Active,,deepa.reddy85@gmail.com,2024-11-30 17:49:52
+U2171,Pranav Reddy,2024-10-25,Chennai,Central,Mobiles,25,Premium,88358.65,378474.87,10,S002,Inactive,pranav.reddy93,,2024-02-08 09:14:23
+U2092,Jyoti Shah,2024-01-25,Chandigarh,West,Books,19,Free,32699.71,462702.84,1,S018,,jyoti.shah12,jyoti.shah12@hotmail.com,
+U2027,Myra Menon,2024-02-17,Nagpur,South,Books,47,Free,132595.59,361031.5,3,S004,,myra.menon33,myra.menon33@gmail.com,2023-06-20 00:42:29
+U2255,Saanvi Patil,2023-11-28,Indore,North,Electronics,27,Premium,7208.78,,12,S008,Inactive,saanvi.patil23,saanvi.patil23@hotmail.com,2024-07-07 01:52:53
+U2124,Riya Venkatesh,2023-08-29,Ahmedabad,South,Sports,16,Enterprise,59471.52,464754.05,10,S003,Inactive,riya.venkatesh48,riya.venkatesh48@rediffmail.com,2023-09-22 10:46:06
+U2048,Ananya Chowdhury,2024-07-21,Mumbai,South,Toys,47,Enterprise,106619.23,243793.22,11,S012,Pending,,ananya.chowdhury81@yahoo.com,2023-09-24 10:51:20
+U2058,Myra Mehta,2023-11-03,Bangalore,Central,Home & Garden,50,Enterprise,147512.8,307218.88,7,S013,Active,myra.mehta50,myra.mehta50@hotmail.com,2024-10-19 02:55:49
+U2103,Rajesh Mishra,2023-11-14,Nagpur,East,Sports,64,Free,,206645.42,12,S001,Unknown,rajesh.mishra61,rajesh.mishra61@gmail.com,2024-09-22 11:41:19
+U2214,Kavita Bose,2023-03-05,Mumbai,West,Books,40,Enterprise,93522.3,232916.83,7,S009,,,kavita.bose84@yahoo.com,2023-10-02 12:29:51
+U2029,Pradeep Rao,2023-03-06,Lucknow,East,Sports,18,Enterprise,35624.91,433365.38,4,S008,,pradeep.rao21,pradeep.rao21@yahoo.com,2024-05-06 13:05:50
+U2193,Ahana Menon,2023-03-22,Visakhapatnam,Central,Home & Garden,24,Enterprise,101703.79,182075.38,3,S003,,,ahana.menon71@rediffmail.com,2023-03-10 11:48:46
+U2314,Radha Bose,2023-03-22,Chennai,East,Groceries,53,Enterprise,54918.35,336344.86,6,S012,,radha.bose49,radha.bose49@outlook.com,2024-01-01 12:20:32
+U2254,Suresh Patel,2024-01-31,Delhi,Central,Groceries,35,Premium,24151.43,,6,S006,Active,suresh.patel96,suresh.patel96@hotmail.com,2023-06-03 19:35:00
+U2311,Swati Singh,2024-05-24,Lucknow,North,Electronics,52,Basic,133521.6,377844.57,10,S019,,swati.singh91,swati.singh91@rediffmail.com,2023-05-28 07:57:38
+U2185,Lakshmi Venkatesh,2024-06-20,Chennai,North,Clothing,45,Premium,15732.13,58839.36,14,S018,Pending,lakshmi.venkatesh27,lakshmi.venkatesh27@hotmail.com,2024-07-01 01:05:54
+U2127,Shweta Menon,2024-01-10,Bangalore,Central,Sports,60,Basic,110601.13,485116.71,9,S020,,shweta.menon93,shweta.menon93@hotmail.com,2024-01-31 01:08:52
+U2264,Sita Srinivasan,2023-12-27,Hyderabad,North,Jewellery,41,Premium,144047.37,9925.91,9,S016,,sita.srinivasan3,,2024-06-28 06:33:16
+U2092,Aarush Chowdhury,2023-01-08,Bangalore,East,Electronics,25,Premium,139804.3,,6,S001,,aarush.chowdhury50,aarush.chowdhury50@yahoo.com,2024-08-14 05:33:08
+U2193,Ahana Menon,2023-03-22,Visakhapatnam,Central,Home & Garden,24,Enterprise,101703.79,182075.38,3,S003,,,ahana.menon71@rediffmail.com,2023-03-10 11:48:46
+U2033,Vivaan Mishra,2023-10-10,Delhi,North,Jewellery,17,Free,129553.29,11957.06,14,S007,,,vivaan.mishra60@gmail.com,2023-04-27 14:03:57
+U2290,Vivaan Patel,2023-11-09,Bangalore,East,Sports,20,Premium,101742.23,403919.33,2,S010,Inactive,vivaan.patel69,vivaan.patel69@gmail.com,2023-11-03 09:58:16
+U2303,Radha Chowdhury,2023-11-25,Bangalore,South,Groceries,25,Basic,58495.28,83018.18,2,S017,Pending,radha.chowdhury55,radha.chowdhury55@hotmail.com,2023-06-14 21:43:43
+U2335,Kabir Venkatesh,2024-11-23,Nagpur,Central,Toys,41,Enterprise,72280.27,95466.65,4,S015,Inactive,,kabir.venkatesh80@gmail.com,
+U2311,Vihaan Tiwari,2024-04-06,Delhi,South,Groceries,58,Basic,65595.5,102676.85,3,S011,,,,2023-11-16 23:34:07
+U2113,Nisha Chowdhury,2024-08-20,Delhi,North,Jewellery,40,Enterprise,115894.26,68164.44,10,S020,,nisha.chowdhury89,nisha.chowdhury89@rediffmail.com,
+U2162,Advik Desai,2024-03-07,Coimbatore,West,Toys,25,Basic,142352.44,344860.5,13,S009,,advik.desai55,advik.desai55@rediffmail.com,2024-07-25 17:08:38
+U2322,Navya Venkatesh,2024-07-23,Bangalore,East,Sports,57,Enterprise,134868.45,482951.14,3,S008,,navya.venkatesh64,navya.venkatesh64@yahoo.com,2023-09-28 09:31:19
+U2340,Pradeep Ghosh,2024-04-03,Bangalore,West,Electronics,42,Free,102072.17,487251.44,6,S003,Inactive,,pradeep.ghosh5@rediffmail.com,2023-05-04 12:54:45
+U2296,Ayaan Dubey,2024-09-01,Bangalore,East,Clothing,33,Free,138505.22,330845.0,9,S020,Inactive,ayaan.dubey25,ayaan.dubey25@gmail.com,2023-08-14 04:09:09
+U2113,Ira Rao,2024-11-18,Jaipur,Central,Clothing,34,Premium,123164.79,439358.16,3,S013,Unknown,ira.rao20,ira.rao20@rediffmail.com,2023-08-01 01:36:52
+U2269,Advait Chowdhury,2023-08-02,Ahmedabad,South,Toys,25,Free,83819.46,213541.85,11,S001,Active,,advait.chowdhury44@yahoo.com,2023-08-21 19:05:33
+U2066,Divya Agarwal,2023-07-25,Mumbai,South,Sports,64,Free,,178898.82,2,S017,Pending,,divya.agarwal5@gmail.com,2024-02-02 00:36:38
+U2309,Priya Desai,2024-08-03,Kanpur,Central,Mobiles,17,Premium,99925.99,53341.38,7,S007,,priya.desai78,priya.desai78@rediffmail.com,2023-06-09 14:49:15
+U2304,Dhruv Mehta,2023-12-14,Delhi,West,Mobiles,25,Free,126780.66,369541.63,7,S006,,dhruv.mehta53,dhruv.mehta53@gmail.com,2023-03-15 18:16:32
+U2021,Diya Mishra,2023-04-11,Chennai,North,Clothing,44,Free,75882.41,346426.96,8,S017,Unknown,diya.mishra36,diya.mishra36@rediffmail.com,2024-12-21 15:37:08
+U2165,Shreya Iyer,2023-08-26,Surat,North,Mobiles,17,Premium,106107.73,95312.01,14,S006,Pending,shreya.iyer69,shreya.iyer69@yahoo.com,2023-11-27 17:34:34
+U2010,Sunita Chatterjee,2024-06-29,Chennai,Central,Home & Garden,37,Premium,37966.36,30995.21,12,S009,Pending,sunita.chatterjee31,sunita.chatterjee31@outlook.com,2023-08-22 03:42:53
+U2281,Pooja Nair,2023-12-02,Kolkata,North,Sports,32,Free,67070.52,290770.22,2,S001,Pending,,pooja.nair46@yahoo.com,2024-12-24 04:57:10
+U2042,Aditya Joshi,2024-09-14,Kolkata,East,Clothing,45,Premium,83004.31,134076.3,3,S002,Unknown,aditya.joshi34,aditya.joshi34@hotmail.com,2023-06-06 17:13:57
+U2094,Rekha Verma,2024-05-09,Hyderabad,Central,Mobiles,58,Premium,64030.52,173876.18,14,S002,Unknown,,rekha.verma20@rediffmail.com,2023-12-19 12:42:41
+U2071,Pranav Naidu,2024-03-20,Jaipur,South,Electronics,32,Basic,36156.85,129830.52,7,S005,Active,pranav.naidu96,pranav.naidu96@rediffmail.com,2024-02-06 09:07:12
+U2250,Geeta Kapoor,2023-05-03,Hyderabad,South,Electronics,49,Free,129411.15,331317.35,13,S015,Active,geeta.kapoor43,geeta.kapoor43@yahoo.com,2023-06-28 07:54:09
+U2079,Prachi Pillai,2023-06-26,Bangalore,North,Mobiles,43,Basic,74714.61,367511.49,12,S006,,,prachi.pillai32@hotmail.com,2024-02-09 14:33:00
+U2235,Shaurya Malhotra,2023-01-14,Bangalore,West,Home & Garden,34,Basic,89732.4,158570.5,8,S007,Unknown,,shaurya.malhotra44@gmail.com,2024-06-16 10:40:24
+U2267,Vikram Pillai,2023-12-02,Ahmedabad,South,Books,61,Enterprise,127340.39,137962.82,5,S020,Unknown,vikram.pillai82,vikram.pillai82@yahoo.com,2024-06-25 13:22:13
+U2317,Priya Reddy,2023-06-29,Jaipur,South,Sports,24,Basic,50217.31,498355.08,8,S016,,,priya.reddy89@gmail.com,2023-03-01 00:53:55
+U2009,Krishna Pillai,2024-05-07,Indore,North,Toys,30,Basic,87984.41,152558.74,8,S014,Pending,,krishna.pillai4@gmail.com,2024-04-16 07:51:46
+U2007,Aarush Bose,2024-11-26,Chennai,Central,Jewellery,41,Free,98220.36,436884.4,1,S001,Inactive,aarush.bose68,aarush.bose68@gmail.com,2024-04-03 05:21:41
+U2216,Geeta Chauhan,2023-11-22,Hyderabad,South,Toys,64,Enterprise,120582.72,317562.97,4,S020,Unknown,geeta.chauhan52,geeta.chauhan52@outlook.com,2024-10-03 05:28:26
+U2052,Dhruv Chatterjee,2023-07-13,Guwahati,West,Sports,56,Enterprise,114564.16,431948.83,11,S013,Unknown,dhruv.chatterjee20,dhruv.chatterjee20@hotmail.com,2024-04-15 21:34:50
+U2216,Atharv Mishra,2023-10-25,Bangalore,North,Jewellery,40,Free,,484897.78,7,S020,,atharv.mishra17,atharv.mishra17@yahoo.com,2023-05-29 19:52:04
+U2171,Shweta Sinha,2024-01-31,Kolkata,South,Electronics,42,Premium,88237.02,158576.8,9,S005,Unknown,shweta.sinha37,shweta.sinha37@rediffmail.com,2024-11-14 23:10:00
+U2113,Ankita Verma,2024-11-25,Coimbatore,North,Groceries,58,Free,141482.36,120271.13,8,S013,,,ankita.verma25@yahoo.com,2023-03-29 04:53:52
+U2112,Myra Desai,2024-12-30,Kanpur,North,Groceries,43,Basic,23512.76,276261.69,11,S006,Unknown,myra.desai94,myra.desai94@hotmail.com,2024-06-04 12:11:52
+U2145,Prachi Iyer,2023-03-15,Indore,West,Books,20,Enterprise,,88305.71,12,S006,Pending,prachi.iyer19,prachi.iyer19@hotmail.com,2023-12-31 03:46:11
+U2041,Dhruv Sinha,2023-05-24,Indore,West,Electronics,40,Basic,9289.76,332940.29,11,S017,Active,dhruv.sinha81,dhruv.sinha81@yahoo.com,2024-08-14 10:31:11
+U2167,Tanvi Pandey,2023-01-10,Bangalore,South,Jewellery,36,Basic,13433.67,271362.8,7,S005,,tanvi.pandey87,tanvi.pandey87@outlook.com,2023-04-10 01:57:51
+U2312,Swati Mukherjee,2024-06-13,Bangalore,Central,Sports,35,Basic,6644.03,180620.36,8,S011,Unknown,swati.mukherjee30,swati.mukherjee30@hotmail.com,2023-09-17 06:05:59
+U2331,Mahesh Rao,2023-05-12,Indore,North,Clothing,32,Basic,103508.08,199721.61,3,S004,,mahesh.rao71,mahesh.rao71@rediffmail.com,2023-02-03 11:55:03
+U2267,Vikram Pillai,2023-12-02,Ahmedabad,South,Books,61,Enterprise,127340.39,137962.82,5,S020,Unknown,vikram.pillai82,vikram.pillai82@yahoo.com,2024-06-25 13:22:13
+U2228,Priya Krishnamurthy,2023-02-08,Bhopal,Central,Sports,58,Premium,8540.71,39526.04,4,S008,Pending,priya.krishnamurthy94,priya.krishnamurthy94@rediffmail.com,2024-07-22 12:46:42
+U2176,Ankita Rao,2024-02-28,Delhi,East,Sports,50,Free,135406.83,477904.03,12,S017,Active,,ankita.rao26@rediffmail.com,2023-03-26 17:05:03
+U2119,Rajesh Desai,2024-11-15,Bangalore,Central,Sports,30,Basic,35367.39,197287.5,14,S002,,rajesh.desai22,rajesh.desai22@gmail.com,2023-04-15 13:41:21
+U2110,Vivaan Tiwari,2024-09-06,Ahmedabad,North,Home & Garden,29,Free,25998.71,90649.25,11,S012,Pending,vivaan.tiwari55,vivaan.tiwari55@rediffmail.com,2023-05-18 21:14:29
+U2012,Pranav Yadav,2024-07-20,Chennai,West,Books,27,Premium,30126.92,280631.61,7,S007,Unknown,pranav.yadav57,pranav.yadav57@hotmail.com,2024-03-30 07:50:02
+U2211,Sita Iyer,2024-08-29,Hyderabad,North,Toys,44,Premium,86721.61,137669.25,1,S008,,sita.iyer18,sita.iyer18@gmail.com,2024-04-11 22:32:44
+U2330,Atharv Bose,2024-05-06,Bangalore,North,Clothing,31,Premium,40643.32,162270.86,4,S006,Unknown,atharv.bose1,atharv.bose1@yahoo.com,2024-03-07 07:23:30
+U2296,Dhruv Joshi,2023-08-11,Chennai,Central,Electronics,31,Premium,147444.48,309200.5,12,S006,,dhruv.joshi85,dhruv.joshi85@rediffmail.com,2023-01-09 08:41:20
+U2056,Ahana Shukla,2024-11-24,Chennai,South,Toys,65,Basic,138913.78,88159.54,15,S001,Unknown,ahana.shukla97,ahana.shukla97@yahoo.com,2024-02-27 11:01:10
+U2306,Sita Iyer,2023-07-09,Bangalore,East,Clothing,65,Enterprise,77657.27,462817.86,9,S018,Pending,sita.iyer86,sita.iyer86@gmail.com,2024-01-10 19:51:47
+U2329,Ishaan Chatterjee,2023-05-16,Delhi,North,Home & Garden,24,Basic,149716.42,431637.48,12,S020,,,ishaan.chatterjee90@hotmail.com,2023-08-16 03:04:50
+U2247,Sunita Nair,2024-05-11,Ahmedabad,North,Sports,61,Enterprise,50857.12,183205.93,8,S017,Unknown,sunita.nair66,sunita.nair66@outlook.com,2023-02-10 22:46:38
+U2201,Deepa Joshi,2024-09-24,Mumbai,West,Sports,39,Enterprise,73574.91,104851.8,3,S012,Unknown,deepa.joshi30,deepa.joshi30@hotmail.com,2024-10-23 04:21:28
+U2132,Pooja Saxena,2023-12-13,Chennai,West,Books,21,Free,106110.31,200272.08,15,S009,Pending,,,2024-02-17 21:46:37
+U2159,Tanya Singh,2023-02-24,Hyderabad,East,Groceries,33,Free,71262.62,464038.07,7,S004,,tanya.singh88,tanya.singh88@outlook.com,2023-06-08 10:21:42
+U2125,Navya Reddy,2023-02-09,Chennai,Central,Books,33,Premium,75324.27,58769.21,7,S006,,navya.reddy92,navya.reddy92@rediffmail.com,2023-02-04 17:38:26
+U2235,Sanjay Verma,2024-09-15,Delhi,South,Home & Garden,40,Free,148704.79,286848.67,10,S005,,,sanjay.verma32@gmail.com,2024-08-24 09:58:08
+U2040,Ishaan Mishra,2024-08-21,Chennai,East,Jewellery,38,Enterprise,138300.86,159764.79,3,S009,,ishaan.mishra75,ishaan.mishra75@yahoo.com,2023-06-19 13:40:21
+U2123,Aarush Sinha,2023-12-08,Mumbai,Central,Toys,64,Basic,23303.19,419775.08,7,S007,Active,,aarush.sinha73@gmail.com,2023-08-07 04:02:23
+U2157,Krishna Singh,2023-06-07,Mumbai,North,Electronics,28,Basic,38422.74,131592.76,3,S009,Active,krishna.singh89,krishna.singh89@outlook.com,2023-06-23 13:38:25
+U2073,Geeta Bose,2023-07-06,Coimbatore,East,Electronics,23,Premium,126946.44,220336.33,2,S020,Unknown,geeta.bose87,geeta.bose87@outlook.com,2024-11-27 01:40:44
+U2231,Sneha Kumar,2023-08-22,Lucknow,South,Mobiles,39,Basic,66398.55,180828.8,6,S010,Unknown,sneha.kumar66,sneha.kumar66@hotmail.com,2024-08-15 00:36:38
+U2056,Sai Chowdhury,2024-05-10,Bangalore,East,Mobiles,52,Basic,119040.89,419734.68,13,S019,Unknown,sai.chowdhury60,sai.chowdhury60@rediffmail.com,2023-10-18 19:28:12
+U2057,Pradeep Pandey,2023-02-06,Hyderabad,Central,Toys,57,Premium,68172.83,271553.8,6,S014,,,pradeep.pandey35@gmail.com,2024-08-29 15:35:42
+U2203,Ritu Venkatesh,2024-07-29,Mumbai,East,Home & Garden,22,Basic,62882.19,490827.32,8,S012,Pending,ritu.venkatesh95,ritu.venkatesh95@yahoo.com,2023-04-15 13:57:41
+U2333,Anika Patel,2023-06-08,Bangalore,South,Mobiles,60,Premium,129354.12,449799.37,10,S009,Pending,anika.patel83,anika.patel83@hotmail.com,2024-11-02 16:46:15
+U2153,Ahana Venkatesh,2024-05-10,Chennai,East,Mobiles,48,Basic,53046.17,88288.09,4,S004,,ahana.venkatesh33,ahana.venkatesh33@outlook.com,2023-05-15 15:14:02
+U2255,Rekha Mukherjee,2023-12-11,Delhi,South,Mobiles,63,Enterprise,135236.82,169496.79,2,S014,Active,rekha.mukherjee51,rekha.mukherjee51@rediffmail.com,2023-06-16 04:04:28
+U2029,Ritu Pandey,2023-07-04,Mumbai,North,Groceries,20,Enterprise,138367.53,400388.85,8,S008,,ritu.pandey27,ritu.pandey27@rediffmail.com,2023-04-24 05:27:08
+U2051,Diya Naidu,2024-08-17,Chennai,South,Sports,58,Premium,71916.53,151476.26,14,S008,,diya.naidu45,diya.naidu45@yahoo.com,2023-09-21 04:59:23
+U2090,Asha Shukla,2023-09-02,Kanpur,Central,Books,35,Basic,117382.17,321729.5,2,S009,Inactive,,asha.shukla93@rediffmail.com,2023-06-23 10:28:08
+U2078,Pranav Bose,2024-01-08,Nagpur,West,Clothing,37,Free,123304.46,54611.12,10,S009,Unknown,pranav.bose14,pranav.bose14@yahoo.com,2024-09-25 00:07:16
+U2330,Shweta Mishra,2024-05-30,Mumbai,North,Sports,44,Premium,96940.65,217784.84,14,S010,,shweta.mishra57,shweta.mishra57@hotmail.com,2024-01-08 18:43:48
+U2315,Meena Menon,2024-03-29,Bangalore,East,Jewellery,42,Free,45867.59,58229.82,7,S019,Pending,,meena.menon99@rediffmail.com,2024-07-31 01:49:35
+U2191,Tanvi Rao,2023-10-31,Mumbai,East,Jewellery,28,Free,82917.02,191560.4,4,S002,,tanvi.rao28,tanvi.rao28@hotmail.com,2024-10-04 10:56:32
+U2228,Rahul Iyer,2023-10-04,Kochi,East,Mobiles,26,Enterprise,82697.4,346809.76,14,S008,Unknown,rahul.iyer70,,2024-05-17 15:22:20
+U2344,Atharv Tiwari,2023-12-14,Guwahati,West,Home & Garden,16,Free,2551.4,406232.7,7,S014,Unknown,atharv.tiwari84,atharv.tiwari84@gmail.com,2024-10-17 23:19:02
+U2264,Anika Chowdhury,2023-06-09,Delhi,West,Toys,34,Free,134456.88,210150.6,11,S008,,anika.chowdhury56,anika.chowdhury56@outlook.com,2023-09-08 07:04:58
+U2164,Divya Venkatesh,2023-04-04,Ahmedabad,Central,Jewellery,37,Premium,71090.4,497430.73,5,S002,Inactive,divya.venkatesh33,divya.venkatesh33@outlook.com,2024-03-15 16:10:07
+U2053,Sanjay Saxena,2023-01-21,Bangalore,North,Clothing,23,Enterprise,78859.82,,4,S018,Inactive,sanjay.saxena56,sanjay.saxena56@rediffmail.com,2024-01-21 11:04:42
+U2327,Kavita Krishnamurthy,2023-07-30,Delhi,East,Toys,22,Premium,19023.55,228312.33,10,S015,,,kavita.krishnamurthy99@gmail.com,2023-05-12 05:54:01
+U2185,Myra Patel,2024-01-12,Surat,North,Sports,27,Free,127090.86,124219.49,4,S006,,myra.patel21,myra.patel21@outlook.com,2023-03-11 01:26:02
+U2285,Sita Kapoor,2024-10-11,Surat,Central,Clothing,60,Free,57651.91,299497.68,7,S019,,sita.kapoor90,sita.kapoor90@outlook.com,2024-04-18 05:07:00
+U2066,Divya Agarwal,2023-07-25,Mumbai,South,Sports,64,Free,,178898.82,2,S017,Pending,,divya.agarwal5@gmail.com,2024-02-02 00:36:38
+U2126,Navya Sinha,2024-01-21,Hyderabad,Central,Sports,44,Free,48296.73,78808.76,15,S002,,navya.sinha55,navya.sinha55@rediffmail.com,2024-10-23 03:11:33
+U2214,Sanjay Kumar,2024-06-13,Delhi,East,Jewellery,22,Free,5273.97,66903.47,6,S014,,sanjay.kumar65,sanjay.kumar65@rediffmail.com,2024-11-04 13:43:48
+U2067,Rahul Srinivasan,2024-12-31,Kanpur,South,Sports,36,Premium,3677.71,377095.32,15,S010,,rahul.srinivasan64,,2023-01-16 16:55:37
+U2134,Tanya Joshi,2024-08-21,Kanpur,West,Sports,36,Basic,27453.36,204831.24,7,S011,Unknown,tanya.joshi31,,2023-05-06 15:05:26
+U2046,Shweta Shukla,2023-08-27,Pune,West,Mobiles,40,Free,42212.21,38273.99,9,S017,Inactive,shweta.shukla77,,2024-06-03 17:16:05
+U2199,Jyoti Iyer,2023-04-21,Bangalore,Central,Clothing,53,Enterprise,140426.21,285275.33,11,S006,Inactive,jyoti.iyer47,jyoti.iyer47@outlook.com,2023-10-27 10:29:41
+U2291,Swati Chatterjee,2024-11-08,Delhi,East,Toys,22,Premium,122958.04,452001.57,2,S010,,swati.chatterjee33,swati.chatterjee33@rediffmail.com,2023-08-22 05:32:54
+U2290,Vivaan Patel,2023-11-09,Bangalore,East,Sports,20,Premium,101742.23,403919.33,2,S010,Inactive,vivaan.patel69,vivaan.patel69@gmail.com,2023-11-03 09:58:16
+U2084,Suresh Reddy,2023-10-17,Kolkata,Central,Electronics,44,Basic,111485.61,100746.53,13,S010,,,suresh.reddy52@rediffmail.com,2023-02-18 17:21:40
+U2199,Ishaan Pandey,2024-11-19,Hyderabad,South,Electronics,61,Enterprise,47444.36,469003.16,14,S015,,ishaan.pandey78,ishaan.pandey78@yahoo.com,
+U2196,Radha Naidu,2024-01-03,Delhi,South,Electronics,51,Premium,48698.0,227975.6,14,S010,,radha.naidu21,radha.naidu21@hotmail.com,2023-12-07 11:29:04
+U2062,Vihaan Rao,2024-03-24,Chennai,North,Books,49,Basic,100069.19,185371.29,12,S012,Inactive,vihaan.rao72,vihaan.rao72@gmail.com,2024-10-07 04:13:30
+U2113,Pihu Venkatesh,2024-08-24,Coimbatore,North,Books,35,Basic,85501.04,306585.66,10,S007,Pending,pihu.venkatesh15,pihu.venkatesh15@rediffmail.com,2023-11-22 18:18:24
+U2291,Jyoti Patil,2023-08-15,Jaipur,Central,Books,45,Free,70397.94,121278.77,4,S007,Unknown,jyoti.patil89,jyoti.patil89@hotmail.com,2023-07-05 06:44:06
+U2037,Karan Srinivasan,2024-06-18,Bangalore,West,Jewellery,32,Free,12680.73,45879.46,10,S002,,karan.srinivasan43,karan.srinivasan43@hotmail.com,2024-01-17 23:39:24
+U2240,Prachi Verma,2024-12-04,Indore,South,Jewellery,58,Basic,21840.89,472799.99,12,S002,,prachi.verma83,prachi.verma83@yahoo.com,
+U2277,Kabir Das,2023-06-30,Bangalore,East,Books,26,Premium,136394.96,380446.52,15,S001,Inactive,kabir.das47,kabir.das47@hotmail.com,2024-11-24 12:19:48
+U2270,Nisha Mishra,2024-05-31,Kochi,West,Groceries,61,Premium,25204.09,468908.11,1,S006,,,,2023-11-24 13:06:59
+U2190,Jyoti Reddy,2023-07-02,Chennai,Central,Toys,38,Basic,66947.37,189541.67,5,S007,Inactive,,jyoti.reddy91@hotmail.com,2024-05-30 05:01:21
+U2024,Varsha Nair,2023-11-24,Kolkata,East,Groceries,60,Premium,61486.47,44045.36,6,S002,,varsha.nair18,varsha.nair18@rediffmail.com,2024-01-21 17:46:19
+U2128,Anika Rao,2024-06-24,Mumbai,North,Clothing,35,Basic,33615.1,5428.73,5,S015,,anika.rao81,anika.rao81@outlook.com,2024-02-29 20:51:38
+U2051,Prachi Kapoor,2023-03-27,Hyderabad,West,Groceries,20,Enterprise,14779.91,394578.45,2,S004,,prachi.kapoor28,prachi.kapoor28@gmail.com,2024-09-22 08:23:10
+U2010,Shaurya Srinivasan,2023-06-13,Bangalore,South,Clothing,54,Basic,100916.34,414834.85,10,S007,Pending,shaurya.srinivasan43,shaurya.srinivasan43@hotmail.com,2024-02-22 19:26:39
+U2138,Aarush Chatterjee,2024-09-02,Bangalore,North,Groceries,54,Premium,125140.24,491775.12,9,S010,Active,aarush.chatterjee65,aarush.chatterjee65@outlook.com,2023-01-19 00:49:50
+U2313,Prachi Chowdhury,2024-04-15,Jaipur,Central,Sports,30,Free,121162.7,344731.98,12,S016,Pending,prachi.chowdhury23,prachi.chowdhury23@outlook.com,2023-10-13 09:06:28
+U2006,Ahana Agarwal,2023-12-20,Delhi,Central,Sports,63,Basic,103398.92,53878.33,9,S014,Inactive,ahana.agarwal52,ahana.agarwal52@hotmail.com,2024-06-06 17:41:52
+U2350,Sita Reddy,2024-11-12,Delhi,East,Toys,29,Free,62620.5,190201.69,7,S011,,sita.reddy15,sita.reddy15@hotmail.com,
+U2213,Rohan Reddy,2024-03-19,Mumbai,South,Books,30,Basic,83984.28,15693.6,15,S018,,rohan.reddy98,rohan.reddy98@yahoo.com,2024-11-07 09:49:09
+U2070,Vivaan Chauhan,2024-03-31,Bhopal,West,Electronics,53,Premium,96809.15,197310.61,11,S002,,,,2024-03-06 18:16:43
+U2119,Varsha Sharma,2023-03-24,Nagpur,South,Jewellery,24,Premium,68081.28,2802.29,3,S020,Unknown,varsha.sharma84,varsha.sharma84@outlook.com,2024-05-26 00:04:33
+U2036,Rekha Ghosh,2023-01-24,Mumbai,North,Groceries,60,Free,45175.69,43871.14,4,S015,Unknown,rekha.ghosh9,rekha.ghosh9@gmail.com,2023-06-26 19:53:29
+U2166,Meena Agarwal,2024-10-16,Kolkata,East,Home & Garden,40,Free,,33783.8,13,S018,Active,meena.agarwal69,meena.agarwal69@yahoo.com,2023-10-21 00:37:39
+U2176,Advik Shukla,2024-08-24,Chennai,North,Groceries,19,Basic,88461.41,295741.42,10,S001,,advik.shukla35,advik.shukla35@outlook.com,2023-09-20 13:44:03
+U2256,Rohan Mehta,2024-05-24,Hyderabad,East,Jewellery,43,Basic,36688.44,278025.87,6,S008,,rohan.mehta27,rohan.mehta27@outlook.com,2024-08-02 07:28:31
+U2176,Ankita Rao,2024-02-28,Delhi,East,Sports,50,Free,135406.83,477904.03,12,S017,Active,,ankita.rao26@rediffmail.com,2023-03-26 17:05:03
+U2044,Asha Verma,2023-06-27,Hyderabad,South,Electronics,34,Enterprise,17321.46,192921.57,7,S003,Active,asha.verma32,asha.verma32@outlook.com,2023-08-09 06:26:32
+U2030,Suresh Chatterjee,2024-10-07,Mumbai,East,Electronics,60,Enterprise,,,12,S018,Active,suresh.chatterjee24,,
+U2178,Reyansh Malhotra,2024-12-05,Bhopal,West,Books,40,Basic,44438.47,114743.45,9,S011,,reyansh.malhotra22,reyansh.malhotra22@rediffmail.com,2024-01-14 11:49:47
+U2155,Vivaan Tiwari,2023-02-01,Hyderabad,West,Clothing,25,Premium,65545.32,197502.24,5,S005,,vivaan.tiwari60,vivaan.tiwari60@outlook.com,2024-07-29 07:36:48
+U2320,Jyoti Shah,2024-04-05,Hyderabad,East,Sports,31,Enterprise,117679.26,349756.97,3,S013,Active,jyoti.shah53,jyoti.shah53@yahoo.com,2023-12-12 03:05:27
+U2210,Shaurya Shah,2024-04-06,Delhi,East,Jewellery,19,Basic,62288.51,128020.24,12,S009,Pending,shaurya.shah94,shaurya.shah94@outlook.com,2024-05-14 14:12:39
+U2048,Rajesh Tiwari,2024-01-04,Guwahati,North,Books,17,Premium,143091.2,228977.05,13,S005,Pending,,rajesh.tiwari40@rediffmail.com,2023-01-26 01:28:03
+U2190,Jyoti Reddy,2023-07-02,Chennai,Central,Toys,38,Basic,66947.37,189541.67,5,S007,Inactive,,jyoti.reddy91@hotmail.com,2024-05-30 05:01:21
+U2299,Neha Mishra,2023-03-20,Chennai,West,Mobiles,59,Enterprise,,308231.0,7,S012,Inactive,neha.mishra5,,2023-11-17 03:18:53
+U2285,Priya Mukherjee,2023-02-08,Chennai,Central,Electronics,40,Free,,386419.0,11,S013,Unknown,,priya.mukherjee91@rediffmail.com,2024-07-25 04:10:29
+U2133,Rekha Das,2023-10-12,Chennai,South,Groceries,26,Basic,12960.06,379635.43,10,S007,,rekha.das15,,2023-12-27 03:42:45
+U2286,Aarush Mishra,2023-02-22,Chandigarh,West,Toys,34,Premium,119593.04,47285.87,10,S005,Inactive,aarush.mishra78,aarush.mishra78@yahoo.com,2024-10-02 16:24:19
+U2238,Atharv Sharma,2023-04-04,Chennai,West,Home & Garden,34,Free,100154.08,102416.4,8,S016,Pending,atharv.sharma20,atharv.sharma20@outlook.com,2024-12-28 05:03:32
+U2165,Meena Banerjee,2024-08-01,Bhopal,South,Home & Garden,26,Enterprise,103719.14,233441.08,13,S015,Active,meena.banerjee60,meena.banerjee60@gmail.com,2023-05-26 03:26:01
+U2012,Aditya Chatterjee,2023-10-09,Chandigarh,West,Books,29,Enterprise,70320.22,98445.75,13,S003,Active,aditya.chatterjee91,aditya.chatterjee91@yahoo.com,2024-03-23 18:46:19
+U2254,Mansi Saxena,2023-05-25,Nagpur,East,Toys,64,Enterprise,43915.05,23760.58,12,S007,Pending,mansi.saxena34,,2023-08-07 08:08:49
+U2224,Sneha Yadav,2023-01-27,Indore,Central,Mobiles,31,Free,35951.43,206244.88,6,S011,Inactive,sneha.yadav21,sneha.yadav21@gmail.com,2023-07-27 01:44:44
+U2306,Sneha Kapoor,2024-09-24,Pune,East,Clothing,23,Enterprise,42654.58,436099.52,2,S009,,,sneha.kapoor38@gmail.com,2023-03-31 15:14:01
+U2293,Aarush Mukherjee,2023-03-08,Guwahati,South,Groceries,60,Free,118102.61,230722.89,12,S003,Active,aarush.mukherjee2,aarush.mukherjee2@gmail.com,2023-04-30 22:45:13
+U2284,Divya Mehta,2024-12-27,Guwahati,Central,Home & Garden,64,Premium,3775.44,8340.1,1,S019,Active,divya.mehta74,divya.mehta74@gmail.com,2023-09-20 18:18:31
+U2087,Ishaan Agarwal,2023-12-04,Bangalore,North,Books,50,Enterprise,74912.41,281920.29,1,S018,Pending,ishaan.agarwal6,ishaan.agarwal6@hotmail.com,2024-06-24 08:03:04
+U2095,Ramesh Pillai,2023-09-09,Bangalore,Central,Sports,36,Premium,148868.06,115844.2,13,S004,,,,2023-06-29 12:16:08
+U2072,Rajesh Pillai,2023-07-17,Mumbai,Central,Home & Garden,27,Enterprise,66029.89,243227.02,5,S016,Unknown,rajesh.pillai11,rajesh.pillai11@yahoo.com,2023-10-01 05:38:30
+U2070,Tanvi Srinivasan,2024-09-16,Nagpur,South,Jewellery,34,Premium,149223.31,164412.49,4,S020,,tanvi.srinivasan49,tanvi.srinivasan49@outlook.com,2024-01-20 03:35:51
+U2107,Sneha Yadav,2023-08-14,Lucknow,East,Mobiles,52,Free,12759.74,184818.22,2,S012,,sneha.yadav70,sneha.yadav70@gmail.com,2023-11-21 05:05:30
+U2075,Dhruv Banerjee,2024-07-13,Bangalore,East,Toys,23,Premium,139461.35,413840.17,9,S010,Pending,dhruv.banerjee54,,2023-11-22 18:08:00
+U2199,Vihaan Chowdhury,2023-03-03,Chennai,South,Mobiles,57,Enterprise,18299.11,294544.0,14,S003,Inactive,vihaan.chowdhury44,vihaan.chowdhury44@yahoo.com,2024-04-08 13:05:05
+U2035,Rajesh Rao,2023-10-19,Chennai,West,Clothing,52,Premium,75439.84,11409.94,13,S010,,rajesh.rao12,rajesh.rao12@yahoo.com,2023-10-15 20:15:47
+U2063,Rekha Banerjee,2024-07-24,Mumbai,West,Groceries,35,Enterprise,43236.38,234175.88,15,S019,Pending,rekha.banerjee83,rekha.banerjee83@hotmail.com,2024-11-08 16:27:07
+U2247,Ritu Das,2024-01-13,Hyderabad,South,Jewellery,63,Basic,89225.23,91363.57,9,S015,,ritu.das70,ritu.das70@hotmail.com,2024-02-26 05:34:39
+U2262,Krishna Dubey,2023-08-16,Hyderabad,West,Books,50,Enterprise,108732.71,25716.42,13,S015,Active,krishna.dubey86,,2024-12-07 13:11:11
+U2298,Radha Joshi,2023-01-01,Hyderabad,North,Toys,18,Free,146369.54,155160.31,2,S013,,radha.joshi13,radha.joshi13@gmail.com,
+U2101,Anika Nair,2024-09-11,Bangalore,East,Home & Garden,33,Premium,116847.28,191056.8,10,S006,,anika.nair96,anika.nair96@yahoo.com,2024-05-25 08:21:02
+U2122,Ankita Kapoor,2023-02-01,Delhi,South,Toys,18,Premium,107113.91,397106.39,10,S006,Active,,ankita.kapoor68@gmail.com,2023-03-29 00:46:58
+U2254,Varsha Patel,2024-01-02,Hyderabad,South,Mobiles,35,Free,72652.5,86007.58,8,S012,Pending,varsha.patel58,varsha.patel58@yahoo.com,2024-05-01 05:22:18
+U2192,Ananya Banerjee,2023-09-20,Bangalore,Central,Electronics,32,Premium,122817.2,455946.18,4,S003,Pending,ananya.banerjee60,ananya.banerjee60@hotmail.com,2023-08-24 04:48:52
+U2168,Advait Bose,2023-11-09,Mumbai,Central,Clothing,45,Free,140497.78,186745.66,7,S018,,advait.bose43,,2023-07-24 21:23:16
+U2205,Aditya Ghosh,2023-01-04,Delhi,Central,Jewellery,39,Enterprise,25929.09,82465.36,15,S012,,,aditya.ghosh29@hotmail.com,2024-06-08 19:55:50
+U2156,Ritu Dubey,2024-03-01,Delhi,West,Clothing,62,Enterprise,8383.45,165067.89,14,S014,,ritu.dubey95,ritu.dubey95@rediffmail.com,2023-08-31 15:59:48
+U2267,Aditya Kumar,2024-05-28,Mumbai,South,Groceries,28,Free,53049.63,319690.16,1,S002,Active,,,2024-12-28 22:46:14
+U2330,Sita Kapoor,2024-07-24,Bangalore,North,Electronics,57,Premium,91409.42,50791.88,9,S002,,,sita.kapoor85@hotmail.com,2024-10-08 08:26:51
+U2073,Asha Bose,2023-05-20,Hyderabad,West,Books,62,Free,63519.97,261374.79,14,S006,,asha.bose24,asha.bose24@rediffmail.com,2023-11-18 02:00:33
+U2242,Sonal Ghosh,2024-07-03,Lucknow,South,Groceries,31,Premium,1725.88,57410.74,8,S006,Inactive,,sonal.ghosh70@hotmail.com,2024-09-03 18:51:23
+U2252,Sneha Nair,2023-11-03,Bangalore,East,Books,29,Enterprise,103929.17,138959.55,11,S011,Pending,sneha.nair5,sneha.nair5@gmail.com,2023-04-23 13:03:04
+U2191,Sita Yadav,2023-12-09,Delhi,West,Toys,53,Premium,118227.24,469252.14,10,S006,,,sita.yadav89@hotmail.com,2024-09-27 10:55:27
+U2007,Arjun Sharma,2024-10-28,Bhopal,North,Toys,35,Free,24982.96,243266.97,1,S011,,arjun.sharma8,arjun.sharma8@yahoo.com,2024-09-11 07:52:55
+U2037,Aditya Mehta,2024-03-28,Pune,Central,Toys,23,Enterprise,118426.83,60590.7,1,S013,Active,aditya.mehta99,aditya.mehta99@yahoo.com,2023-06-22 03:12:17
+U2099,Aarush Sharma,2023-02-06,Delhi,North,Books,63,Basic,143697.29,192662.56,1,S003,Pending,aarush.sharma60,aarush.sharma60@gmail.com,2023-04-21 21:23:10
+U2203,Pooja Shukla,2024-11-29,Chennai,East,Electronics,27,Basic,54399.19,463661.06,12,S010,Unknown,,pooja.shukla13@rediffmail.com,2024-09-28 04:23:33
+U2115,Ritvik Pillai,2024-12-07,Delhi,South,Jewellery,53,Free,42592.37,147612.7,1,S009,Pending,ritvik.pillai3,,2024-08-27 01:04:49
+U2207,Vivaan Nair,2024-08-15,Indore,South,Sports,17,Enterprise,86068.89,185707.6,14,S002,Inactive,,vivaan.nair74@yahoo.com,2023-12-10 06:54:54
+U2034,Atharv Yadav,2023-06-13,Kolkata,West,Home & Garden,22,Premium,119786.7,21253.16,2,S018,,,atharv.yadav20@yahoo.com,2024-06-19 01:57:09
+U2247,Myra Bose,2023-08-24,Delhi,West,Jewellery,21,Premium,42193.29,119990.47,11,S014,,myra.bose2,myra.bose2@yahoo.com,2023-07-06 18:51:08
+U2155,Vihaan Ghosh,2023-09-27,Chennai,Central,Groceries,40,Basic,19119.39,344679.54,10,S002,,vihaan.ghosh27,vihaan.ghosh27@outlook.com,2024-07-30 07:38:41
+U2312,Pradeep Gupta,2023-07-15,Mumbai,South,Clothing,19,Basic,102077.26,364066.89,2,S005,,,,
+U2202,Kavya Mishra,2023-04-24,Mumbai,East,Mobiles,32,Basic,30996.62,206170.29,10,S018,,kavya.mishra4,kavya.mishra4@rediffmail.com,2024-11-22 14:46:45
+U2048,Lakshmi Gupta,2024-02-12,Chennai,North,Books,40,Enterprise,115925.58,10597.06,15,S014,Unknown,lakshmi.gupta25,lakshmi.gupta25@gmail.com,
+U2284,Divya Mehta,2024-12-27,Guwahati,Central,Home & Garden,64,Premium,3775.44,8340.1,1,S019,Active,divya.mehta74,divya.mehta74@gmail.com,2023-09-20 18:18:31
+U2251,Deepa Agarwal,2023-10-04,Delhi,East,Electronics,65,Premium,10113.14,220105.07,1,S017,Pending,deepa.agarwal42,deepa.agarwal42@rediffmail.com,2024-06-10 08:29:03
+U2024,Mansi Reddy,2023-03-31,Bhopal,North,Sports,18,Basic,92917.14,282393.37,7,S008,,mansi.reddy63,mansi.reddy63@outlook.com,2023-05-14 15:31:46
+U2294,Advik Nair,2023-05-20,Mumbai,East,Home & Garden,31,Basic,30785.18,68722.43,9,S009,,advik.nair2,advik.nair2@outlook.com,2024-02-05 06:47:52
+U2304,Pihu Yadav,2024-06-26,Pune,North,Sports,49,Basic,123513.41,253352.41,7,S003,Inactive,pihu.yadav36,pihu.yadav36@hotmail.com,2023-10-13 16:08:28
+U2182,Neha Chowdhury,2024-05-02,Bhopal,South,Clothing,52,Enterprise,55340.49,288781.92,10,S014,Inactive,,neha.chowdhury52@rediffmail.com,2024-07-07 18:35:53
+U2092,Myra Gupta,2023-06-13,Nagpur,East,Groceries,54,Enterprise,9865.17,181428.2,5,S018,Inactive,myra.gupta60,myra.gupta60@yahoo.com,2023-09-05 17:13:17
+U2221,Sita Iyer,2023-05-10,Hyderabad,Central,Clothing,22,Basic,8691.58,19095.27,9,S014,Active,sita.iyer23,,2024-01-29 20:51:44
+U2270,Kavya Pillai,2024-04-12,Delhi,Central,Jewellery,41,Free,79555.58,456011.18,7,S008,,,kavya.pillai16@outlook.com,2023-07-03 02:56:18
+U2151,Shaurya Yadav,2023-11-10,Coimbatore,South,Clothing,21,Premium,44920.79,458319.76,12,S006,Unknown,shaurya.yadav6,shaurya.yadav6@gmail.com,2023-12-27 09:07:45
+U2140,Varsha Venkatesh,2024-04-05,Mumbai,East,Home & Garden,41,Enterprise,26065.42,439056.97,14,S015,,varsha.venkatesh89,varsha.venkatesh89@yahoo.com,2023-06-12 05:38:53
+U2174,Reyansh Joshi,2023-06-19,Jaipur,Central,Home & Garden,30,Basic,26315.12,488017.98,12,S004,,reyansh.joshi1,reyansh.joshi1@outlook.com,2023-02-10 19:43:35
+U2053,Kavita Mehta,2023-08-13,Chennai,West,Sports,58,Free,86030.58,377701.8,1,S005,Pending,kavita.mehta49,kavita.mehta49@gmail.com,2023-04-20 00:45:32
+U2242,Reyansh Krishnamurthy,2023-03-02,Delhi,East,Sports,43,Premium,111565.54,116515.34,14,S001,,reyansh.krishnamurthy42,reyansh.krishnamurthy42@yahoo.com,2023-01-20 09:17:08
+U2043,Varsha Das,2024-07-06,Hyderabad,South,Sports,35,Premium,69851.91,127516.36,13,S001,,varsha.das69,varsha.das69@hotmail.com,2023-06-30 20:56:41
+U2009,Navya Naidu,2024-09-20,Hyderabad,North,Sports,36,Enterprise,36884.79,291363.05,8,S011,,navya.naidu96,navya.naidu96@yahoo.com,2024-05-18 00:50:42
+U2186,Sanjay Menon,2023-01-04,Surat,East,Mobiles,64,Premium,109564.14,351639.14,8,S016,,sanjay.menon80,sanjay.menon80@outlook.com,2024-09-27 22:31:07
+U2107,Advik Malhotra,2024-04-06,Kochi,Central,Sports,24,Premium,69641.93,113684.8,5,S012,,advik.malhotra66,advik.malhotra66@rediffmail.com,2024-12-18 07:43:39
+U2332,Aditya Tiwari,2024-09-20,Delhi,West,Jewellery,62,Enterprise,16691.31,106876.77,6,S002,,aditya.tiwari63,aditya.tiwari63@hotmail.com,2023-02-05 06:54:06
+U2191,Pihu Srinivasan,2023-07-14,Guwahati,North,Jewellery,19,Enterprise,21169.28,67499.31,6,S002,,pihu.srinivasan39,pihu.srinivasan39@rediffmail.com,
+U2336,Ritvik Krishnamurthy,2024-09-20,Mumbai,East,Electronics,56,Premium,58347.66,245053.17,9,S001,,ritvik.krishnamurthy32,ritvik.krishnamurthy32@gmail.com,2024-06-16 23:14:03
+U2301,Sita Das,2024-06-29,Pune,Central,Sports,27,Basic,139817.61,440265.92,9,S011,,sita.das91,sita.das91@gmail.com,2024-06-25 21:42:46
+U2263,Sonal Reddy,2023-04-15,Hyderabad,Central,Groceries,28,Enterprise,20606.67,28965.76,4,S002,,,sonal.reddy81@yahoo.com,2023-04-04 14:59:04
+U2163,Ananya Mishra,2023-05-06,Surat,South,Sports,44,Free,119145.53,245060.04,12,S002,Pending,,ananya.mishra79@yahoo.com,2023-05-04 19:31:18
+U2127,Arjun Reddy,2024-10-17,Bangalore,East,Toys,36,Basic,69784.73,405052.97,11,S018,Unknown,arjun.reddy5,arjun.reddy5@rediffmail.com,2023-09-20 04:53:34
+U2253,Kabir Verma,2023-06-14,Bangalore,East,Toys,29,Enterprise,,122031.73,6,S005,Pending,kabir.verma21,kabir.verma21@rediffmail.com,2024-07-27 10:02:04
+U2004,Jyoti Rao,2023-05-25,Chennai,East,Home & Garden,34,Premium,147737.67,194419.71,8,S005,,jyoti.rao61,,2023-06-18 05:18:57
+U2081,Divya Verma,2023-12-16,Chandigarh,East,Home & Garden,24,Enterprise,37123.44,207528.61,3,S014,,divya.verma19,divya.verma19@yahoo.com,2023-10-16 08:22:43
+U2255,Saanvi Krishnamurthy,2023-03-05,Nagpur,Central,Books,43,Premium,,328441.34,9,S007,,saanvi.krishnamurthy91,saanvi.krishnamurthy91@gmail.com,2023-05-19 20:06:07
+U2328,Prachi Chatterjee,2024-04-10,Surat,Central,Books,32,Premium,34491.17,398798.78,5,S011,Active,prachi.chatterjee35,prachi.chatterjee35@rediffmail.com,2023-07-31 12:20:05
+U2138,Ankita Pandey,2023-12-13,Nagpur,East,Books,24,Basic,134528.84,322966.7,7,S010,,ankita.pandey49,ankita.pandey49@outlook.com,2024-11-26 16:59:35
+U2176,Deepa Rao,2024-10-10,Mumbai,South,Clothing,57,Free,15316.64,116973.99,13,S015,,deepa.rao68,deepa.rao68@rediffmail.com,2024-11-23 03:58:01
+U2223,Tanvi Singh,2024-06-11,Mumbai,South,Jewellery,40,Free,683.3,36208.7,9,S005,Inactive,tanvi.singh91,tanvi.singh91@rediffmail.com,2024-08-14 13:57:53
+U2267,Pradeep Reddy,2024-02-20,Mumbai,West,Toys,52,Enterprise,45268.68,468527.35,4,S020,,pradeep.reddy54,pradeep.reddy54@yahoo.com,2024-07-01 12:29:43
+U2323,Atharv Mishra,2024-11-13,Delhi,South,Home & Garden,33,Enterprise,15685.76,407626.69,1,S007,,,atharv.mishra4@hotmail.com,2024-03-24 09:51:11
+U2001,Advik Patel,2024-07-09,Delhi,East,Toys,21,Enterprise,4977.44,323626.41,8,S001,Unknown,advik.patel67,advik.patel67@yahoo.com,2023-08-30 17:55:07
+U2278,Nisha Krishnamurthy,2023-11-26,Mumbai,East,Home & Garden,57,Basic,112142.5,,7,S005,,nisha.krishnamurthy25,nisha.krishnamurthy25@yahoo.com,2024-07-12 08:23:51
+U2097,Ritu Shah,2023-03-11,Hyderabad,West,Sports,37,Premium,33438.49,281523.22,14,S013,Active,,ritu.shah16@gmail.com,2023-05-13 13:07:30
+U2313,Mahesh Iyer,2023-03-30,Bangalore,North,Clothing,62,Basic,127263.72,183920.19,5,S010,,mahesh.iyer15,mahesh.iyer15@hotmail.com,2023-01-06 09:26:36
+U2291,Dhruv Tiwari,2023-10-14,Guwahati,West,Books,51,Enterprise,134706.27,355676.02,8,S016,Inactive,,dhruv.tiwari10@yahoo.com,2023-02-03 04:28:43
+U2025,Krishna Mishra,2024-01-10,Kolkata,East,Groceries,47,Enterprise,124281.51,452411.22,12,S015,,krishna.mishra81,krishna.mishra81@outlook.com,2024-09-01 06:50:29
+U2110,Lakshmi Venkatesh,2023-08-24,Delhi,West,Books,19,Basic,,439951.16,7,S006,Active,,lakshmi.venkatesh40@rediffmail.com,2023-08-07 23:37:02
+U2143,Uma Chauhan,2023-04-15,Bangalore,South,Sports,33,Enterprise,28558.37,478091.4,15,S001,,uma.chauhan7,uma.chauhan7@rediffmail.com,2024-07-12 21:48:18
+U2193,Ayaan Reddy,2024-04-03,Chennai,South,Jewellery,18,Free,1159.83,135873.74,4,S019,Unknown,ayaan.reddy72,ayaan.reddy72@rediffmail.com,2023-08-07 03:49:28
+U2267,Ananya Patil,2023-12-15,Surat,North,Mobiles,28,Premium,8754.43,359146.63,5,S011,,ananya.patil48,,2024-10-29 02:53:17
+U2344,Mansi Dubey,2024-12-28,Ahmedabad,North,Home & Garden,21,Basic,44594.09,299195.75,5,S009,,mansi.dubey1,mansi.dubey1@rediffmail.com,2023-03-30 04:08:08
+U2069,Advait Chowdhury,2023-11-25,Jaipur,South,Jewellery,51,Free,149145.46,56940.21,4,S016,Unknown,advait.chowdhury25,advait.chowdhury25@gmail.com,2024-12-05 18:14:17
+U2305,Karan Patel,2024-02-26,Surat,Central,Toys,39,Enterprise,147331.59,5565.93,2,S001,,karan.patel39,karan.patel39@yahoo.com,2024-05-13 01:15:25
+U2008,Rajesh Menon,2023-09-07,Chennai,Central,Jewellery,16,Enterprise,17193.39,141262.62,2,S015,Active,,rajesh.menon5@yahoo.com,2023-06-13 23:32:19
+U2235,Diya Yadav,2023-07-09,Hyderabad,North,Home & Garden,39,Free,82106.3,482840.25,5,S007,,diya.yadav6,,2024-05-24 13:03:34
+U2044,Asha Sharma,2023-03-13,Indore,West,Groceries,36,Enterprise,32545.51,204246.03,12,S008,Inactive,asha.sharma57,asha.sharma57@outlook.com,2023-05-06 18:33:04
+U2140,Sanjay Saxena,2023-02-17,Bangalore,North,Mobiles,45,Free,66984.34,285813.95,12,S007,,sanjay.saxena47,sanjay.saxena47@hotmail.com,2023-05-16 17:51:51
+U2246,Ahana Mishra,2023-11-07,Mumbai,North,Jewellery,20,Enterprise,38534.79,51738.27,9,S006,Unknown,ahana.mishra82,ahana.mishra82@outlook.com,2024-11-23 22:03:01
+U2001,Priya Chauhan,2024-09-01,Visakhapatnam,North,Electronics,30,Premium,143520.97,193380.09,5,S014,,priya.chauhan39,priya.chauhan39@hotmail.com,2024-08-23 06:12:39
+U2079,Aarush Mishra,2023-03-06,Kolkata,South,Groceries,43,Free,40932.68,202997.67,13,S009,Inactive,,aarush.mishra26@outlook.com,2024-01-10 12:09:16
+U2098,Nikhil Joshi,2023-10-20,Kolkata,Central,Home & Garden,32,Free,74629.63,228053.75,1,S009,Active,,nikhil.joshi87@outlook.com,2023-08-29 19:06:32
+U2273,Sonal Menon,2024-03-14,Mumbai,South,Groceries,54,Premium,108462.3,486902.87,12,S011,,sonal.menon88,sonal.menon88@yahoo.com,2024-06-26 08:43:25
+U2211,Vihaan Dubey,2024-04-25,Bangalore,West,Home & Garden,62,Premium,111505.62,324238.95,12,S010,Inactive,vihaan.dubey50,vihaan.dubey50@hotmail.com,2023-04-29 02:40:12
+U2024,Sita Chauhan,2024-01-31,Chennai,Central,Groceries,31,Enterprise,26954.0,497760.75,6,S016,Pending,sita.chauhan29,sita.chauhan29@hotmail.com,2024-07-31 14:37:34
+U2197,Swati Yadav,2024-11-15,Hyderabad,East,Groceries,55,Premium,32809.35,369234.02,7,S013,,swati.yadav92,swati.yadav92@hotmail.com,2024-09-28 08:28:59
+U2170,Rekha Agarwal,2023-07-16,Chennai,South,Mobiles,22,Premium,16808.92,159674.75,8,S007,,rekha.agarwal26,rekha.agarwal26@outlook.com,2023-07-12 04:37:13
+U2136,Rajesh Iyer,2024-08-20,Kanpur,South,Clothing,51,Free,,245327.38,15,S015,Active,,rajesh.iyer82@hotmail.com,2023-12-18 03:32:18
+U2325,Atharv Dubey,2024-07-19,Chennai,West,Books,46,Enterprise,119342.61,441725.81,6,S016,,atharv.dubey59,atharv.dubey59@hotmail.com,2024-05-16 04:08:23
+U2047,Sneha Nair,2024-06-23,Chennai,South,Books,63,Enterprise,72044.32,93516.93,6,S020,Unknown,sneha.nair79,sneha.nair79@outlook.com,2023-11-22 22:26:52
+U2116,Ritvik Srinivasan,2024-08-15,Pune,Central,Clothing,16,Free,22917.0,86155.67,6,S015,Pending,ritvik.srinivasan35,ritvik.srinivasan35@hotmail.com,2024-07-16 02:21:17
+U2019,Sai Pandey,2024-09-05,Guwahati,South,Electronics,36,Enterprise,27853.25,101863.2,13,S016,Unknown,sai.pandey33,sai.pandey33@rediffmail.com,2024-02-19 18:25:43
+U2083,Advik Mukherjee,2024-11-14,Ahmedabad,West,Mobiles,41,Free,53556.56,183103.07,6,S018,Pending,,advik.mukherjee63@rediffmail.com,2023-02-19 22:28:02
+U2077,Mansi Singh,2024-02-22,Chandigarh,West,Jewellery,19,Premium,109902.39,374492.96,8,S012,Unknown,mansi.singh52,mansi.singh52@rediffmail.com,2024-11-28 09:36:14
+U2043,Karan Patel,2023-11-10,Lucknow,Central,Jewellery,57,Basic,30705.01,63360.78,6,S017,Unknown,karan.patel46,karan.patel46@rediffmail.com,2023-01-18 09:12:54
+U2141,Sonal Gupta,2024-11-21,Visakhapatnam,Central,Toys,36,Free,50254.04,147140.92,15,S008,Active,sonal.gupta86,,2024-04-03 23:35:44
+U2059,Divya Srinivasan,2024-10-16,Hyderabad,North,Books,35,Free,148622.8,,14,S005,Active,divya.srinivasan48,divya.srinivasan48@outlook.com,2024-10-13 00:44:32
+U2137,Sonal Malhotra,2023-05-08,Hyderabad,East,Books,46,Enterprise,38227.74,313028.25,14,S016,,sonal.malhotra21,sonal.malhotra21@yahoo.com,2024-10-31 05:06:13
+U2106,Krishna Gupta,2024-12-06,Delhi,Central,Home & Garden,39,Premium,48773.16,62336.6,2,S016,,,krishna.gupta86@hotmail.com,2023-06-30 22:09:45
+U2249,Ramesh Malhotra,2024-08-16,Chennai,West,Jewellery,63,Free,42709.82,485072.51,12,S008,Pending,ramesh.malhotra68,ramesh.malhotra68@gmail.com,2023-03-18 22:43:08
+U2270,Prachi Nair,2023-05-31,Delhi,East,Sports,64,Enterprise,45852.44,309841.4,6,S011,Active,prachi.nair50,prachi.nair50@outlook.com,2024-06-28 23:16:27
+U2349,Diya Singh,2024-09-16,Hyderabad,South,Electronics,29,Free,,219650.33,7,S005,,diya.singh41,diya.singh41@gmail.com,2023-08-24 02:53:45
+U2282,Diya Nair,2023-10-28,Hyderabad,South,Groceries,65,Basic,69571.94,,8,S002,,diya.nair95,diya.nair95@yahoo.com,2024-09-24 04:16:09
+U2006,Kavya Patel,2024-11-15,Guwahati,North,Toys,35,Free,148248.17,110772.87,1,S016,Pending,kavya.patel69,kavya.patel69@gmail.com,2024-08-07 19:41:32
+U2044,Asha Verma,2023-06-27,Hyderabad,South,Electronics,34,Enterprise,17321.46,192921.57,7,S003,Active,asha.verma32,asha.verma32@outlook.com,2023-08-09 06:26:32
+U2323,Nisha Tiwari,2023-10-31,Delhi,East,Toys,16,Basic,64561.25,374600.21,7,S008,,nisha.tiwari65,nisha.tiwari65@rediffmail.com,2024-06-11 20:35:50
+U2127,Ananya Chowdhury,2023-03-02,Bangalore,West,Clothing,28,Free,102966.17,241492.47,12,S008,Active,ananya.chowdhury34,ananya.chowdhury34@hotmail.com,2023-04-14 14:44:19
+U2191,Pradeep Joshi,2024-11-24,Kochi,Central,Electronics,51,Free,76183.22,231118.24,7,S006,,pradeep.joshi18,pradeep.joshi18@gmail.com,2023-10-02 12:36:29
+U2270,Nisha Patel,2023-10-17,Chennai,South,Toys,51,Premium,37452.99,476852.61,8,S020,,,nisha.patel6@yahoo.com,
+U2024,Vivaan Singh,2023-03-24,Lucknow,South,Home & Garden,41,Free,30531.0,195514.16,12,S016,Inactive,,vivaan.singh49@gmail.com,
+U2247,Lakshmi Sinha,2024-04-16,Mumbai,South,Toys,50,Free,28154.23,394382.28,15,S001,Pending,lakshmi.sinha62,lakshmi.sinha62@rediffmail.com,2024-11-17 13:46:05
+U2209,Tanvi Gupta,2023-10-07,Mumbai,Central,Home & Garden,64,Free,17144.32,301384.85,11,S017,,,tanvi.gupta39@outlook.com,2024-01-24 14:58:34
+U2030,Reyansh Nair,2023-07-08,Delhi,South,Sports,29,Enterprise,110667.92,118616.46,7,S005,Inactive,reyansh.nair17,reyansh.nair17@rediffmail.com,2023-05-13 12:05:53
+U2308,Ira Ghosh,2024-06-15,Delhi,East,Sports,23,Premium,5175.46,457827.86,5,S019,Pending,,ira.ghosh20@gmail.com,2024-01-29 02:50:49
+U2128,Neha Krishnamurthy,2023-05-08,Visakhapatnam,Central,Jewellery,62,Basic,113628.44,140630.53,1,S018,Active,neha.krishnamurthy29,neha.krishnamurthy29@hotmail.com,2023-05-28 15:42:05
+U2333,Meena Menon,2024-11-09,Bangalore,South,Toys,49,Enterprise,139419.14,248465.77,4,S009,,meena.menon60,meena.menon60@outlook.com,2024-12-23 07:02:27
+U2325,Atharv Dubey,2024-07-19,Chennai,West,Books,46,Enterprise,119342.61,441725.81,6,S016,,atharv.dubey59,atharv.dubey59@hotmail.com,2024-05-16 04:08:23
+U2036,Arjun Kapoor,2023-11-26,Chennai,North,Groceries,39,Premium,49041.36,394799.85,5,S017,,arjun.kapoor72,,2023-01-02 14:44:20
+U2342,Ahana Nair,2023-03-16,Lucknow,South,Sports,63,Enterprise,760.49,352254.78,3,S007,Pending,ahana.nair28,ahana.nair28@rediffmail.com,2023-02-02 18:18:55
+U2063,Priya Pandey,2023-10-19,Bangalore,Central,Books,46,Basic,129398.62,180300.69,10,S007,,priya.pandey59,priya.pandey59@rediffmail.com,2023-01-08 15:27:06
+U2105,Mahesh Agarwal,2024-06-11,Mumbai,South,Clothing,59,Free,148818.47,356654.52,1,S009,Active,mahesh.agarwal10,mahesh.agarwal10@rediffmail.com,2024-02-05 03:32:49
+U2060,Pranav Kumar,2023-05-02,Chandigarh,North,Home & Garden,53,Basic,90531.54,280739.25,10,S010,Unknown,pranav.kumar84,pranav.kumar84@hotmail.com,2024-04-03 01:51:08
+U2009,Tanya Das,2024-08-02,Chennai,West,Sports,48,Premium,92095.11,91788.7,6,S005,,tanya.das48,tanya.das48@outlook.com,2023-04-26 08:24:05
+U2094,Jyoti Patil,2023-07-29,Visakhapatnam,East,Groceries,26,Premium,115721.44,358196.7,12,S010,Pending,jyoti.patil25,,2023-03-11 05:38:04
+U2030,Rajesh Yadav,2024-10-12,Ahmedabad,West,Groceries,64,Free,75084.33,364157.26,2,S007,Pending,rajesh.yadav36,rajesh.yadav36@outlook.com,2023-11-23 08:06:12
+U2133,Prachi Chowdhury,2024-05-22,Chandigarh,East,Home & Garden,60,Premium,86014.07,3863.92,8,S010,Pending,prachi.chowdhury28,,2024-10-02 02:11:43
+U2128,Asha Nair,2024-07-10,Delhi,Central,Books,22,Enterprise,107622.68,319702.79,14,S012,Unknown,asha.nair5,asha.nair5@yahoo.com,2024-08-15 09:47:20
+U2127,Ananya Chowdhury,2023-03-02,Bangalore,West,Clothing,28,Free,102966.17,241492.47,12,S008,Active,ananya.chowdhury34,ananya.chowdhury34@hotmail.com,2023-04-14 14:44:19
+U2206,Radha Yadav,2024-04-20,Guwahati,South,Home & Garden,27,Premium,119928.73,448492.61,1,S015,Inactive,radha.yadav46,radha.yadav46@gmail.com,2023-03-31 12:04:29
+U2262,Rekha Malhotra,2023-04-14,Guwahati,North,Books,61,Enterprise,53478.52,295455.81,8,S009,Inactive,rekha.malhotra42,rekha.malhotra42@gmail.com,2024-05-25 05:06:09
+U2221,Sita Iyer,2023-05-10,Hyderabad,Central,Clothing,22,Basic,8691.58,19095.27,9,S014,Active,sita.iyer23,,2024-01-29 20:51:44
+U2281,Lakshmi Das,2024-12-25,Bangalore,Central,Toys,48,Basic,110860.07,52122.82,7,S007,Active,lakshmi.das9,lakshmi.das9@outlook.com,2024-10-10 22:05:50
+U2133,Sai Agarwal,2024-05-29,Hyderabad,West,Toys,36,Enterprise,128044.37,256880.15,12,S005,,sai.agarwal19,sai.agarwal19@gmail.com,2024-10-04 12:09:14
+U2348,Riya Mukherjee,2023-09-07,Kanpur,North,Jewellery,49,Enterprise,139534.2,390161.4,12,S010,Pending,,,2024-08-13 01:06:01
+U2218,Arjun Sharma,2023-01-14,Lucknow,South,Books,43,Enterprise,22702.53,305312.57,3,S005,Unknown,arjun.sharma77,arjun.sharma77@gmail.com,2023-05-22 05:13:31
+U2346,Aarav Shah,2024-04-03,Guwahati,East,Books,31,Premium,115763.23,107015.31,7,S015,,aarav.shah78,aarav.shah78@hotmail.com,2023-05-11 00:29:53
+U2291,Dhruv Tiwari,2023-10-14,Guwahati,West,Books,51,Enterprise,134706.27,355676.02,8,S016,Inactive,,dhruv.tiwari10@yahoo.com,2023-02-03 04:28:43
+U2145,Ananya Bose,2023-08-01,Hyderabad,East,Home & Garden,18,Enterprise,86994.3,389943.63,11,S013,Inactive,ananya.bose86,ananya.bose86@yahoo.com,2024-03-02 02:29:46
+U2025,Ayaan Shah,2023-06-01,Bangalore,North,Jewellery,47,Free,130641.03,258493.78,10,S004,,ayaan.shah62,ayaan.shah62@rediffmail.com,2024-06-19 06:31:10
+U2044,Asha Verma,2023-06-27,Hyderabad,South,Electronics,34,Enterprise,17321.46,192921.57,7,S003,Active,asha.verma32,asha.verma32@outlook.com,2023-08-09 06:26:32
+U2040,Rahul Mishra,2023-03-31,Coimbatore,West,Home & Garden,27,Basic,100517.94,96251.51,5,S007,Active,,rahul.mishra77@outlook.com,2024-12-12 16:06:07
+U2064,Aditya Banerjee,2024-04-29,Mumbai,South,Mobiles,30,Premium,82958.37,35425.18,5,S014,Pending,aditya.banerjee47,aditya.banerjee47@gmail.com,2023-03-17 19:08:08
+U2094,Advik Iyer,2023-06-16,Bangalore,South,Groceries,49,Basic,142917.93,92595.27,7,S003,Pending,advik.iyer68,advik.iyer68@gmail.com,2023-02-19 12:30:42
+U2284,Pranav Malhotra,2023-01-31,Delhi,East,Electronics,54,Enterprise,105426.54,434789.16,12,S006,Active,pranav.malhotra33,pranav.malhotra33@hotmail.com,2023-04-05 09:43:36
+U2256,Riya Malhotra,2023-09-03,Bangalore,North,Home & Garden,51,Premium,5002.5,463384.28,6,S017,Unknown,riya.malhotra73,riya.malhotra73@rediffmail.com,2023-09-24 18:45:33
+U2104,Sneha Mehta,2023-12-04,Kolkata,West,Toys,41,Enterprise,135206.87,12989.55,10,S019,Pending,sneha.mehta86,sneha.mehta86@outlook.com,2023-02-20 13:27:48
+U2302,Aarav Sinha,2023-08-02,Surat,South,Groceries,29,Premium,54635.41,465282.82,12,S002,,aarav.sinha19,aarav.sinha19@yahoo.com,2024-01-15 02:13:10
+U2029,Sunita Tiwari,2023-07-04,Indore,South,Jewellery,25,Free,37088.87,,10,S010,,sunita.tiwari95,,2024-01-10 17:15:52
+U2314,Ramesh Pandey,2024-07-12,Hyderabad,South,Groceries,42,Basic,105941.66,105042.54,8,S016,,,ramesh.pandey16@hotmail.com,2023-04-28 04:49:06
+U2242,Reyansh Krishnamurthy,2023-03-02,Delhi,East,Sports,43,Premium,111565.54,116515.34,14,S001,,reyansh.krishnamurthy42,reyansh.krishnamurthy42@yahoo.com,2023-01-20 09:17:08
+U2052,Rajesh Kumar,2023-11-28,Bangalore,West,Books,41,Basic,61817.47,412260.17,14,S014,Inactive,rajesh.kumar3,rajesh.kumar3@rediffmail.com,2023-06-26 00:29:41
+U2105,Riya Patel,2024-03-13,Chennai,Central,Jewellery,22,Basic,11179.2,135243.36,7,S019,Active,,riya.patel58@rediffmail.com,2023-06-07 11:30:15
+U2180,Radha Reddy,2023-05-06,Jaipur,Central,Mobiles,20,Free,2764.02,444718.61,15,S003,Inactive,radha.reddy5,radha.reddy5@rediffmail.com,2023-06-06 08:58:07
+U2103,Saanvi Shukla,2023-06-13,Lucknow,South,Toys,37,Basic,127804.0,490834.01,14,S018,Pending,saanvi.shukla96,,
+U2226,Prachi Reddy,2024-05-08,Nagpur,West,Jewellery,54,Premium,102254.24,393967.37,5,S005,Pending,prachi.reddy7,prachi.reddy7@yahoo.com,2023-05-07 09:26:51
+U2267,Pooja Malhotra,2024-01-01,Hyderabad,Central,Home & Garden,53,Basic,93627.04,67547.4,15,S008,,,,2024-11-07 17:56:26
+U2316,Karan Yadav,2024-10-20,Chennai,West,Mobiles,24,Premium,87650.82,341511.11,12,S008,Active,,karan.yadav93@hotmail.com,2023-10-20 12:40:23
+U2279,Myra Krishnamurthy,2024-06-06,Kolkata,North,Books,20,Basic,74652.54,111653.02,11,S002,,,myra.krishnamurthy56@hotmail.com,2024-02-04 14:07:57
+U2072,Deepa Mishra,2023-03-20,Bangalore,Central,Mobiles,48,Basic,149737.84,21876.48,3,S016,Inactive,deepa.mishra41,deepa.mishra41@hotmail.com,2024-03-07 04:00:59
+U2342,Pihu Bose,2023-01-30,Chennai,East,Electronics,48,Enterprise,30187.3,331967.86,6,S006,Active,pihu.bose71,pihu.bose71@hotmail.com,2023-05-14 18:12:19
+U2135,Varsha Rao,2024-12-29,Hyderabad,North,Clothing,32,Basic,,97659.77,7,S011,Unknown,,varsha.rao39@outlook.com,2024-02-07 04:37:33
+U2038,Deepa Joshi,2024-02-02,Indore,East,Clothing,61,Premium,18842.83,236992.91,12,S015,,deepa.joshi84,deepa.joshi84@gmail.com,2023-09-20 02:05:12
+U2050,Uma Saxena,2024-01-07,Kochi,South,Groceries,59,Premium,114523.49,254551.74,11,S008,,uma.saxena82,uma.saxena82@hotmail.com,2024-11-17 08:39:40
+U2061,Vikram Rao,2024-10-22,Chennai,East,Books,26,Basic,33546.63,112073.4,5,S002,Inactive,,vikram.rao83@hotmail.com,2024-08-21 23:34:59
+U2340,Nikhil Rao,2024-08-30,Surat,East,Books,65,Premium,86058.45,88695.48,8,S018,,nikhil.rao56,nikhil.rao56@yahoo.com,2023-04-16 09:35:55
+U2028,Ritvik Chowdhury,2024-07-21,Jaipur,East,Jewellery,25,Free,10859.69,89244.53,1,S005,,ritvik.chowdhury58,,2024-07-01 20:10:08
+U2240,Diya Kumar,2023-09-19,Bangalore,North,Toys,43,Enterprise,126422.69,465452.3,15,S011,,diya.kumar79,diya.kumar79@outlook.com,2024-04-02 22:41:19
+U2028,Meena Yadav,2024-07-20,Bangalore,Central,Mobiles,17,Enterprise,,452143.1,8,S011,,,meena.yadav39@gmail.com,2023-05-21 18:09:57
+U2128,Sneha Nair,2023-01-15,Indore,East,Electronics,29,Enterprise,122195.45,28828.47,15,S014,,sneha.nair20,sneha.nair20@gmail.com,2023-12-23 19:15:53
+U2205,Sunita Tiwari,2024-03-02,Kanpur,North,Groceries,21,Premium,28866.37,314297.99,7,S017,,sunita.tiwari5,sunita.tiwari5@outlook.com,2023-12-14 21:05:24
+U2123,Advik Mishra,2023-08-27,Chennai,East,Clothing,18,Free,127575.67,230217.5,4,S007,Pending,advik.mishra91,advik.mishra91@yahoo.com,2023-11-07 06:10:39
+U2305,Anika Banerjee,2023-04-29,Mumbai,East,Jewellery,38,Premium,,212770.18,3,S018,,,anika.banerjee66@rediffmail.com,2023-01-03 03:44:30
+U2173,Kabir Dubey,2023-07-25,Kanpur,North,Electronics,19,Premium,130612.97,473613.09,15,S003,,kabir.dubey5,,2023-07-19 18:26:17
+U2060,Vivaan Tiwari,2024-11-25,Delhi,West,Jewellery,49,Free,81885.06,295245.69,11,S006,Pending,vivaan.tiwari36,vivaan.tiwari36@outlook.com,2023-10-02 13:20:31
+U2145,Sanjay Shah,2024-03-09,Delhi,Central,Clothing,65,Basic,121882.33,90023.36,4,S003,Active,sanjay.shah11,sanjay.shah11@yahoo.com,2024-09-05 07:19:06
+U2242,Aditya Patel,2023-06-03,Bangalore,East,Toys,34,Enterprise,13570.29,477413.37,15,S008,Inactive,aditya.patel60,aditya.patel60@yahoo.com,2024-12-30 18:54:53
+U2342,Karan Chatterjee,2023-12-27,Delhi,Central,Home & Garden,49,Premium,111517.51,237724.16,13,S005,Pending,,karan.chatterjee44@rediffmail.com,2023-11-05 17:48:51
+U2000,Dhruv Kapoor,2024-12-05,Kanpur,Central,Groceries,49,Premium,112615.62,162436.63,6,S013,,,dhruv.kapoor78@yahoo.com,2024-10-02 22:01:41
+U2221,Vikram Reddy,2023-11-17,Mumbai,West,Sports,41,Basic,63594.62,310860.07,7,S017,,vikram.reddy59,vikram.reddy59@hotmail.com,2023-10-29 22:03:00
+U2314,Radha Bose,2023-03-22,Chennai,East,Groceries,53,Enterprise,54918.35,336344.86,6,S012,,radha.bose49,radha.bose49@outlook.com,2024-01-01 12:20:32
+U2107,Ritvik Chauhan,2024-10-11,Chennai,Central,Groceries,40,Free,95246.35,18131.55,12,S020,,ritvik.chauhan14,ritvik.chauhan14@gmail.com,2023-11-11 15:10:31
+U2115,Aarush Pandey,2024-03-03,Hyderabad,South,Sports,46,Free,32853.27,161118.05,8,S001,Inactive,,aarush.pandey31@rediffmail.com,2024-09-11 06:37:47
+U2203,Ayaan Saxena,2023-02-20,Pune,Central,Groceries,34,Enterprise,17757.06,408099.95,3,S004,Unknown,ayaan.saxena75,,2024-03-14 08:35:15
+U2095,Meena Shukla,2024-05-06,Guwahati,East,Books,29,Free,34142.39,52322.06,14,S008,Pending,meena.shukla98,meena.shukla98@rediffmail.com,2024-08-23 22:37:25
+U2049,Ahana Mukherjee,2024-04-22,Lucknow,South,Mobiles,17,Enterprise,34724.36,305658.66,10,S004,,,ahana.mukherjee6@hotmail.com,2024-08-06 18:01:42
+U2177,Neha Ghosh,2024-03-16,Indore,Central,Electronics,19,Enterprise,19072.74,248293.93,10,S013,,neha.ghosh98,neha.ghosh98@yahoo.com,2023-07-25 12:49:31
+U2070,Vivaan Chauhan,2024-03-31,Bhopal,West,Electronics,53,Premium,96809.15,197310.61,11,S002,,,,2024-03-06 18:16:43
+U2053,Sanjay Saxena,2023-01-21,Bangalore,North,Clothing,23,Enterprise,78859.82,,4,S018,Inactive,sanjay.saxena56,sanjay.saxena56@rediffmail.com,2024-01-21 11:04:42
+U2146,Sanjay Joshi,2024-02-09,Lucknow,North,Electronics,26,Enterprise,4823.36,466430.92,12,S018,,sanjay.joshi52,sanjay.joshi52@yahoo.com,2023-11-20 04:13:27
+U2335,Arjun Chatterjee,2023-01-14,Delhi,East,Mobiles,61,Free,27797.97,,1,S014,Unknown,arjun.chatterjee13,,2023-01-31 14:05:09
+U2301,Diya Sharma,2024-10-27,Chennai,Central,Electronics,48,Enterprise,39223.51,295090.41,15,S011,Active,,diya.sharma7@yahoo.com,2023-10-24 10:21:53
+U2288,Lakshmi Malhotra,2024-11-26,Bangalore,East,Books,43,Enterprise,12540.76,362659.69,11,S016,Inactive,lakshmi.malhotra52,lakshmi.malhotra52@gmail.com,2024-05-14 13:16:13
+U2089,Myra Venkatesh,2024-11-11,Hyderabad,Central,Sports,54,Premium,78042.27,44542.8,9,S015,,myra.venkatesh42,myra.venkatesh42@rediffmail.com,2023-11-16 22:00:46
+U2250,Nisha Patel,2023-05-16,Bangalore,North,Electronics,32,Basic,140807.15,104918.59,11,S008,,,nisha.patel66@hotmail.com,2024-08-11 16:20:27
+U2052,Tanvi Menon,2024-09-17,Chennai,Central,Clothing,44,Premium,38008.3,271842.96,10,S001,Inactive,tanvi.menon53,tanvi.menon53@gmail.com,2024-07-29 01:28:27
+U2301,Diya Sharma,2024-10-27,Chennai,Central,Electronics,48,Enterprise,39223.51,295090.41,15,S011,Active,,diya.sharma7@yahoo.com,2023-10-24 10:21:53
+U2221,Divya Gupta,2023-08-08,Chennai,North,Home & Garden,58,Enterprise,106249.06,228395.64,9,S012,,divya.gupta39,divya.gupta39@hotmail.com,2023-04-24 22:40:21
+U2071,Sonal Verma,2024-03-06,Kochi,West,Electronics,18,Premium,93176.79,311810.66,11,S018,,sonal.verma29,sonal.verma29@rediffmail.com,
+U2138,Uma Reddy,2024-06-10,Bangalore,North,Electronics,19,Enterprise,98050.21,363088.28,9,S005,,uma.reddy96,uma.reddy96@yahoo.com,2023-04-27 00:22:57
+U2240,Deepa Mukherjee,2023-01-09,Coimbatore,North,Electronics,33,Premium,201.54,345686.25,15,S019,Active,deepa.mukherjee94,deepa.mukherjee94@gmail.com,2024-03-18 03:00:43
+U2117,Deepa Iyer,2024-06-19,Delhi,Central,Sports,27,Enterprise,43209.73,,12,S001,Pending,deepa.iyer14,deepa.iyer14@hotmail.com,2024-01-10 21:36:50
+U2214,Tanvi Shukla,2024-08-21,Hyderabad,North,Mobiles,32,Premium,52841.3,278714.41,10,S003,Active,tanvi.shukla5,,2024-12-07 18:04:08
+U2224,Uma Pillai,2023-06-09,Visakhapatnam,North,Books,23,Basic,41709.44,359114.06,13,S008,Pending,,uma.pillai19@rediffmail.com,2024-04-08 21:48:01
+U2129,Reyansh Yadav,2023-11-14,Chennai,East,Electronics,63,Premium,43716.65,208959.95,6,S002,Inactive,reyansh.yadav67,,2024-03-16 11:54:17
+U2017,Meena Shukla,2023-10-13,Lucknow,South,Sports,61,Basic,40523.18,64071.65,8,S015,,meena.shukla56,meena.shukla56@yahoo.com,2023-10-20 17:48:21
+U2075,Divya Naidu,2024-03-13,Bangalore,Central,Clothing,44,Premium,17197.0,87662.81,2,S012,Active,,divya.naidu51@hotmail.com,2024-06-07 04:14:17
+U2338,Uma Desai,2024-03-25,Lucknow,South,Mobiles,57,Enterprise,,215473.98,2,S017,,uma.desai57,uma.desai57@rediffmail.com,2024-04-08 14:50:10
+U2038,Tanya Krishnamurthy,2023-03-19,Ahmedabad,West,Mobiles,56,Free,124688.9,22657.25,10,S002,Unknown,tanya.krishnamurthy11,tanya.krishnamurthy11@hotmail.com,2023-12-23 17:12:44
+U2264,Aarav Patil,2023-07-27,Pune,East,Jewellery,55,Premium,134787.61,200787.1,10,S015,,aarav.patil66,,2023-05-10 20:34:53
